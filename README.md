@@ -93,10 +93,12 @@ Depending on the modality (or madalities) of the data used, GUT-AI has applicati
 - Medical Imaging
 - Multimodal Learning
 - Natural Language Processing
+- Physics
 - Robotics
 - Recommender Systems
 - Sequential Data (including Time Series)
 - Speech Processing
+- Transportation
 
 ## License
 
