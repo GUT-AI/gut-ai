@@ -7,19 +7,19 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 <!-- MarkdownTOC -->
 
 * [Layer 1 components](#layer-1-components)
-  * [Research Proposal](#research-proposal)
-  * [Whitepaper](#whitepaper)
-  * [Selected publications](#selected-publications)
+  * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
+  * [Component C1.2: CI/CD](#component-c12-cicd)
 * [Layer 2 components](#layer-2-components)
-  * [Landing page](#landing-page)
-  * [Project page](#project-page)
-  * [List of components](#list-of-components)
-  * [Environment simulators](#environment-simulators)
-  * [Datasets](#datasets)
-  * [Model Zoos](#model-zoos)
+  * [Component C2.1: AutoDS](#component-c21-autods)
+  * [Component C2.2: AutoML](#component-c22-automl)
+  * [Component C2.3: Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
+  * [Component C2.4: NAS](#component-c24-nas)
+  * [Component C2.5: Continual Learning](#component-c25-continual-learning)
 * [Layer 3 components](#layer-3-components)
-  * [Industries](#industries)
-  * [Areas of application](#areas-of-application)
+  * [Component 3.1: Grounded QA](#component-c31-grounded-qa)
+  * [Component 3.2: Multi-Robot Path Planning](#component-c32-multi-robot-path-planning)
+  * [Component 3.3: VSPT](#component-c33-vspt)
+  * [Component 3.4: Automated Scientific Discovery](#component-c34-automated-scientific-discovery)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -28,16 +28,16 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 
 ### Component C1.1: Automated Data Preparation
 
-__Description:__ TODO
+__Description:__ Perform Automated Data Preparation.
 
 __Aims:__
-1. Data Collection
-1. Data Synthesis / Data Simulation / Adversarial Learning
-1. Data Fusion and Data Integration
-1. Data Wrangling / Data Munging
-1. Data Scraping
-1. Data Sampling
-1. Data Cleaning
+* Data Collection
+* Data Synthesis / Data Simulation / Adversarial Learning
+* Data Fusion and Data Integration
+* Data Wrangling / Data Munging
+* Data Scraping
+* Data Sampling
+* Data Cleaning
 
 ### Component C1.2: CI/CD
 
