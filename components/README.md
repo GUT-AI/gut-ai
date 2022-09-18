@@ -45,6 +45,12 @@ __Description:__ TODO
 
 __Aims:__ TODO
 
+### Component C1.3: Distributed Systems for ML
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
 ## Layer 2 components
 
 ### Component C2.1: AutoDS
