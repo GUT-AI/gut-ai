@@ -62,8 +62,9 @@ __Aims:__
 * User of containers (e.g. Docker)
 * User of orchestration (e.g. Kubernetes)
 * Use of microservices
-* Use Synchronous Communication (e.g. REST, GraphQL)
-* Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
+* Support for Synchronous Communication (e.g. REST, GraphQL)
+* Support for Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
+* Support for Databases (SQL and NoSQL), Data Warehouses and Data Lakes
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
