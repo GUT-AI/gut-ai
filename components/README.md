@@ -9,6 +9,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
   * [Component C1.2: CI/CD](#component-c12-cicd)
+  * [Component C1.3: Distributed Systems for ML](#component-c13-distributed-systems-for-ml)
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
