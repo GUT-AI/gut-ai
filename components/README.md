@@ -10,6 +10,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
   * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
   * [Component C1.2: CI/CD](#component-c12-cicd)
   * [Component C1.3: Distributed Systems for ML](#component-c13-distributed-systems-for-ml)
+  * [Component C1.4: DX](#component-c14-dx)
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
@@ -48,7 +49,7 @@ __Aims:__
 * Reproducibility
 * Replicability
 * Automatic Configurations (with default, but adjustable values)
-* User of container
+* User of containers
 * User of orchestration
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
@@ -56,7 +57,7 @@ __Aims:__
 
 ### Component C1.3: Distributed Systems for ML
 
-__Description:__ TODO
+__Description:__ Introduce and perform Distributed Systems that are specific to __Gradient-Based Optimization__ methods.
 
 __Aims:__ TODO
 
@@ -65,7 +66,7 @@ __Aims:__ TODO
 __Description:__ Enhance Developer Experience to make it developer-friendly for almost anyone who can write code at any level.
 
 __Aims:__ 
-* User-friendly User Interfaces and Dashboards
+* User-friendly User Interface (UI) and Dashboards
 * Separation of concerns
 * User-friendly configurations (e.g. using `yaml` and `json`)
 
