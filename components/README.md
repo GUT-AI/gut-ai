@@ -9,14 +9,15 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
   * [Component C1.2: CI/CD](#component-c12-cicd)
-  * [Component C1.3: Distributed Systems for ML](#component-c13-distributed-systems-for-ml)
-  * [Component C1.4: DX](#component-c14-dx)
+  * [Component C1.3: DX](#component-c13-dx)
+  * [Component C1.4: Marketplace](#marketplace)
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
   * [Component C2.3: Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
   * [Component C2.4: NAS](#component-c24-nas)
   * [Component C2.5: Continual Learning](#component-c25-continual-learning)
+  * [Component C2.6: Distributed Systems for ML](#component-c26-distributed-systems-for-ml)
 * [Layer 3 components](#layer-3-components)
   * [Component 3.1: Grounded QA](#component-c31-grounded-qa)
   * [Component 3.2: Multi-Robot Path Planning](#component-c32-multi-robot-path-planning)
@@ -30,7 +31,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 
 ### Component C1.1: Automated Data Preparation
 
-__Description:__ Perform Automated Data Preparation.
+__Description:__ Perform Automated Data Preparation using AI.
 
 __Aims:__
 * Data Collection
@@ -43,7 +44,7 @@ __Aims:__
 
 ### Component C1.2: CI/CD
 
-__Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems.
+__Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
 __Aims:__ 
 * Reproducibility
@@ -52,27 +53,26 @@ __Aims:__
 * Data Version Control (for both datasets and pretrained models)
 * Automatic Configurations (with default, but adjustable values)
 * Machine Resource Management
-* Serving Infrastracture
-* Diagnostics
+* Workflow Management (e.g. Airflow, Kubeflow, MLflow)
+* Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Governance and Regulatory Compliance (e.g. GDPR, HIPAA, ISOs)
 * Monitoring and Reporting
+* Diagnostics
 * Testing (for both code and data)
-* User of containers
-* User of orchestration
+* User of containers (e.g. Docker)
+* User of orchestration (e.g. Kubernetes)
+* Use of microservices
+* Use Synchronous Communication (e.g. REST, GraphQL)
+* Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
-* API for direct integration to IaaS, PaaS, SaaS providers
+* Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
 * Automation, MLOps, DataOps, MoodelOps, DevOps
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the technical debt
 
-### Component C1.3: Distributed Systems for ML
 
-__Description:__ Introduce and perform Distributed Systems that are specific to __Gradient-Based Optimization__ methods.
-
-__Aims:__ TODO
-
-### Component C1.4: DX
+### Component C1.3: DX
 
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
@@ -82,19 +82,27 @@ __Aims:__
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the cultural debt or improving the DX
 
+### Component C1.4: Marketplace
+
+__Description:__ Create a Marketplace for products (datasets, pretrained models) and services (Data Scientists, Data Engineers, Machine Learning Engineers and other Contractors).
+
+__Aims:__ TODO
+
 ## Layer 2 components
 
 ### Component C2.1: AutoDS
 
 __Description:__ TODO
 
-__Aims:__ TODO
+__Aims:__
+
 
 ### Component C2.2: AutoML
 
 __Description:__ TODO
 
-__Aims:__ TODO
+__Aims:__
+* Automated Model Retraining
 
 ### Component C2.3: Automated Data Preprocessing
 
@@ -113,6 +121,15 @@ __Aims:__ TODO
 __Description:__ TODO
 
 __Aims:__ TODO
+
+
+### Component C2.6: Distributed Systems for ML
+
+__Description:__ Introduce and perform Distributed Systems for ML and especially for __Gradient-Based Optimization__ methods.
+
+__Aims:__ 
+* Use generic Distributed Systems (e.g. Horovod)
+* Use ML-specific architectures (similar to Petuum)
 
 ## Layer 3 components
 
