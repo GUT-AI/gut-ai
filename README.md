@@ -8,9 +8,18 @@ __Summary:__ Documents and meta files about GUT-AI.
 <summary><b>Table of Contents</b> (click to open)</summary>
 <!-- MarkdownTOC -->
 
-1. [Main papers](#main-papers)
-1. [Project files](#project-files)
-1. [Real-life impact](#real-life-impact)
+* [Main papers](#main-papers)
+  * [Research Proposal](#project-files)
+  * [Whitepaper](#project-files)
+  * [Selected publications](#main-papers)
+* [Project files](#project-files)
+  * [Project files](#project-files)
+  * [Project files](#project-files)
+  * [Project files](#project-files)
+  * [Project files](#project-files)
+* [Real-life impact](#real-life-impact)
+  * [Industries](#industries)
+  * [Areas of Application](#areas-of-application)
 
 <!-- /MarkdownTOC -->
 </details>
