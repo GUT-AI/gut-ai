@@ -56,6 +56,14 @@ The poject is subdivived into a series of components, which are the following:
 
 __Coming soon!__
 
+### Datasets
+
+__Coming soon!__
+
+### Environment simulators
+
+__Coming soon!__
+
 ## Real-life impact
 
 ### Industries
@@ -81,3 +89,7 @@ Depending on the modality (or madalities) of the data used, GUT-AI has applicati
 - Recommender Systems
 - Sequential Data (including Time Series)
 - Speech Processing
+
+## License
+
+[Creative Commons Zero CC0 1.0 (Public Domain)](LICENSE)
