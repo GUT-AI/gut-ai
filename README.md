@@ -16,9 +16,12 @@ __Summary:__ Documents and meta files about GUT-AI.
   * [Landing page](#landing-page)
   * [Project page](#project-page)
   * [List of components](#list-of-components)
+  * [Datasets](#datasets)
+  * [Environment simulators](#environment-simulators)
 * [Real-life impact](#real-life-impact)
   * [Industries](#industries)
   * [Areas of application](#areas-of-application)
+* [License](#license)
 
 <!-- /MarkdownTOC -->
 </details>
