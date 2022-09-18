@@ -64,5 +64,20 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 
 ### Areas of application
 
+Depending on the modality (or madalities) of the data used, GUT-AI has applications in countless domains, including the following:
 
-__Coming soon!__
+- Bioinformatics
+- Compressed Sensing
+- Computational Finance
+- Computer Vision
+- Control
+- Energy
+- Environmetrics
+- Geospatial Data (including LiDAR, Hyperspectral images and GIS)
+- Medical Imaging
+- Multimodal Learning
+- Natural Language Processing
+- Robotics
+- Recommender Systems
+- Sequential Data (including Time Series)
+- Speech Processing
