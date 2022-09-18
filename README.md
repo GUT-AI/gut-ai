@@ -9,9 +9,9 @@ __Summary:__ Documents and meta files about GUT-AI.
 <!-- MarkdownTOC -->
 
 * [Main papers](#main-papers)
-  * [Research Proposal](#project-files)
-  * [Whitepaper](#project-files)
-  * [Selected publications](#main-papers)
+  * [Research Proposal](#research-proposal)
+  * [Whitepaper](#whitepaper)
+  * [Selected publications](#selected-publications)
 * [Project files](#project-files)
   * [Project files](#project-files)
   * [Project files](#project-files)
