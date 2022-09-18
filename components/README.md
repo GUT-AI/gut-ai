@@ -28,3 +28,5 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
 
 ### Component C3.3: VSPT
 
+### Component C3.4: Automated Scientific Discovery
+
