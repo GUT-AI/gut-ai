@@ -45,7 +45,7 @@ __Coming soon!__
 ### Project page
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
-- https://osf.io/bfr6u/
+- https://osf.io/rn2s4/
 
 ### List of components
 
