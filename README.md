@@ -56,9 +56,7 @@ Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the proje
 
 ### List of components
 
-The poject is subdivived into a series of components, which are the following:
-
-__Coming soon!__
+See [Components](components).
 
 ### Environment simulators
 
