@@ -1,8 +1,8 @@
 # GUT-AI
 
-<br>
-Summary: Documents and meta files about GUT-AI.
-<br><br><br>
+
+__Summary:__ Documents and meta files about GUT-AI.
+<br><br>
 
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
@@ -19,15 +19,15 @@ Summary: Documents and meta files about GUT-AI.
 
 ### Research Proposal
 
-Coming soon!
+__Coming soon!__
 
 ### Whitepaper
 
-Coming soon!
+__Coming soon!__
 
 ### Selected publications
 
-Coming soon!
+__Coming soon!__
 
 ## Project files
 
@@ -42,6 +42,7 @@ Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the proje
 
 The poject is subdivived into a series of components, which are the following:
 
+__Coming soon!__
 
 ## Real-life impact
 
@@ -51,4 +52,4 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 
 ### Areas of Application
 
-
+__Coming soon!__
