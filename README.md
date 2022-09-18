@@ -18,7 +18,7 @@ __Summary:__ Documents and meta files about GUT-AI.
   * [List of components](#list-of-components)
   * [Environment simulators](#environment-simulators)
   * [Datasets](#datasets)
-  * [Model Zoo](#model-zoo)
+  * [Model Zoos](#model-zoos)
 * [Real-life impact](#real-life-impact)
   * [Industries](#industries)
   * [Areas of application](#areas-of-application)
@@ -68,9 +68,9 @@ See [Simulators](simulators).
 
 See [Datasets](datasets).
 
-### Model Zoo
+### Model Zoos
 
-__Coming soon!__
+See [Model Zoos](model_zoos).
 
 ## Real-life impact
 
