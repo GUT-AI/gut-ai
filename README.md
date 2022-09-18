@@ -62,11 +62,11 @@ __Coming soon!__
 
 ### Environment simulators
 
-See [Simulators](Simulators).
+See [Simulators](simulators).
 
 ### Datasets
 
-See [Datasets](Datasets).
+See [Datasets](datasets).
 
 ### Model Zoo
 
