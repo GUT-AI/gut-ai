@@ -25,6 +25,10 @@ Coming soon!
 
 Coming soon!
 
+### Selected publications
+
+Coming soon!
+
 ## Project files
 
 ### Landing page
@@ -34,9 +38,16 @@ Coming soon!
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
 - https://osf.io/bfr6u/
 
+### List of components
+
+The poject is subdivived into a series of components, which are the following:
+
+
 ## Real-life impact
 
 ### Industries
+
+GUT-AI has the potential to affect and transform the vast majorities of industries. More details coming soon.
 
 ### Areas of Application
 
