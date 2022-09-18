@@ -60,13 +60,13 @@ The poject is subdivived into a series of components, which are the following:
 
 __Coming soon!__
 
-### Datasets
-
-See [Datasets](Datasets).
-
 ### Environment simulators
 
 See [Simulators](Simulators).
+
+### Datasets
+
+See [Datasets](Datasets).
 
 ### Model Zoo
 
