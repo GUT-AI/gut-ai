@@ -18,7 +18,7 @@ __Summary:__ Documents and meta files about GUT-AI.
   * [List of components](#list-of-components)
 * [Real-life impact](#real-life-impact)
   * [Industries](#industries)
-  * [Areas of Application](#areas-of-application)
+  * [Areas of application](#areas-of-application)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -41,6 +41,10 @@ __Coming soon!__
 
 ### Landing page
 
+The following is the official landing page for the whole initiative of GUT-AI:
+- http://gut-ai.org/
+
+
 ### Project page
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
@@ -58,6 +62,7 @@ __Coming soon!__
 
 GUT-AI has the potential to affect and transform the vast majorities of industries. More details coming soon.
 
-### Areas of Application
+### Areas of application
+
 
 __Coming soon!__
