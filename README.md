@@ -93,7 +93,7 @@ Depending on the modality (or madalities) of the data used, GUT-AI has applicati
 - Medical Imaging
 - Multimodal Learning
 - Natural Language Processing
-- Physics
+- Physics (including Astrophysics, Nuclear, Particle and Quantum Physics)
 - Robotics
 - Recommender Systems
 - Sequential Data (including Time Series)
