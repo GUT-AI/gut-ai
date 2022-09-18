@@ -48,12 +48,23 @@ __Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for
 __Aims:__ 
 * Reproducibility
 * Replicability
+* Code Version Control
+* Data Version Control (for both datasets and pretrained models)
 * Automatic Configurations (with default, but adjustable values)
+* Machine Resource Management
+* Serving Infrastracture
+* Diagnostics
+* Governance and Regulatory Compliance (e.g. GDPR, HIPAA, ISOs)
+* Monitoring and Reporting
+* Testing (for both code and data)
 * User of containers
 * User of orchestration
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
 * API for direct integration to IaaS, PaaS, SaaS providers
+* Automation, MLOps, DataOps, MoodelOps, DevOps
+* Information Security, SecDevOps, DevSecOps
+* Anything else reducing the technical debt
 
 ### Component C1.3: Distributed Systems for ML
 
@@ -63,12 +74,13 @@ __Aims:__ TODO
 
 ### Component C1.4: DX
 
-__Description:__ Enhance Developer Experience to make it developer-friendly for almost anyone who can write code at any level.
+__Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
 __Aims:__ 
 * User-friendly User Interface (UI) and Dashboards
 * Separation of concerns
 * User-friendly configurations (e.g. using `yaml` and `json`)
+* Anything else reduing the cultural debt or improving the DX
 
 ## Layer 2 components
 
