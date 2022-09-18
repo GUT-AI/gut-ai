@@ -53,7 +53,7 @@ __Aims:__
 * Data Version Control (for both datasets and pretrained models)
 * Automatic Configurations (with default, but adjustable values)
 * Machine Resource Management
-* Workflow Management (e.g. Airflow, Kubeflow, MLflow)
+* Data Workflow Management (e.g. Airflow, Kubeflow, MLflow)
 * Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Governance and Regulatory Compliance (e.g. GDPR, HIPAA, ISOs)
 * Monitoring and Reporting
