@@ -42,15 +42,32 @@ __Aims:__
 
 ### Component C1.2: CI/CD
 
-__Description:__ TODO
+__Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems.
 
-__Aims:__ TODO
+__Aims:__ 
+* Reproducibility
+* Replicability
+* Automatic Configurations (with default, but adjustable values)
+* User of container
+* User of orchestration
+* Direct integration to Top 10 *centralized* IaaS cloud providers
+* Direct integration to Top 10 *decentralized* IaaS cloud providers
+* API for direct integration to IaaS, PaaS, SaaS providers
 
 ### Component C1.3: Distributed Systems for ML
 
 __Description:__ TODO
 
 __Aims:__ TODO
+
+### Component C1.4: DX
+
+__Description:__ Enhance Developer Experience to make it developer-friendly for almost anyone who can write code at any level.
+
+__Aims:__ 
+* User-friendly User Interfaces and Dashboards
+* Separation of concerns
+* User-friendly configurations (e.g. using `yaml` and `json`)
 
 ## Layer 2 components
 
