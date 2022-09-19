@@ -78,8 +78,8 @@ __Aims:__
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
 __Aims:__ 
-* User-friendly User Interface (UI) and Dashboards
 * Separation of concerns
+* User-friendly User Interface (UI) and Dashboards
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the cultural debt or improving the DX
 
