@@ -166,27 +166,99 @@ __Aims:__
 
 ## Layer 3 components
 
-### Component C3.1: Grounded QA
+### Component C3.1: Automated Scientific Discovery
+
+__Description:__ Perform Automated Scientific Discovery
+
+__Aims:__ TODO
+
+### Component C3.2: ASR
+
+__Description:__ Perform Automatic Speech Recognition (ASR)
+
+__Aims:__ TODO
+
+### Component C3.3: TTS
+
+__Description:__ Perform Text-to-Speech.
+
+__Aims:__ TODO
+
+### Component C3.4: SER
+
+__Description:__ Perform Speech Emotion Recognition (SER).
+
+__Aims:__ TODO
+
+### Component C3.5: MT
+
+__Description:__ Perform Machine Translation (MT).
+
+__Aims:__ TODO
+
+### Component C3.6: TOD
+
+__Description:__ Perform Task-Oriented Dialog (TOD).
+
+__Aims:__ TODO
+
+### Component C3.7: QA
+
+__Description:__ Perform open-domain Question-Answering (QA).
+
+__Aims:__ TODO
+
+### Component C3.8: Grounded QA
 
 __Description:__ TODO
 
 __Aims:__ TODO
 
-### Component C3.2: Multi-Robot Path Planning
+### Component C3.9: VSPT
 
 __Description:__ TODO
 
 __Aims:__ TODO
 
-### Component C3.3: VSPT
+### Component C3.10: Portfolio Management
 
 __Description:__ TODO
 
 __Aims:__ TODO
 
-### Component C3.4: Automated Scientific Discovery
+### Component C3.11: Anomaly Detection
 
 __Description:__ TODO
 
 __Aims:__ TODO
+
+### Component C3.12: Recommender Engines
+
+__Description:__ Implement Recommender Engines.
+
+__Aims:__ TODO
+
+### Component C3.22: Multi-Robot Path Planning
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
+### Component C3.23: Multi-Robot Target Detection and Tracking
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
+### Component C3.24: 
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
+
+
+
+
+
 
