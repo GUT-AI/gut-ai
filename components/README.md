@@ -10,7 +10,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
   * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
   * [Component C1.2: CI/CD](#component-c12-cicd)
   * [Component C1.3: DX](#component-c13-dx)
-  * [Component C1.4: Marketplace](#component-c14-marketplace)
+  * [Component C1.4: GUT-AI Marketplace](#component-c14-gut-ai-marketplace)
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
@@ -68,6 +68,7 @@ __Aims:__
 * Support for Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
+* Direct integration to [GUT-AI Marketplace](#component-c14-gut-ai-marketplace) and other marketplaces
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
 * Automation, MLOps, DataOps, MoodelOps, DevOps
 * Information Security, SecDevOps, DevSecOps
@@ -84,9 +85,9 @@ __Aims:__
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the *cultural debt* or improving the DX
 
-### Component C1.4: Marketplace
+### Component C1.4: GUT-AI Marketplace
 
-__Description:__ Create a Marketplace for products (datasets, pretrained models) and services (Data Scientists, Data Engineers, Machine Learning Engineers and other Contractors).
+__Description:__ Create a dedicated Marketplace for products (datasets, pretrained models) and services (Data Scientists, Data Engineers, Machine Learning Engineers and other Contractors).
 
 __Aims:__ TODO
 
