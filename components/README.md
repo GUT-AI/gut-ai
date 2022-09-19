@@ -129,7 +129,7 @@ __Aims:__ TODO
 __Description:__ Introduce and perform Distributed Systems for ML and especially for __Gradient-Based Optimization__ methods.
 
 __Aims:__ 
-* Support for generic Distributed Systems (e.g. Horovod)
+* Support for generic Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new ML-specific architectures (similar to Petuum)
 
 ## Layer 3 components
