@@ -110,7 +110,14 @@ __Aims:__
 
 __Description:__ TODO
 
-__Aims:__ TODO
+__Aims:__
+* Automated Feature Selection
+* Automated Feature Extraction
+  * Rule-based AI 
+  * Representation Learning (Supervised, Unsupervised, Self-Supervised)
+    * Data Augmentation / Contrastive Learning
+    * Feature Construction / Generative Learning
+    * Adversarial Learning
 
 ### Component C2.4: NAS
 
@@ -142,6 +149,7 @@ __Aims:__
 * Nodes Pruning and Weight Pruning
 * Quantized Training
 * Huffman Coding
+* Representation disentanglement on the sparse weight matrix
 
 
 ## Layer 3 components
