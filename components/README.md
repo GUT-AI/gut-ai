@@ -18,6 +18,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components. Thi
   * [Component C2.4: NAS](#component-c24-nas)
   * [Component C2.5: Continual Learning](#component-c25-continual-learning)
   * [Component C2.6: Distributed Systems for ML](#component-c26-distributed-systems-for-ml)
+  * [Component C2.7: Solve memory bottleneck](#component-c26-solve-memory-bottleneck)
 * [Layer 3 components](#layer-3-components)
   * [Component 3.1: Grounded QA](#component-c31-grounded-qa)
   * [Component 3.2: Multi-Robot Path Planning](#component-c32-multi-robot-path-planning)
@@ -132,7 +133,7 @@ __Aims:__
 * Support for generic Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new ML-specific architectures (similar to Petuum V2)
 
-### Component C2.6: Solve memory bottleneck
+### Component C2.7: Solve memory bottleneck
 
 __Description:__ Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
