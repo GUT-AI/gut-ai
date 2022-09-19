@@ -138,8 +138,8 @@ __Aims:__ TODO
 __Description:__ Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
 __Aims:__ 
-* Support for generic Distributed Systems (e.g. Horovod, DeepSpeed)
-* Devise new ML-specific architectures (similar to Petuum V2)
+* Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
+* Devise new *ML-specific* architectures (similar to Petuum V2)
 
 ### Component C2.7: Solve memory bottleneck
 
