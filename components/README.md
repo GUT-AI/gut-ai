@@ -95,21 +95,24 @@ __Aims:__ TODO
 
 ### Component C2.1: AutoDS
 
-__Description:__ TODO
+__Description:__ Perform Automated Data Science (AutoDS) by combining __modules__ together in an adjustable way.
 
 __Aims:__
-
+* Automated Data Preparation
+* AutoML
+* Continual Learning
+* CI/CD
 
 ### Component C2.2: AutoML
 
-__Description:__ TODO
+__Description:__ Perform Automated Machine Learning (AutoML).
 
 __Aims:__
 * 
 
 ### Component C2.3: Automated Data Preprocessing
 
-__Description:__ TODO
+__Description:__ Perform Automated Data Preprocessing.
 
 __Aims:__
 * Automated Feature Selection
