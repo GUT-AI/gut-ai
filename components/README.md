@@ -150,7 +150,15 @@ __Aims:__
 * Quantized Training
 * Huffman Coding
 * Representation disentanglement on the sparse weight matrix
-
+* Structured Sparsity Learning (StSL)
+* Soft-Weight Sharing
+* Variational Dropout
+* Structured Bayesian Pruning
+* Bayesian Compression
+* Lottery Ticket Hypothesis
+* [NAS](#component-c24-nas)
+* Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
+* Bayesian Neural Networks (BNNs)
 
 ## Layer 3 components
 
