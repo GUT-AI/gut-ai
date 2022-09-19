@@ -70,7 +70,7 @@ __Aims:__
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
 * Automation, MLOps, DataOps, MoodelOps, DevOps
 * Information Security, SecDevOps, DevSecOps
-* Anything else reducing the technical debt
+* Anything else reducing the *technical debt*
 
 
 ### Component C1.3: DX
@@ -81,7 +81,7 @@ __Aims:__
 * Separation of concerns
 * User-friendly User Interface (UI) and Dashboards
 * User-friendly configurations (e.g. using `yaml` and `json`)
-* Anything else reduing the cultural debt or improving the DX
+* Anything else reduing the *cultural debt* or improving the DX
 
 ### Component C1.4: Marketplace
 
