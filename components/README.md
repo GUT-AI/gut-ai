@@ -126,11 +126,18 @@ __Aims:__ TODO
 
 ### Component C2.6: Distributed Systems for ML
 
-__Description:__ Introduce and perform Distributed Systems for ML and especially for __Gradient-Based Optimization__ methods.
+__Description:__ Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
 __Aims:__ 
 * Support for generic Distributed Systems (e.g. Horovod, DeepSpeed)
-* Devise new ML-specific architectures (similar to Petuum)
+* Devise new ML-specific architectures (similar to Petuum V2)
+
+### Component C2.6: Solve memory bottleneck
+
+__Description:__ Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
+
+__Aims:__ 
+* Model Compression
 
 ## Layer 3 components
 
