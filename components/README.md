@@ -53,8 +53,6 @@ __Aims:__
 * Data Version Control (for both datasets and pretrained models)
 * Automatic Configurations (with default, but adjustable values)
 * Machine Resource Management
-* Data Workflow Management (e.g. Airflow, Kubeflow, MLflow)
-* Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Governance and Regulatory Compliance (e.g. GDPR, HIPAA, ISOs)
 * Monitoring and Reporting
 * Diagnostics
@@ -62,9 +60,11 @@ __Aims:__
 * User of containers (e.g. Docker)
 * User of orchestration (e.g. Kubernetes)
 * Use of microservices
-* Support for Synchronous Communication (e.g. REST, GraphQL)
 * Support for Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
+* Support for Synchronous Communication (e.g. REST, GraphQL)
 * Support for Databases (SQL and NoSQL), Data Warehouses and Data Lakes
+* Support for Data Workflow Management (e.g. Airflow, Kubeflow, MLflow)
+* Support for Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
