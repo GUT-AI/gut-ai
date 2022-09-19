@@ -138,7 +138,11 @@ __Aims:__
 __Description:__ Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
 __Aims:__ 
-* Model Compression
+* Model Compression and Weight Sharing
+* Nodes Pruning and Weight Pruning
+* Quantized Training
+* Huffman Coding
+
 
 ## Layer 3 components
 
