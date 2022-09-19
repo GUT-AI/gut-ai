@@ -105,7 +105,7 @@ __Aims:__
 __Description:__ TODO
 
 __Aims:__
-* Automated Model Retraining
+* 
 
 ### Component C2.3: Automated Data Preprocessing
 
@@ -130,8 +130,8 @@ __Aims:__ TODO
 
 __Description:__ TODO
 
-__Aims:__ TODO
-
+__Aims:__
+* Automated Model Retraining
 
 ### Component C2.6: Distributed Systems for ML
 
