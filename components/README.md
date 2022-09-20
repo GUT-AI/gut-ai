@@ -91,6 +91,17 @@ __Description:__ Create a dedicated Marketplace for products (datasets, pretrain
 
 __Aims:__ TODO
 
+### Component C1.5: GUT-AI DCP
+
+__Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI.
+
+__Aims:__ 
+* Hosting
+* Databases (SQL and NoSQL)
+* Data Warehouses
+* Data Lakes
+* Anything else that a conventional, centralized Cloud Provider can offer
+
 ## Layer 2 components
 
 ### Component C2.1: AutoDS
