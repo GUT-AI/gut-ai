@@ -183,23 +183,36 @@ __Description:__ Perform Automated Scientific Discovery
 
 __Aims:__ TODO
 
-### Component C3.24: MTSU
+### Component C3.2: MTSU
 
-__Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Vision.
+__Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
 
 __Aims:__ 
 * Object Detection
 * Object Recognition
 * Image Segmentation (Semantic and Instance)
-* Image Captioning
+* Image Captioning and Image Categorization
 * Pose Estimation
 * Action Classification
 * Super-Resolution
 * De-noising
+* Image Restoration
 * Image Generation
 * Domain Adaptation
+* Multi-object Motion Detection and Tracking
+* Vision-based Motion Analysis
 
-### Component C3.2: ASR
+### Component C3.3: Grounded CV
+
+__Description:__ Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a mobile robot.
+
+__Aims:__ 
+* 3D Scene Reconstruction
+* Structure from Motion
+* Feature Matching
+
+
+### Component C3.4: ASR
 
 __Description:__ Perform Automatic Speech Recognition (ASR)
 
