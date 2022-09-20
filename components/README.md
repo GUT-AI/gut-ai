@@ -135,10 +135,10 @@ __Aims:__
 __Description:__ Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
 __Aims:__
-* Automated Data Preparation
-* AutoML
-* Continual Learning
-* CI/CD
+* [Automated Data Preparation](#component-c11-automated-data-preparation)
+* [AutoML](#component-c22-automl)
+* [Continual Learning](#component-c25-continual-learning)
+* [CI/CD](#component-c12-cicd)
 
 ### Component C2.2: AutoML
 
