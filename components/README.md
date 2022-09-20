@@ -177,11 +177,11 @@ __Aims:__
 __Description:__ Perform Neural Architecture Search (NAS).
 
 __Aims:__ 
-* Model Selection
-** Search space
-** Architecture Optimization
-** Hyperparameter Optimization
-* Model Estimation
+* Automated Model Selection
+  * Search space
+  * Architecture Optimization
+  * Hyperparameter Optimization
+* Automated Model Estimation
 
 ### Component C2.5: Continual Learning
 
