@@ -90,7 +90,7 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Real Estate
 - Retail
 - Sports
-- Security and Survailance
+- Security and Surveillance
 - Telecoms
 
 ### Use Cases
@@ -155,7 +155,7 @@ See [Model Zoos](model_zoos).
 
 ## DAO Foundation
 
-The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is a merely a *pure subset* of the initiative.
+The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 ## License
 
