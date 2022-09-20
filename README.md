@@ -21,6 +21,7 @@ __Summary:__ Documents and meta files about GUT-AI.
   * [Model Zoos](#model-zoos)
 * [Real-life impact](#real-life-impact)
   * [Industries](#industries)
+  * [Use Cases](#use-cases)
   * [Areas of application](#areas-of-application)
 * [License](#license)
 
@@ -101,6 +102,10 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Sports
 - Security and Survailance
 - Telecoms
+
+### Use Cases
+
+See [Use Cases](use_cases).
 
 ### Areas of application
 
