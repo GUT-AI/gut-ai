@@ -290,9 +290,13 @@ __Aims:__ TODO
 
 ### Component C3.8: TOD
 
-__Description:__ Perform Task-Oriented Dialog (TOD).
+__Description:__ Perform Task-Oriented Dialog (TOD) using Multitak Learning.
 
-__Aims:__ TODO
+__Aims:__
+* Natural Language Understanding (NLU)
+  * Named-Entity Recognition / Entities Extraction
+  * Intent Classification / Intent Detection
+* Natural Language Generation (NLG)
 
 ### Component C3.9: QA
 
