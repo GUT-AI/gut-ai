@@ -2,9 +2,7 @@
 
 __Sumary:__ The GUT-AI initiative is subdivived into a series of components in order to build a *user-friendly* __Open-Data, Open-Source, Decentralized ecosystem__ under the umbrella of the GUT-AI Foundation. This is a list of all the components of such an ecosystem.
 
-<details>
-<summary><b>Table of Contents</b> (click to open)</summary>
-<!-- MarkdownTOC -->
+## Table of Contents
 
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
@@ -44,8 +42,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
   * [Component C3.21: Automated Customer Support](#component-c321-automated-customer-support)
   * [Component C3.22: Automated Governance and Compliance](#component-c322-automated-governance-and-compliance)
  
-<!-- /MarkdownTOC -->
-</details>
+
 
 ## Layer 1 components
 
