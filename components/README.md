@@ -183,11 +183,24 @@ __Description:__ Perform Automated Scientific Discovery
 
 __Aims:__ TODO
 
+### Component C3.24: MTSU
+
+__Description:__ Perform Multitask Scence Understanding (MTSU) by performing Computer Vision tasks using Multitak Learning.
+
+__Aims:__ 
+* Object Detection
+* Object Recognition
+* Semantic Segmentation
+* Image Captioning
+
 ### Component C3.2: ASR
 
 __Description:__ Perform Automatic Speech Recognition (ASR)
 
 __Aims:__ TODO
+
+
+
 
 ### Component C3.3: TTS
 
