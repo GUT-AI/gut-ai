@@ -35,13 +35,13 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
   * [Component C3.14: Portfolio Management](#component-c314-portfolio-management)
   * [Component C3.15: Anomaly Detection](#component-c315-anomaly-detection)
   * [Component C3.16: Recommender Engines](#component-c316-recommender-engines)
-  * [Component C3.17: Automated Protoyping](#component-c317-automated-protoyping)
-  * [Component C3.18: Automated UX](#component-c318-automated-ux)
-  * [Component C3.19: Automated Marketing](#component-c319-automated-marketing)
-  * [Component C3.20: Automated Sales](#component-c320-automated-sales)
-  * [Component C3.21: Automated Customer Support](#component-c321-automated-customer-support)
-  * [Component C3.22: Automated Governance and Compliance](#component-c322-automated-governance-and-compliance)
- 
+* [Layer 4 components](#layer-4-components)
+  * [Component C4.1: Automated Protoyping](#component-c41-automated-protoyping)
+  * [Component C4.2: Automated UX](#component-c42-automated-ux)
+  * [Component C4.3: Automated Marketing](#component-c43-automated-marketing)
+  * [Component C4.4: Automated Sales](#component-c44-automated-sales)
+  * [Component C4.5: Automated Customer Support](#component-c45-automated-customer-support)
+  * [Component C4.6: Automated Governance and Compliance](#component-c46-automated-governance-and-compliance)
 
 
 ## Layer 1 components
@@ -325,15 +325,16 @@ __Description:__ Implement Recommender Engines.
 
 __Aims:__ TODO
 
+## Layer 4 components
 
-### Component C3.17: Automated Protoyping
+### Component C4.1: Automated Protoyping
 
 __Description:__ TODO
 
 __Aims:__ TODO
 
 
-### Component C3.18: Automated UX
+### Component C4.2: Automated UX
 
 __Description:__ Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
@@ -342,25 +343,25 @@ __Aims:__
 * Automated User Validation
 * Automated UX Research
 
-### Component C3.19: Automated Marketing
+### Component C4.3: Automated Marketing
 
 __Description:__ Perform Automated Marketing.
 
 __Aims:__ TODO
 
-### Component C3.20: Automated Sales
+### Component C4.4: Automated Sales
 
 __Description:__ Perform Automated Sales.
 
 __Aims:__ TODO
 
-### Component C3.21: Automated Customer Support
+### Component C4.5: Automated Customer Support
 
 __Description:__ Perform Customer Support.
 
 __Aims:__ TODO
 
-### Component C3.22: Automated Governance and Compliance
+### Component C4.6: Automated Governance and Compliance
 
 __Description:__ Perform Automated Governance and Compliance for the Blockchain and Web3 era.
 
