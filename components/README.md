@@ -57,7 +57,7 @@ __Aims:__
 * Governance and Regulatory Compliance (e.g. GDPR, HIPAA, ISOs)
 * Monitoring and Reporting
 * Diagnostics
-* Testing (for both code and data)
+* Testing and Quality Assurance (for both code and data)
 * User of containers (e.g. Docker)
 * User of orchestration (e.g. Kubernetes)
 * Use of microservices
@@ -190,6 +190,7 @@ __Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multi
 __Aims:__ 
 * Object Detection
 * Object Recognition
+* Face Recognition
 * Image Segmentation (Semantic and Instance)
 * Image Captioning and Image Categorization
 * Pose Estimation
@@ -197,6 +198,7 @@ __Aims:__
 * Activity Recognition
 * Super-Resolution
 * Denoising
+* Image Reconstruction
 * Image Restoration
 * Image Generation
 * Domain Adaptation
@@ -304,31 +306,34 @@ __Aims:__ TODO
 
 ### Component C3.18: Automated UX
 
-__Description:__ TODO
+__Description:__ Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
-__Aims:__ TODO
+__Aims:__ 
+* Automated User Research
+* Automated User Validation
+* Automated UX Research
 
 ### Component C3.19: Automated Marketing
 
-__Description:__ TODO
+__Description:__ Perform Automated Marketing.
 
 __Aims:__ TODO
 
 ### Component C3.20: Automated Sales
 
-__Description:__ TODO
+__Description:__ Perform Automated Sales.
 
 __Aims:__ TODO
 
 ### Component C3.21: Automated Customer Support
 
-__Description:__ TODO
+__Description:__ Perform Customer Support.
 
 __Aims:__ TODO
 
-### Component C3.22: Automated Compliance
+### Component C3.22: Automated Governance and Compliance
 
-__Description:__ TODO
+__Description:__ Perform Automated Governance and Compliance for the Blockchain and Web3 era.
 
 __Aims:__ TODO
 
