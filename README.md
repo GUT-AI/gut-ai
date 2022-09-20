@@ -37,7 +37,7 @@ __Summary:__ Documents and meta files about the GUT-AI Initiative in general.
 
 ### Pitch
 
-The GUT-AI initiative is an initiative which aims to eliminate the multiple, single-points-of-failure when using Artificial Intelligence for real-life applications in the real world.
+The GUT-AI initiative is an initiative which aims to eliminate the multiple, single-points-of-failure when using Artificial Intelligence for real-life applications in the *real world*.
 
 ### Vision
 
