@@ -41,7 +41,7 @@ The GUT-AI initiative is an initiative which aims to eliminate the *multiple, si
 
 ### Vision
 
-We believe that there should be no organization or person in our world who wants to use Artificial Intelligence, but not be able to do so.
+We believe that there should be no organization or person in our world who wants to use Artificial Intelligence, but not be able to do so. We also believe in a world where Artificial Intelligence hand in hand with human interaction are in an ever improving situation.
 
 ### Mission
 
