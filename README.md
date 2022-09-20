@@ -15,6 +15,7 @@ __Summary:__ Documents and meta files about GUT-AI.
 * [Project files](#project-files)
   * [Landing page](#landing-page)
   * [Project page](#project-page)
+  * [Project DOI](#project-doi)
   * [List of components](#list-of-components)
   * [Environment simulators](#environment-simulators)
   * [Datasets](#datasets)
@@ -56,9 +57,9 @@ Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the proje
 
 ### Project DOI
 
-Project identifier: DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
+__Project identifier:__ DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
 
-Please note that the above is the DOI for the whole project, not for this GitHub repository.
+Please note that the above is the DOI for the whole project, __*not*__ for this GitHub repository.
 
 ### List of components
 
