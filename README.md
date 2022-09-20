@@ -76,10 +76,12 @@ See [Model Zoos](model_zoos).
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
 
+- Aerospace
 - Agriculture and Aeroponics
 - Aquaponics and Hydroponics
 - Automotive and Self-Driving Cars
 - Biotech, Pharma and Medical Devices
+- Cloud Infrastructure and Networking
 - Cyber Security
 - E-Commerce (Wholesale and Retail)
 - Education and E-Learning
@@ -98,6 +100,7 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Retail
 - Sports
 - Security and Survailance
+- Telecoms
 
 ### Areas of application
 
