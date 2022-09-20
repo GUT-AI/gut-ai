@@ -210,9 +210,10 @@ __Aims:__
 * Face Recognition
 * Image Segmentation (Semantic and Instance)
 * Image Captioning and Image Categorization
-* Pose Estimation
+* Visual Relationship Detection
 * Action Classification
 * Activity Recognition
+* Pose Estimation
 * Super-Resolution
 * Denoising
 * Image Reconstruction
