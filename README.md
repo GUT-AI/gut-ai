@@ -79,18 +79,20 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Agriculture and Aeroponics
 - Aquaponics and Hydroponics
 - Automotive and Self-Driving Cars
+- Biotech, Pharma and Medical Devices
 - Cyber Security
 - E-Commerce (Wholesale and Retail)
 - Energy
 - Finance
 - Food and Beverage
 - Gaming
-- Healthcare
+- Healthcare and Telemedicine
 - Hospitality
 - Insurance
 - Logistics
 - Manufacturing and Construction  
 - Media and Entertainment
+- Medical Imaging
 - Real Estate
 - Retail
 - Sports
