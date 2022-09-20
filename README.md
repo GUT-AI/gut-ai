@@ -24,6 +24,7 @@ __Summary:__ Documents and meta files about the GUT-AI Initiative in general.
   * [Landing page](#landing-page)
   * [Project page](#project-page)
   * [Project DOI](#project-doi)
+  * [Current Problems and Challenges](#current-problems-and-challenges)
   * [List of components](#list-of-components)
   * [Environment simulators](#environment-simulators)
   * [Datasets](#datasets)
