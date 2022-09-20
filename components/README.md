@@ -11,6 +11,7 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
   * [Component C1.2: CI/CD](#component-c12-cicd)
   * [Component C1.3: DX](#component-c13-dx)
   * [Component C1.4: GUT-AI Marketplace](#component-c14-gut-ai-marketplace)
+  * [Component C1.5: GUT-AI DCP](#component-c15-gut-ai-dcp)
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
@@ -20,6 +21,15 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
   * [Component C2.6: Distributed Systems for ML](#component-c26-distributed-systems-for-ml)
   * [Component C2.7: Solve memory bottleneck](#component-c27-solve-memory-bottleneck)
 * [Layer 3 components](#layer-3-components)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
+  * [Component 3.X: ](#)
   * [Component 3.1: Grounded QA](#component-c31-grounded-qa)
   * [Component 3.2: Multi-Robot Path Planning](#component-c32-multi-robot-path-planning)
   * [Component 3.3: VSPT](#component-c33-vspt)
@@ -87,9 +97,16 @@ __Aims:__
 
 ### Component C1.4: GUT-AI Marketplace
 
-__Description:__ Create a dedicated Marketplace for products (datasets, pretrained models) and services (Data Scientists, Data Engineers, Machine Learning Engineers and other Contractors) related to GUT-AI.
+__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__.
 
-__Aims:__ TODO
+__Aims:__
+* Open Data (e.g. datasets, pre-trained models) as modules
+* Proprietary Data (e.g. datasets, pre-trained models) as modules
+* Centralized and decentralized SaaS modules developed by third parties
+* Centralized and decentralized PaaS modules developed by third parties
+* Centralized and decentralized IaaS modules developed by third parties
+* Marketplace for marketplaces by third parties for physical products (e.g. computers, servers, robots)
+* Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 
 ### Component C1.5: GUT-AI DCP
 
@@ -106,7 +123,7 @@ __Aims:__
 
 ### Component C2.1: AutoDS
 
-__Description:__ Perform Automated Data Science (AutoDS) by combining __modules__ together in an adjustable way.
+__Description:__ Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
 __Aims:__
 * Automated Data Preparation
