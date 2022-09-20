@@ -244,9 +244,10 @@ __Aims:__
 * Pose Estimation
 * Super-Resolution
 * Denoising
-* Image Reconstruction
+* Image Acquisition and Reconstruction
 * Image Restoration
 * Image Generation
+* Image Registration
 * Domain Adaptation
 * Multi-Object Motion Detection and Tracking
 * Vision-Based Motion Analysis
