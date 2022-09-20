@@ -5,11 +5,12 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
 ## Table of Contents
 
 * [Layer 1 components](#layer-1-components)
-  * [Component C1.1: Automated Data Preparation](#component-c11-automated-data-preparation)
-  * [Component C1.2: CI/CD](#component-c12-cicd)
-  * [Component C1.3: DX](#component-c13-dx)
-  * [Component C1.4: GUT-AI Marketplace](#component-c14-gut-ai-marketplace)
-  * [Component C1.5: GUT-AI DCP](#component-c15-gut-ai-dcp)
+  * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
+  * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
+  * [Component C1.3: GUT-AI Marketplace](#component-c13-gut-ai-marketplace)
+  * [Component C1.4: Automated Data Preparation](#component-c14-automated-data-preparation)
+  * [Component C1.5: CI/CD](#component-c15-cicd)
+  * [Component C1.6: DX](#component-c16-dx)  
 * [Layer 2 components](#layer-2-components)
   * [Component C2.1: AutoDS](#component-c21-autods)
   * [Component C2.2: AutoML](#component-c22-automl)
@@ -46,7 +47,45 @@ __Sumary:__ The GUT-AI initiative is subdivived into a series of components in o
 
 ## Layer 1 components
 
-### Component C1.1: Automated Data Preparation
+### Component C1.1: Distributed Smart Grids
+
+__Description:__ Create Distributed Smart Grids for the __energy storage__ needs of the Blockchain and AI era.
+
+__Aims:__
+* Smart Grids
+* Distributed Renewables (e.g. PV)
+* Decentralized Electricity and Energy Storage (e.g. batteries)
+* Distributed Computer Network for Communication
+* Support for GUT-AI DCP and other decentralized cloud providers
+* Support for interoperable electric vehicles
+* Support for conventional (dieasel and petrol) vehicles
+* Support for Near-Zero Energy Buildings (NZEBs)
+
+### Component C1.2: GUT-AI DCP
+
+__Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
+
+__Aims:__ 
+* Hosting
+* Databases (SQL and NoSQL)
+* Data Warehouses
+* Data Lakes
+* Anything else that a conventional, centralized Cloud Provider can offer
+
+### Component C1.3: GUT-AI Marketplace
+
+__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__.
+
+__Aims:__
+* Open Data (e.g. datasets, pre-trained models) as modules
+* Proprietary Data (e.g. datasets, pre-trained models) as modules
+* Centralized and decentralized SaaS modules developed by third parties
+* Centralized and decentralized PaaS modules developed by third parties
+* Centralized and decentralized IaaS modules developed by third parties
+* Marketplace for marketplaces by third parties for physical products (e.g. computers, servers, robots)
+* Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
+
+### Component C1.4: Automated Data Preparation
 
 __Description:__ Perform Automated Data Preparation using AI.
 
@@ -59,7 +98,7 @@ __Aims:__
 * Data Sampling
 * Data Cleaning
 
-### Component C1.2: CI/CD
+### Component C1.5: CI/CD
 
 __Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
@@ -90,7 +129,7 @@ __Aims:__
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the *technical debt*
 
-### Component C1.3: DX
+### Component C1.6: DX
 
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
@@ -99,30 +138,6 @@ __Aims:__
 * User-friendly User Interface (UI) and Dashboards
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the *cultural debt* or improving the DX
-
-### Component C1.4: GUT-AI Marketplace
-
-__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__.
-
-__Aims:__
-* Open Data (e.g. datasets, pre-trained models) as modules
-* Proprietary Data (e.g. datasets, pre-trained models) as modules
-* Centralized and decentralized SaaS modules developed by third parties
-* Centralized and decentralized PaaS modules developed by third parties
-* Centralized and decentralized IaaS modules developed by third parties
-* Marketplace for marketplaces by third parties for physical products (e.g. computers, servers, robots)
-* Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
-
-### Component C1.5: GUT-AI DCP
-
-__Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI.
-
-__Aims:__ 
-* Hosting
-* Databases (SQL and NoSQL)
-* Data Warehouses
-* Data Lakes
-* Anything else that a conventional, centralized Cloud Provider can offer
 
 ## Layer 2 components
 
@@ -307,12 +322,6 @@ __Description:__ Perform Multi-Robot Target Detection and Tracking.
 __Aims:__ TODO
 
 
-### Component C3.14: Portfolio Management
-
-__Description:__ Perform Portfolio Management.
-
-__Aims:__ TODO
-
 ### Component C3.15: Anomaly Detection
 
 __Description:__ Perform Anomaly Detection.
@@ -329,10 +338,10 @@ __Aims:__ TODO
 
 ### Component C4.1: Automated Protoyping
 
-__Description:__ TODO
+__Description:__ Perform Automated Protoyping.
 
-__Aims:__ TODO
-
+__Aims:__ 
+* Ideation and Creation
 
 ### Component C4.2: Automated UX
 
@@ -363,7 +372,12 @@ __Aims:__ TODO
 
 ### Component C4.6: Automated Governance and Compliance
 
-__Description:__ Perform Automated Governance and Compliance for the Blockchain and Web3 era.
+__Description:__ Perform Automated Governance and Compliance for the Blockchain and AI era.
 
 __Aims:__ TODO
 
+### Component C4.7: Portfolio Management
+
+__Description:__ Perform Portfolio Management for the Blockchain and AI era.
+
+__Aims:__ TODO
