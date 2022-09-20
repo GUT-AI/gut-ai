@@ -49,11 +49,16 @@ __Coming soon!__
 The following is the official landing page for the whole initiative of GUT-AI:
 - http://gut-ai.org/
 
-
 ### Project page
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
 - https://osf.io/rn2s4/
+
+### Project DOI
+
+Project identifier: DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
+
+Please note that the above is the DOI for the whole project, not for this GitHub repository.
 
 ### List of components
 
