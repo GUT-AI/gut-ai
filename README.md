@@ -76,15 +76,20 @@ See [Model Zoos](model_zoos).
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
 
-- Autonomous and Self-Driving Cars
+- Agriculture and Aeroponics
+- Aquaponics and Hydroponics
+- Automotive and Self-Driving Cars
+- E-Commerce (Wholesale and Retail)
+- Energy
 - Finance
+- Food and Beverage
 - Gaming
 - Healthcare
 - Hospitality
 - Insurance
+- Logistics
 - Manufacturing and Construction  
 - Media and Entertainment
-- Online Shopping
 - Real Estate
 - Retail
 - Sports
