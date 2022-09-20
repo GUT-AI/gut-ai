@@ -185,13 +185,19 @@ __Aims:__ TODO
 
 ### Component C3.24: MTSU
 
-__Description:__ Perform Multitask Scence Understanding (MTSU) by performing Computer Vision tasks using Multitak Learning.
+__Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Vision.
 
 __Aims:__ 
 * Object Detection
 * Object Recognition
-* Semantic Segmentation
+* Image Segmentation (Semantic and Instance)
 * Image Captioning
+* Pose Estimation
+* Action Classification
+* Super-Resolution
+* De-noising
+* Image Generation
+* Domain Adaptation
 
 ### Component C3.2: ASR
 
