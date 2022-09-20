@@ -296,6 +296,7 @@ __Aims:__
 * Natural Language Understanding (NLU)
   * Named-Entity Recognition / Entities Extraction
   * Intent Classification / Intent Detection
+* Dialog Manager
 * Natural Language Generation (NLG)
 
 ### Component C3.9: QA
