@@ -93,7 +93,6 @@ __Aims:__
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the *technical debt*
 
-
 ### Component C1.3: DX
 
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
@@ -145,7 +144,8 @@ __Aims:__
 __Description:__ Perform Automated Machine Learning (AutoML).
 
 __Aims:__
-* 
+* [Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
+* [NAS](#component-c24-nas)
 
 ### Component C2.3: Automated Data Preprocessing
 
@@ -162,13 +162,18 @@ __Aims:__
 
 ### Component C2.4: NAS
 
-__Description:__ TODO
+__Description:__ Perform Neural Architecture Search (NAS).
 
-__Aims:__ TODO
+__Aims:__ 
+* Model Selection
+** Search space
+** Architecture Optimization
+** Hyperparameter Optimization
+* Model Estimation
 
 ### Component C2.5: Continual Learning
 
-__Description:__ TODO
+__Description:__ Perform Continual Learning.
 
 __Aims:__
 * Automated Model Retraining
