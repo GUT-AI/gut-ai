@@ -1,17 +1,25 @@
 # GUT-AI
 
 
-__Summary:__ Documents and meta files about GUT-AI.
+__Summary:__ Documents and meta files about the GUT-AI Initiative in general.
 <br><br>
 
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
 <!-- MarkdownTOC -->
 
+* [About](#About)
+  * [Pitch](#pitch)
+  * [Vision](#vision)
+  * [Mission](#mission)
 * [Main papers](#main-papers)
   * [Research Proposal](#research-proposal)
   * [Whitepaper](#whitepaper)
   * [Selected publications](#selected-publications)
+* [Real-life impact](#real-life-impact)
+  * [Industries](#industries)
+  * [Use Cases](#use-cases)
+  * [Areas of application](#areas-of-application)
 * [Project files](#project-files)
   * [Landing page](#landing-page)
   * [Project page](#project-page)
@@ -20,14 +28,18 @@ __Summary:__ Documents and meta files about GUT-AI.
   * [Environment simulators](#environment-simulators)
   * [Datasets](#datasets)
   * [Model Zoos](#model-zoos)
-* [Real-life impact](#real-life-impact)
-  * [Industries](#industries)
-  * [Use Cases](#use-cases)
-  * [Areas of application](#areas-of-application)
 * [License](#license)
 
 <!-- /MarkdownTOC -->
 </details>
+
+## About
+
+### Pitch
+
+### Vision
+
+### Mission
 
 ## Main papers
 
@@ -42,40 +54,6 @@ __Coming soon!__
 ### Selected publications
 
 __Coming soon!__
-
-## Project files
-
-### Landing page
-
-The following is the official landing page for the whole initiative of GUT-AI:
-- http://gut-ai.org/
-
-### Project page
-
-Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
-- https://osf.io/rn2s4/
-
-### Project DOI
-
-__Project identifier:__ DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
-
-Please note that the above is the DOI for the whole project, __*not*__ for this GitHub repository.
-
-### List of components
-
-See [Components](components).
-
-### Environment simulators
-
-See [Simulators](simulators).
-
-### Datasets
-
-See [Datasets](datasets).
-
-### Model Zoos
-
-See [Model Zoos](model_zoos).
 
 ## Real-life impact
 
@@ -134,6 +112,40 @@ Depending on the modality (or madalities) of the data used, GUT-AI has applicati
 - Sequential Data (including Time Series)
 - Speech Processing
 - Transportation
+
+## Project files
+
+### Landing page
+
+The following is the official landing page for the whole initiative of GUT-AI:
+- http://gut-ai.org/
+
+### Project page
+
+Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
+- https://osf.io/rn2s4/
+
+### Project DOI
+
+__Project identifier:__ DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
+
+Please note that the above is the DOI for the whole project, __*not*__ for this GitHub repository.
+
+### List of components
+
+See [Components](components).
+
+### Environment simulators
+
+See [Simulators](simulators).
+
+### Datasets
+
+See [Datasets](datasets).
+
+### Model Zoos
+
+See [Model Zoos](model_zoos).
 
 ## License
 
