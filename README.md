@@ -99,7 +99,7 @@ See [Use Cases](use_cases).
 
 ### Areas of application
 
-Depending on the modality (or madalities) of the data used, GUT-AI has applications in countless domains, including the following:
+Depending on the modality (or modalities) of the data used, GUT-AI has applications in countless domains, including the following:
 
 - Bioinformatics
 - Compressed Sensing
