@@ -141,6 +141,20 @@ __Project identifier:__ DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
 
 Please note that the above is the DOI for the whole project, __*not*__ for this GitHub repository.
 
+### Current Problems and Challenges
+
+The Problems and Challenges that currently exists in our world are the following:
+* countless of centralized “solutions” in the cyberspace
+no interoperability
+limited communication
+inefficient processes
+multiple single-points-of-failure
+bureaucratic hegemony
+censorship
+no privacy
+security vulnerabilities
+
+
 ### List of components
 
 See [Components](components).
