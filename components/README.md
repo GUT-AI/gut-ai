@@ -123,7 +123,7 @@ __Aims:__
 * Support for Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
-* Direct integration to [GUT-AI Marketplace](#component-c14-gut-ai-marketplace) and other marketplaces
+* Direct integration to [GUT-AI Marketplace](#component-c13-gut-ai-marketplace) and other marketplaces
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
 * Automation, MLOps, DataOps, MoodelOps, DevOps
 * Information Security, SecDevOps, DevSecOps
@@ -146,10 +146,10 @@ __Aims:__
 __Description:__ Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
 __Aims:__
-* [Automated Data Preparation](#component-c11-automated-data-preparation)
+* [Automated Data Preparation](#component-c14-automated-data-preparation)
 * [AutoML](#component-c22-automl)
 * [Continual Learning](#component-c25-continual-learning)
-* [CI/CD](#component-c12-cicd)
+* [CI/CD](#component-c15-cicd)
 
 ### Component C2.2: AutoML
 
