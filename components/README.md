@@ -1,6 +1,6 @@
 # Components
 
-__Sumary:__ The GUT-AI initiative is subdivived into a series of components in order to build a *user-friendly* __Open-Data, Open-Source, Decentralized ecosystem__ under the umbrella of the GUT-AI Foundation. This is a list of all the components of such an ecosystem.
+__Sumary:__ The GUT-AI initiative is subdivived into a series of components in order to build a *user-friendly* __Open-Data, Open-Source, Decentralized ecosystem__ under the umbrella of the [GUT-AI Foundation](../README.md#dao-foundation). This is a list of all the components of such an ecosystem.
 
 ## Table of Contents
 
