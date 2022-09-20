@@ -179,7 +179,7 @@ __Aims:__
 
 ### Component C3.1: Automated Scientific Discovery
 
-__Description:__ Perform Automated Scientific Discovery
+__Description:__ Perform Automated Scientific Discovery.
 
 __Aims:__ TODO
 
@@ -194,114 +194,141 @@ __Aims:__
 * Image Captioning and Image Categorization
 * Pose Estimation
 * Action Classification
+* Activity Recognition
 * Super-Resolution
-* De-noising
+* Denoising
 * Image Restoration
 * Image Generation
 * Domain Adaptation
-* Multi-object Motion Detection and Tracking
-* Vision-based Motion Analysis
+* Multi-Object Motion Detection and Tracking
+* Vision-Based Motion Analysis
 
 ### Component C3.3: Grounded CV
 
-__Description:__ Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a mobile robot.
+__Description:__ Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
 
 __Aims:__ 
+* Simultaneous Localization and Mapping (SLAM).
 * 3D Scene Reconstruction
+* Surface Reconstruction
 * Structure from Motion
 * Feature Matching
-
+* Active Tracking
 
 ### Component C3.4: ASR
 
-__Description:__ Perform Automatic Speech Recognition (ASR)
+__Description:__ Perform Automatic Speech Recognition (ASR).
 
 __Aims:__ TODO
 
+### Component C3.5: TTS
 
-
-
-### Component C3.3: TTS
-
-__Description:__ Perform Text-to-Speech.
+__Description:__ Perform Text-to-Speech (TTS).
 
 __Aims:__ TODO
 
-### Component C3.4: SER
+### Component C3.6: SER
 
 __Description:__ Perform Speech Emotion Recognition (SER).
 
 __Aims:__ TODO
 
-### Component C3.5: MT
+### Component C3.7: MT
 
 __Description:__ Perform Machine Translation (MT).
 
 __Aims:__ TODO
 
-### Component C3.6: TOD
+### Component C3.8: TOD
 
 __Description:__ Perform Task-Oriented Dialog (TOD).
 
 __Aims:__ TODO
 
-### Component C3.7: QA
+### Component C3.9: QA
 
 __Description:__ Perform open-domain Question-Answering (QA).
 
 __Aims:__ TODO
 
-### Component C3.8: Grounded QA
+### Component C3.10: Grounded QA
 
-__Description:__ TODO
-
-__Aims:__ TODO
-
-### Component C3.9: VSPT
-
-__Description:__ TODO
+__Description:__ Perform Grounded Question-Answering (Grounded QA).
 
 __Aims:__ TODO
 
-### Component C3.10: Portfolio Management
+### Component C3.11: VSPT
 
-__Description:__ TODO
-
-__Aims:__ TODO
-
-### Component C3.11: Anomaly Detection
-
-__Description:__ TODO
+__Description:__ Perform Visuo-spatial Perpsective-Taking (VSPT).
 
 __Aims:__ TODO
 
-### Component C3.12: Recommender Engines
+### Component C3.12: Multi-Robot Path Planning
+
+__Description:__ Perform Multi-Robot Path Planning.
+
+__Aims:__ TODO
+
+### Component C3.13: Multi-Robot Target Detection and Tracking
+
+__Description:__ Perform Multi-Robot Target Detection and Tracking.
+
+__Aims:__ TODO
+
+
+### Component C3.14: Portfolio Management
+
+__Description:__ Perform Portfolio Management.
+
+__Aims:__ TODO
+
+### Component C3.15: Anomaly Detection
+
+__Description:__ Perform Anomaly Detection.
+
+__Aims:__ TODO
+
+### Component C3.16: Recommender Engines
 
 __Description:__ Implement Recommender Engines.
 
 __Aims:__ TODO
 
-### Component C3.22: Multi-Robot Path Planning
 
-__Description:__ TODO
-
-__Aims:__ TODO
-
-### Component C3.23: Multi-Robot Target Detection and Tracking
-
-__Description:__ TODO
-
-__Aims:__ TODO
-
-### Component C3.24: 
+### Component C3.17: Automated Protoyping
 
 __Description:__ TODO
 
 __Aims:__ TODO
 
 
+### Component C3.18: Automated UX
 
+__Description:__ TODO
 
+__Aims:__ TODO
 
+### Component C3.19: Automated Marketing
 
+__Description:__ TODO
+
+__Aims:__ TODO
+
+### Component C3.20: Automated Sales
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
+### Component C3.21: Automated Customer Support
+
+__Description:__ TODO
+
+__Aims:__ TODO
+
+### Component C3.22: Automated Compliance
+
+__Description:__ TODO
+
+__Aims:__ TODO
 
