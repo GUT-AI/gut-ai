@@ -57,6 +57,10 @@ __Coming soon!__
 
 __Coming soon!__
 
+## DAO Foundation
+
+The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
+
 ### Selected publications
 
 __Coming soon!__
@@ -152,10 +156,6 @@ See [Datasets](datasets).
 ### Model Zoos
 
 See [Model Zoos](model_zoos).
-
-## DAO Foundation
-
-The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 ## License
 
