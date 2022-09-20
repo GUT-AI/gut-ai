@@ -143,17 +143,15 @@ Please note that the above is the DOI for the whole project, __*not*__ for this 
 
 ### Current Problems and Challenges
 
-The Problems and Challenges that currently exists in our world are the following:
-* countless of centralized “solutions” in the cyberspace
-no interoperability
-limited communication
-inefficient processes
-multiple single-points-of-failure
-bureaucratic hegemony
-censorship
-no privacy
-security vulnerabilities
-
+Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges: 
+* no interoperability
+* limited communication
+* inefficient processes
+* multiple single-points-of-failure
+* bureaucratic hegemony
+* censorship
+* no privacy
+* security vulnerabilities
 
 ### List of components
 
