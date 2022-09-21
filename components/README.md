@@ -88,6 +88,7 @@ __Aims:__
 * Support for Near-Zero Energy Buildings (NZEBs)
 * Support for Aeroponics, Hydroponics and Aquaponics for near-zero energy farming
 * Support for conventional agronomics and livestock farming
+* Maximum freedom and liberty to each household on *how* to operate their own household as part of the whole ecosystem
 
 ## Layer 2 components
 
