@@ -10,7 +10,7 @@ It is important to note that each component definition intentionally does not in
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
 * [Layer 2 components](#layer-1-components)
-  * [Component C2.1: GUT-AI DCP](#component-c12-gut-ai-dcp)
+  * [Component C2.1: GUT-AI DCP](#component-c21-gut-ai-dcp)
   * [Component C2.2: GUT-AI Marketplace](#component-c13-gut-ai-marketplace)
   * [Component C2.3: Automated Data Preparation](#component-c14-automated-data-preparation)
   * [Component C2.4: CI/CD](#component-c15-cicd)
@@ -63,10 +63,11 @@ The following layer architecture will be used:
 
 ### Component C1.1: Distributed Smart Grids
 
-__Description:__ Create Distributed Smart Grids for the __energy storage__ needs of the Blockchain and AI era. Also use AI to improve Distributed Smart Grids.
+__Description:__ Bring Distributed Smart Grids into production in real life through Blockchain and AI services ([GUT-AI DCP](#component-c21-gut-ai-dc)) powered by __energy storage__. Also use AI to improve Distributed Smart Grids.
 
 __Aims:__
 * No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
+* Use of grid-connected __microgrid__ for both electricity and communication 
 * Use of specific hardware and devices
   * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
   * Distributed Electricity and Energy Storage (e.g. batteries)
@@ -85,7 +86,7 @@ __Aims:__
 
 ## Layer 2 components
 
-### Component C1.2: GUT-AI DCP
+### Component C2.1: GUT-AI DCP
 
 __Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
 
