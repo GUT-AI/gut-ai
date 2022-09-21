@@ -156,7 +156,7 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 
 ### List of components
 
-See [Components](components).
+See [Components](components) for a list of sub-projects.
 
 ### Environment simulators
 
