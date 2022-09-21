@@ -6,37 +6,8 @@ GUT-AI
 **Summary:** Documents and meta files about the GUT-AI Initiative in general.
 <br><br>
 
+.. contents:: **Table of Contents**
 
-
-<details>
-<summary><b>Table of Contents</b> (click to open)</summary>
-<!-- MarkdownTOC -->
-
-* [About](#About)
-  * [Pitch](#pitch)
-  * [Vision](#vision)
-  * [Mission](#mission)
-* [Main papers](#main-papers)
-  * [Research Proposal](#research-proposal)
-  * [Whitepaper](#whitepaper)
-  * [Selected publications](#selected-publications)
-* [Real-life impact](#real-life-impact)
-  * [Industries](#industries)
-  * [Use Cases](#use-cases)
-  * [Areas of application](#areas-of-application)
-* [Project files](#project-files)
-  * [Landing page](#landing-page)
-  * [Project page](#project-page)
-  * [Project DOI](#project-doi)
-  * [Current Problems and Challenges](#current-problems-and-challenges)
-  * [List of components](#list-of-components)
-  * [Environment simulators](#environment-simulators)
-  * [Datasets](#datasets)
-  * [Model Zoos](#model-zoos)
-* [License](#license)
-
-<!-- /MarkdownTOC -->
-</details>
 
 About
 ----
@@ -59,28 +30,30 @@ We are on a mission to create the most *user-friendly* **Open-Data, Open-Source,
 Main papers
 ----
 
-### Research Proposal
+Research Proposal
 ^^^^
 
 __Coming soon!__
 
-### Whitepaper
+Whitepaper
 ^^^^
 
 __Coming soon!__
 
-## DAO Foundation
+DAO Foundation
+----
 
 The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
-### Selected publications
+Selected publications
 ^^^^
 
 __Coming soon!__
 
-## Real-life impact
+Real-life impact
+----
 
-### Industries
+Industries
 ^^^^
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
@@ -111,12 +84,12 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Security and Surveillance
 - Telecoms
 
-### Use Cases
+Use Cases
 ^^^^
 
 See [Use Cases](use_cases).
 
-### Areas of application
+Areas of application
 ^^^^
 
 Depending on the modality (or modalities) of the data used, GUT-AI has applications in countless domains, including the following:
@@ -139,28 +112,29 @@ Depending on the modality (or modalities) of the data used, GUT-AI has applicati
 - Speech Processing
 - Transportation
 
-## Project files
+Project files
+----
 
-### Landing page
+Landing page
 ^^^^
 
 The following is the official landing page for the whole initiative of GUT-AI:
 - http://gut-ai.org/
 
-### Project page
+Project page
 ^^^^
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
 - https://osf.io/rn2s4/
 
-### Project DOI
+Project DOI
 ^^^^
 
-__Project identifier:__ https://doi.org/10.17605/OSF.IO/RN2S4
+**Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, __*not*__ for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
+Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
 
-### Current Problems and Challenges
+Current Problems and Challenges
 ^^^^
 
 Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges: 
@@ -173,27 +147,27 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 * no privacy
 * security vulnerabilities
 
-### List of components
+List of components
 ^^^^
 
 See [Components](components) for a list of sub-projects.
 
-### Environment simulators
+Environment simulators
 ^^^^
 
 See [Simulators](simulators).
 
-### Datasets
+Datasets
 ^^^^
 
 See [Datasets](datasets).
 
-### Model Zoos
+Model Zoos
 ^^^^
 
 See [Model Zoos](model_zoos).
 
-## License
-^^^^
+License
+----
 
 [Creative Commons Zero CC0 1.0 (Public Domain)](LICENSE)
