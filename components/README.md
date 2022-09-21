@@ -103,9 +103,9 @@ __Aims:__
 * Data Lakes
 * Anything else that a conventional, centralized Cloud Provider can offer
 
-### Component C1.3: GUT-AI Marketplace
+### Component C2.2: GUT-AI Marketplace
 
-__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module. 
+__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
 
 __Aims:__
 * Open Data (e.g. datasets, pre-trained models) as modules
@@ -116,7 +116,7 @@ __Aims:__
 * Marketplace for marketplaces by third parties for physical products (e.g. computers, servers, robots)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 
-### Component C1.4: Automated Data Preparation
+### Component C2.3: Automated Data Preparation
 
 __Description:__ Perform Automated Data Preparation using AI.
 
@@ -129,7 +129,7 @@ __Aims:__
 * Data Sampling
 * Data Cleaning
 
-### Component C1.5: CI/CD
+### Component C2.4: CI/CD
 
 __Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
@@ -160,7 +160,7 @@ __Aims:__
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the *technical debt*
 
-### Component C1.6: DX
+### Component C2.5: DX
 
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
@@ -172,7 +172,7 @@ __Aims:__
 
 ## Layer 3 components
 
-### Component C2.1: AutoDS
+### Component C3.1: AutoDS
 
 __Description:__ Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
@@ -182,7 +182,7 @@ __Aims:__
 * [Continual Learning](#component-c25-continual-learning)
 * [CI/CD](#component-c15-cicd)
 
-### Component C2.2: AutoML
+### Component C3.2: AutoML
 
 __Description:__ Perform Automated Machine Learning (AutoML).
 
@@ -190,7 +190,7 @@ __Aims:__
 * [Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
 * [NAS](#component-c24-nas)
 
-### Component C2.3: Automated Data Preprocessing
+### Component C3.3: Automated Data Preprocessing
 
 __Description:__ Perform Automated Data Preprocessing.
 
@@ -203,7 +203,7 @@ __Aims:__
     * Feature Construction / Generative Learning
     * Adversarial Learning
 
-### Component C2.4: NAS
+### Component C3.4: NAS
 
 __Description:__ Perform Neural Architecture Search (NAS).
 
@@ -214,14 +214,14 @@ __Aims:__
   * Hyperparameter Optimization
 * Automated Model Estimation
 
-### Component C2.5: Continual Learning
+### Component C3.5: Continual Learning
 
 __Description:__ Perform Continual Learning.
 
 __Aims:__
 * Automated Model Retraining
 
-### Component C2.6: Distributed Systems for ML
+### Component C3.6: Distributed Systems for ML
 
 __Description:__ Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
@@ -229,7 +229,7 @@ __Aims:__
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
 
-### Component C2.7: Solve memory bottleneck
+### Component C3.7: Solve memory bottleneck
 
 __Description:__ Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
@@ -251,13 +251,13 @@ __Aims:__
 
 ## Layer 4 components
 
-### Component C3.1: Automated Scientific Discovery
+### Component C4.1: Automated Scientific Discovery
 
 __Description:__ Perform Automated Scientific Discovery.
 
 __Aims:__ TODO
 
-### Component C3.2: MTSU
+### Component C4.2: MTSU
 
 __Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
 
@@ -281,7 +281,7 @@ __Aims:__
 * Multi-Object Motion Detection and Tracking
 * Vision-Based Motion Analysis
 
-### Component C3.3: Grounded CV
+### Component C4.3: Grounded CV
 
 __Description:__ Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
 
@@ -293,31 +293,31 @@ __Aims:__
 * Feature Matching
 * Active Tracking
 
-### Component C3.4: ASR
+### Component C4.4: ASR
 
 __Description:__ Perform Automatic Speech Recognition (ASR).
 
 __Aims:__ TODO
 
-### Component C3.5: TTS
+### Component C4.5: TTS
 
 __Description:__ Perform Text-to-Speech (TTS).
 
 __Aims:__ TODO
 
-### Component C3.6: SER
+### Component C4.6: SER
 
 __Description:__ Perform Speech Emotion Recognition (SER).
 
 __Aims:__ TODO
 
-### Component C3.7: MT
+### Component C4.7: MT
 
 __Description:__ Perform Machine Translation (MT).
 
 __Aims:__ TODO
 
-### Component C3.8: TOD
+### Component C4.8: TOD
 
 __Description:__ Perform Task-Oriented Dialog (TOD) using Multitak Learning.
 
@@ -328,44 +328,44 @@ __Aims:__
 * Dialog Manager
 * Natural Language Generation (NLG)
 
-### Component C3.9: QA
+### Component C4.9: QA
 
 __Description:__ Perform open-domain Question-Answering (QA).
 
 __Aims:__ TODO
 
-### Component C3.10: Grounded QA
+### Component C4.10: Grounded QA
 
 __Description:__ Perform Grounded Question-Answering (Grounded QA).
 
 __Aims:__ TODO
 
-### Component C3.11: VSPT
+### Component C4.11: VSPT
 
 __Description:__ Perform Visuo-spatial Perpsective-Taking (VSPT).
 
 __Aims:__ TODO
 
-### Component C3.12: Multi-Robot Path Planning
+### Component C4.12: Multi-Robot Path Planning
 
 __Description:__ Perform Multi-Robot Path Planning.
 
 __Aims:__ TODO
 
-### Component C3.13: Multi-Robot Target Detection and Tracking
+### Component C4.13: Multi-Robot Target Detection and Tracking
 
 __Description:__ Perform Multi-Robot Target Detection and Tracking.
 
 __Aims:__ TODO
 
 
-### Component C3.14: Anomaly Detection
+### Component C4.14: Anomaly Detection
 
 __Description:__ Perform Anomaly Detection.
 
 __Aims:__ TODO
 
-### Component C3.15: Recommender Engines
+### Component C4.15: Recommender Engines
 
 __Description:__ Implement Recommender Engines.
 
