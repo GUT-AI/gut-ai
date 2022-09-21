@@ -8,6 +8,7 @@ It is important to note that each component definition intentionally does not in
 
 * [List of component identifiers](#list-of-component-identifiers)
 * [Meta component](#meta-component)
+* [Five-Layer Architecture](#five-layer-architecture)
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
   * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
@@ -48,7 +49,6 @@ It is important to note that each component definition intentionally does not in
   * [Component C5.5: Automated Customer Support](#component-c55-automated-customer-support)
   * [Component C5.6: Automated Governance and Compliance](#component-c56-automated-governance-and-compliance)
   * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
-
 
 ## List of component identifiers
 
