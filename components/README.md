@@ -68,7 +68,8 @@ __Aims:__
 * Support for interoperable electric vehicles
 * Support for conventional (dieasel and petrol) vehicles
 * Support for Near-Zero Energy Buildings (NZEBs)
-* Support for Aeroponics, Hydroponics and Aquaponics
+* Support for Aeroponics, Hydroponics and Aquaponics for near-zero energy farming
+* Support for conventional agronomics and livestock farming
 
 ### Component C1.2: GUT-AI DCP
 
