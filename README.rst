@@ -50,7 +50,7 @@ __Coming soon!__
 DAO Foundation
 ----
 
-The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
+The **GUT-AI Foundation** has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 Real-life impact
 ----
@@ -139,7 +139,8 @@ Please note that the above is the DOI for the *whole* project, *not* for this Gi
 Current Problems and Challenges
 ^^^^
 
-Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges: 
+Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges:
+
 * no interoperability
 * limited communication
 * inefficient processes
