@@ -40,15 +40,17 @@ Whitepaper
 
 __Coming soon!__
 
-DAO Foundation
-----
-
-The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 Selected publications
 ^^^^
 
 __Coming soon!__
+
+
+DAO Foundation
+----
+
+The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 Real-life impact
 ----
@@ -87,7 +89,7 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 Use Cases
 ^^^^
 
-See [Use Cases](use_cases).
+See `Use Cases <use_cases/README.rst>`_.
 
 Areas of application
 ^^^^
@@ -170,4 +172,4 @@ See [Model Zoos](model_zoos).
 License
 ----
 
-[Creative Commons Zero CC0 1.0 (Public Domain)](LICENSE)
+`Creative Commons Zero CC0 1.0 (Public Domain) <LICENSE>`_
