@@ -138,9 +138,9 @@ Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the proje
 
 ### Project DOI
 
-__Project identifier:__ DOI [10.17605/OSF.IO/RN2S4](https://osf.io/rn2s4/)
+__Project identifier:__ https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the whole project, __*not*__ for this GitHub repository.
+Please note that the above is the DOI for the *whole* project, __*not*__ for this GitHub repository.
 
 ### Current Problems and Challenges
 
