@@ -6,7 +6,7 @@ The identifiers are tabulated below.
 
 | Component | Identifier                            | Repository                       |
 | --------- | ------------------------------------- | -------------------------------- |
-| Meta      | https://doi.org/10.17605/OSF.IO/RN2S4 | https://github.com/GUT-AI/gut-ai |
+| [Meta](../README.md#meta-component) | https://doi.org/10.17605/OSF.IO/RN2S4 | https://github.com/GUT-AI/gut-ai |
 | C1.1      | Link | Link |
 | C1.2      | Link | Link |
 | C2.1      | Link | Link |
@@ -20,3 +20,10 @@ The identifiers are tabulated below.
 | C3.5      | Link | Link |
 | C3.6      | Link | Link |
 | C3.7      | Link | Link |
+| C4.1      | Link | Link |
+| C4.2      | Link | Link |
+| C4.3      | Link | Link |
+| C4.4      | Link | Link |
+| C4.5      | Link | Link |
+| C4.6      | Link | Link |
+| C4.7      | Link | Link |
