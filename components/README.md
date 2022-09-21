@@ -76,9 +76,9 @@ __Aims:__
 * Use of specific hardware and devices
   * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
   * Distributed Electricity and Energy Storage (e.g. batteries)
-  * Smart Grid *connectivity* equipment (e.g. distributed servers, dish antenna)
+  * Smart Grid *connectivity* equipment (e.g. physical servers, dish antenna)
 * Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
-* Use of stored energy and __valley filling DSM__ for the demands of the GUT-AI DCP through in-house distributed servers
+* Use of stored energy and __valley filling DSM__ for the demands of the GUT-AI DCP through in-house physical servers
 * Use of __Communication__ for proactive and online diagnosis of transient faults and prognosis of potential blackouts
 * Use of __Real-Time Pricing__ through a Decentralized Exchange (DEX) for power markets
 * Distributed Computer Network for __Communication, DSM__ and __Real-Time Pricing__
@@ -113,7 +113,7 @@ __Aims:__
 * Centralized and decentralized SaaS modules developed by third parties
 * Centralized and decentralized PaaS modules developed by third parties
 * Centralized and decentralized IaaS modules developed by third parties
-* Marketplace for marketplaces by third parties for physical products (e.g. computers, servers, robots)
+* Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaci panels)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 
 ### Component C2.3: Automated Data Preparation
