@@ -121,6 +121,7 @@ Landing page
 ^^^^
 
 The following is the official landing page for the whole initiative of GUT-AI:
+
 - http://gut-ai.org/
 
 Project page
