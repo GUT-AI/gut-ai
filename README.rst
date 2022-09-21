@@ -1,5 +1,5 @@
 GUT-AI
-====
+======
 
 ![GUT-AI Initiative Logo](https://gut-ai.carrd.co/assets/images/image01.png)
 
@@ -10,10 +10,10 @@ GUT-AI
 
 
 About
-----
+-----
 
 Pitch
-^^^^
+^^^^^
 
 The GUT-AI initiative is an initiative which aims to eliminate the *multiple, single-points-of-failure* when using AI for real-life applications in the *real world* in order to achive the ultimate purpose of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from Brain Consciousness and Abiogenesis to Quantum Gravity and Genesis Cosmology). 
 
@@ -28,10 +28,10 @@ Mission
 We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** for AI using cutting edge technology either of the 21st century or that we might invent ourselves.
 
 Main papers
-----
+-----------
 
 Research Proposal
-^^^^
+^^^^^^^^^^^^^^^^^
 
 __Coming soon!__
 
