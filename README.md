@@ -4,7 +4,7 @@
 __Summary:__ Documents and meta files about the GUT-AI Initiative in general.
 <br><br>
 
-![GUT-AI Initiative Logo]()
+![GUT-AI Initiative Logo](https://gut-ai.carrd.co/assets/images/image01.png)
 
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
