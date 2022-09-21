@@ -1,6 +1,7 @@
-# Use Cases
+Use Cases
+=========
 
-__Summary:__ This is a non-exhaustive list of Use Cases of GUT-AI for various industries.
+**Summary:** This is a non-exhaustive list of Use Cases of GUT-AI for various industries.
 
 Click the industry below to explore Use Cases for that specific industry.
 - Aerospace
