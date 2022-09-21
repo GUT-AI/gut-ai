@@ -140,7 +140,7 @@ Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the proje
 
 __Project identifier:__ https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, __*not*__ for this GitHub repository. For the identifiers of each specific component, check [identifiers](component/identifiers/README.md).
+Please note that the above is the DOI for the *whole* project, __*not*__ for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
 
 ### Current Problems and Challenges
 
