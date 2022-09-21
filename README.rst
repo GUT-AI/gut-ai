@@ -1,10 +1,12 @@
-# GUT-AI
-
-
-__Summary:__ Documents and meta files about the GUT-AI Initiative in general.
-<br><br>
+GUT-AI
+====
 
 ![GUT-AI Initiative Logo](https://gut-ai.carrd.co/assets/images/image01.png)
+
+**Summary:** Documents and meta files about the GUT-AI Initiative in general.
+<br><br>
+
+
 
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
@@ -36,27 +38,34 @@ __Summary:__ Documents and meta files about the GUT-AI Initiative in general.
 <!-- /MarkdownTOC -->
 </details>
 
-## About
+About
+----
 
-### Pitch
+Pitch
+^^^^
 
 The GUT-AI initiative is an initiative which aims to eliminate the *multiple, single-points-of-failure* when using AI for real-life applications in the *real world* in order to achive the ultimate purpose of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from Brain Consciousness and Abiogenesis to Quantum Gravity and Genesis Cosmology). 
 
-### Vision
+Vision
+^^^^
 
 We believe that there should be no organization or person in our world who wants to use AI, but not be able to do so. We also believe in a world where AI hand in hand with human interaction are in an ever-improving situation.
 
-### Mission
+Mission
+^^^^
 
-We are on a mission to create the most *user-friendly* __Open-Data, Open-Source, Decentralized ecosystem__ for AI using cutting edge technology either of the 21st century or that we might invent ourselves.
+We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** for AI using cutting edge technology either of the 21st century or that we might invent ourselves.
 
-## Main papers
+Main papers
+----
 
 ### Research Proposal
+^^^^
 
 __Coming soon!__
 
 ### Whitepaper
+^^^^
 
 __Coming soon!__
 
@@ -65,12 +74,14 @@ __Coming soon!__
 The __GUT-AI Foundation__ has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the __decentralized__ nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 ### Selected publications
+^^^^
 
 __Coming soon!__
 
 ## Real-life impact
 
 ### Industries
+^^^^
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
 
@@ -101,10 +112,12 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Telecoms
 
 ### Use Cases
+^^^^
 
 See [Use Cases](use_cases).
 
 ### Areas of application
+^^^^
 
 Depending on the modality (or modalities) of the data used, GUT-AI has applications in countless domains, including the following:
 
@@ -129,22 +142,26 @@ Depending on the modality (or modalities) of the data used, GUT-AI has applicati
 ## Project files
 
 ### Landing page
+^^^^
 
 The following is the official landing page for the whole initiative of GUT-AI:
 - http://gut-ai.org/
 
 ### Project page
+^^^^
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
 - https://osf.io/rn2s4/
 
 ### Project DOI
+^^^^
 
 __Project identifier:__ https://doi.org/10.17605/OSF.IO/RN2S4
 
 Please note that the above is the DOI for the *whole* project, __*not*__ for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
 
 ### Current Problems and Challenges
+^^^^
 
 Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges: 
 * no interoperability
@@ -157,21 +174,26 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 * security vulnerabilities
 
 ### List of components
+^^^^
 
 See [Components](components) for a list of sub-projects.
 
 ### Environment simulators
+^^^^
 
 See [Simulators](simulators).
 
 ### Datasets
+^^^^
 
 See [Datasets](datasets).
 
 ### Model Zoos
+^^^^
 
 See [Model Zoos](model_zoos).
 
 ## License
+^^^^
 
 [Creative Commons Zero CC0 1.0 (Public Domain)](LICENSE)
