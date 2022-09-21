@@ -4,6 +4,8 @@
 __Summary:__ Documents and meta files about the GUT-AI Initiative in general.
 <br><br>
 
+![GUT-AI Initiative Logo](https://osf.io/download/632b2df10b72720b3c2b01b0/)
+
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
 <!-- MarkdownTOC -->
