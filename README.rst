@@ -3,6 +3,22 @@ GUT-AI
 
 ![GUT-AI Initiative Logo](https://gut-ai.carrd.co/assets/images/image01.png)
 
+.. raw:: html
+
+   <div align="center">
+
+.. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
+   :target: https://img.shields.io/badge/License-Apache%202.0-blue.svg
+   :alt: License
+
+.. raw:: html
+
+   </div>
+
+.. inclusion-marker-start-do-not-remove
+
+|
+
 **Summary:** Documents and meta files about the GUT-AI Initiative in general.
 <br><br>
 
