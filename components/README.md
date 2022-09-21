@@ -7,6 +7,7 @@ It is important to note that each component definition intentionally does not in
 ## Table of Contents
 
 * [List of component identifiers](#list-of-component-identifiers)
+* [Meta component](#meta-component)
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
   * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
@@ -52,6 +53,10 @@ It is important to note that each component definition intentionally does not in
 ## List of component identifiers
 
 See [identifiers](identifiers/README.md) for the list of identifiers of all components.
+
+## Meta Component
+
+The Meta component is a component about all the components. Its repository is the current one.
 
 ## Five-Layer Architecture
 
