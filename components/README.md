@@ -6,45 +6,57 @@ It is important to note that each component definition intentionally does not in
 
 ## Table of Contents
 
+* [Layer Architeacture](#layer-architeacture)
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
-  * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
-  * [Component C1.3: GUT-AI Marketplace](#component-c13-gut-ai-marketplace)
-  * [Component C1.4: Automated Data Preparation](#component-c14-automated-data-preparation)
-  * [Component C1.5: CI/CD](#component-c15-cicd)
-  * [Component C1.6: DX](#component-c16-dx)  
-* [Layer 2 components](#layer-2-components)
-  * [Component C2.1: AutoDS](#component-c21-autods)
-  * [Component C2.2: AutoML](#component-c22-automl)
-  * [Component C2.3: Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
-  * [Component C2.4: NAS](#component-c24-nas)
-  * [Component C2.5: Continual Learning](#component-c25-continual-learning)
-  * [Component C2.6: Distributed Systems for ML](#component-c26-distributed-systems-for-ml)
-  * [Component C2.7: Solve memory bottleneck](#component-c27-solve-memory-bottleneck)
-* [Layer 3 components](#layer-3-components)
-  * [Component C3.1: Automated Scientific Discovery](#component-c31-automated-scientific-discovery)
-  * [Component C3.2: MTSU](#component-c32-mtsu)
-  * [Component C3.3: Grounded CV](#component-c33-grounded-cv)
-  * [Component C3.4: ASR](#component-c34-asr)
-  * [Component C3.5: TTS](#component-c35-tts)
-  * [Component C3.6: SER](#component-c36-ser)
-  * [Component C3.7: MT](#component-c37-mt)
-  * [Component C3.8: TOD](#component-c38-tod)
-  * [Component C3.9: QA](#component-c39-qa)
-  * [Component C3.10: Grounded QA](#component-c310-grounded-qa)
-  * [Component C3.11: VSPT](#component-c311-vspt)
-  * [Component C3.12: Multi-Robot Path Planning](#component-c312-multi-robot-path-planning)
-  * [Component C3.13: Multi-Robot Target Detection and Tracking](#component-c313-multi-robot-target-detection-and-tracking)
-  * [Component C3.14: Anomaly Detection](#component-c315-anomaly-detection)
-  * [Component C3.15: Recommender Engines](#component-c316-recommender-engines)
+* [Layer 2 components](#layer-1-components)
+  * [Component C2.1: GUT-AI DCP](#component-c12-gut-ai-dcp)
+  * [Component C2.2: GUT-AI Marketplace](#component-c13-gut-ai-marketplace)
+  * [Component C2.3: Automated Data Preparation](#component-c14-automated-data-preparation)
+  * [Component C2.4: CI/CD](#component-c15-cicd)
+  * [Component C2.5: DX](#component-c16-dx)  
+* [Layer 3 components](#layer-2-components)
+  * [Component C3.1: AutoDS](#component-c21-autods)
+  * [Component C3.2: AutoML](#component-c22-automl)
+  * [Component C3.3: Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
+  * [Component C3.4: NAS](#component-c24-nas)
+  * [Component C3.5: Continual Learning](#component-c25-continual-learning)
+  * [Component C3.6: Distributed Systems for ML](#component-c26-distributed-systems-for-ml)
+  * [Component C3.7: Solve memory bottleneck](#component-c27-solve-memory-bottleneck)
 * [Layer 4 components](#layer-4-components)
-  * [Component C4.1: Automated Protoyping](#component-c41-automated-protoyping)
-  * [Component C4.2: Automated UX](#component-c42-automated-ux)
-  * [Component C4.3: Automated Marketing](#component-c43-automated-marketing)
-  * [Component C4.4: Automated Sales](#component-c44-automated-sales)
-  * [Component C4.5: Automated Customer Support](#component-c45-automated-customer-support)
-  * [Component C4.6: Automated Governance and Compliance](#component-c46-automated-governance-and-compliance)
-  * [Component C4.7: Portfolio Management](#component-c47-portfolio-management)
+  * [Component C4.1: Automated Scientific Discovery](#component-c31-automated-scientific-discovery)
+  * [Component C4.2: MTSU](#component-c32-mtsu)
+  * [Component C4.3: Grounded CV](#component-c33-grounded-cv)
+  * [Component C4.4: ASR](#component-c34-asr)
+  * [Component C4.5: TTS](#component-c35-tts)
+  * [Component C4.6: SER](#component-c36-ser)
+  * [Component C4.7: MT](#component-c37-mt)
+  * [Component C4.8: TOD](#component-c38-tod)
+  * [Component C4.9: QA](#component-c39-qa)
+  * [Component C4.10: Grounded QA](#component-c310-grounded-qa)
+  * [Component C4.11: VSPT](#component-c311-vspt)
+  * [Component C4.12: Multi-Robot Path Planning](#component-c312-multi-robot-path-planning)
+  * [Component C4.13: Multi-Robot Target Detection and Tracking](#component-c313-multi-robot-target-detection-and-tracking)
+  * [Component C4.14: Anomaly Detection](#component-c315-anomaly-detection)
+  * [Component C4.15: Recommender Engines](#component-c316-recommender-engines)
+* [Layer 5 components](#layer-5-components)
+  * [Component C5.1: Automated Protoyping](#component-c41-automated-protoyping)
+  * [Component C5.2: Automated UX](#component-c42-automated-ux)
+  * [Component C5.3: Automated Marketing](#component-c43-automated-marketing)
+  * [Component C5.4: Automated Sales](#component-c44-automated-sales)
+  * [Component C5.5: Automated Customer Support](#component-c45-automated-customer-support)
+  * [Component C5.6: Automated Governance and Compliance](#component-c46-automated-governance-and-compliance)
+  * [Component C5.7: Portfolio Management](#component-c47-portfolio-management)
+
+
+## Layer Architeacture
+
+The following layer architecture will be used:
+* Laywer 1 - Physical and Data Link layer
+* Laywer 2 - Network layer
+* Laywer 3 - IaaS layer
+* Laywer 4 - PaaS layer
+* Laywer 5 - SaaS layer
 
 
 ## Layer 1 components
@@ -70,6 +82,8 @@ __Aims:__
 * Support for Near-Zero Energy Buildings (NZEBs)
 * Support for Aeroponics, Hydroponics and Aquaponics for near-zero energy farming
 * Support for conventional agronomics and livestock farming
+
+## Layer 2 components
 
 ### Component C1.2: GUT-AI DCP
 
@@ -149,7 +163,7 @@ __Aims:__
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the *cultural debt* or improving the DX
 
-## Layer 2 components
+## Layer 3 components
 
 ### Component C2.1: AutoDS
 
@@ -228,7 +242,7 @@ __Aims:__
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
 * Bayesian Neural Networks (BNNs)
 
-## Layer 3 components
+## Layer 4 components
 
 ### Component C3.1: Automated Scientific Discovery
 
@@ -350,16 +364,16 @@ __Description:__ Implement Recommender Engines.
 
 __Aims:__ TODO
 
-## Layer 4 components
+## Layer 5 components
 
-### Component C4.1: Automated Protoyping
+### Component C5.1: Automated Protoyping
 
 __Description:__ Perform Automated Protoyping.
 
 __Aims:__ 
 * Ideation and Creation
 
-### Component C4.2: Automated UX
+### Component C5.2: Automated UX
 
 __Description:__ Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
@@ -368,25 +382,25 @@ __Aims:__
 * Automated User Validation
 * Automated UX Research
 
-### Component C4.3: Automated Marketing
+### Component C5.3: Automated Marketing
 
 __Description:__ Perform Automated Marketing.
 
 __Aims:__ TODO
 
-### Component C4.4: Automated Sales
+### Component C5.4: Automated Sales
 
 __Description:__ Perform Automated Sales.
 
 __Aims:__ TODO
 
-### Component C4.5: Automated Customer Support
+### Component C5.5: Automated Customer Support
 
 __Description:__ Perform Customer Support.
 
 __Aims:__ TODO
 
-### Component C4.6: Automated Governance and Compliance
+### Component C5.6: Automated Governance and Compliance
 
 __Description:__ Perform Automated Governance and Compliance for the Blockchain and AI era.
 
