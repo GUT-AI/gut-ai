@@ -6,7 +6,7 @@ It is important to note that each component definition intentionally does not in
 
 ## Table of Contents
 
-* [Layer Architeacture](#layer-architeacture)
+* [List of component identifiers](#list-of-component-identifiers)
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
   * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
@@ -49,9 +49,9 @@ It is important to note that each component definition intentionally does not in
   * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
 
 
-## GUT-AI Meta component
+## List of component identifiers
 
-__Project Identifier:__ https://doi.org/10.17605/OSF.IO/VMJPX
+See [identifiers](identifiers/README.md) for the list of identifiers of all components.
 
 ## Five-Layer Architecture
 
