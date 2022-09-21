@@ -51,13 +51,18 @@ It is important to note that each component definition intentionally does not in
 
 ## Layer Architeacture
 
-The following layer architecture will be used:
-* Laywer 1 - Physical and Data Link layer
-* Laywer 2 - Network layer
-* Laywer 3 - IaaS layer
-* Laywer 4 - PaaS layer
-* Laywer 5 - SaaS layer
+The following five-layer architecture will be used:
+* Layer 1 - Physical and Data Link layer
+* Layer 2 - IaaS layer
+* Layer 3 - PaaS layer
+* Layer 4 - AIaaS layer
+* Layer 5 - SaaS layer
 
+__Abbreviations:__<br>
+IaaS = Infrastructure as a Service <br>
+PaaS = Platform as a Service <br>
+AIaaS = AI as a Service <br>
+SaaS = Software as a Service <br>
 
 ## Layer 1 components
 
