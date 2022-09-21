@@ -49,9 +49,13 @@ It is important to note that each component definition intentionally does not in
   * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
 
 
+## GUT-AI Meta component
+
+__Project Identifier:__ https://doi.org/10.17605/OSF.IO/VMJPX
+
 ## Five-Layer Architecture
 
-The following __Five-Layer Architecture__ will be used:
+The following __Five-Layer Architecture__ is used:
 * Layer 1 - Physical and Data Link layer
 * Layer 2 - IaaS Layer
 * Layer 3 - PaaS Layer
