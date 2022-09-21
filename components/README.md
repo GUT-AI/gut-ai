@@ -35,9 +35,8 @@ It is important to note that each component definition intentionally does not in
   * [Component C3.11: VSPT](#component-c311-vspt)
   * [Component C3.12: Multi-Robot Path Planning](#component-c312-multi-robot-path-planning)
   * [Component C3.13: Multi-Robot Target Detection and Tracking](#component-c313-multi-robot-target-detection-and-tracking)
-  * [Component C3.14: Portfolio Management](#component-c314-portfolio-management)
-  * [Component C3.15: Anomaly Detection](#component-c315-anomaly-detection)
-  * [Component C3.16: Recommender Engines](#component-c316-recommender-engines)
+  * [Component C3.14: Anomaly Detection](#component-c315-anomaly-detection)
+  * [Component C3.15: Recommender Engines](#component-c316-recommender-engines)
 * [Layer 4 components](#layer-4-components)
   * [Component C4.1: Automated Protoyping](#component-c41-automated-protoyping)
   * [Component C4.2: Automated UX](#component-c42-automated-ux)
@@ -45,23 +44,31 @@ It is important to note that each component definition intentionally does not in
   * [Component C4.4: Automated Sales](#component-c44-automated-sales)
   * [Component C4.5: Automated Customer Support](#component-c45-automated-customer-support)
   * [Component C4.6: Automated Governance and Compliance](#component-c46-automated-governance-and-compliance)
+  * [Component C4.7: Portfolio Management](#component-c47-portfolio-management)
 
 
 ## Layer 1 components
 
 ### Component C1.1: Distributed Smart Grids
 
-__Description:__ Create Distributed Smart Grids for the __energy storage__ needs of the Blockchain and AI era.
+__Description:__ Create Distributed Smart Grids for the __energy storage__ needs of the Blockchain and AI era. Also use AI to improve Distributed Smart Grids.
 
 __Aims:__
-* Smart Grids
-* Distributed Renewables (e.g. PV)
-* Decentralized Electricity and Energy Storage (e.g. batteries)
-* Distributed Computer Network for Communication
+* No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
+* Use of specific hardware and devices
+  * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
+  * Distributed Electricity and Energy Storage (e.g. batteries)
+  * Smart Grid equipment (e.g. distributed servers, dish antenna)
+* Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
+* Use of stored energy and __valley filling DSM__ for the demands of the GUT-AI DCP through in-house distributed servers
+* Use of __Communication__ for proactive and online diagnosis of transient faults and prognosis of potential blackouts
+* Use of __Real-Time Pricing__ through a Decentralized Exchange (DEX) for power markets
+* Distributed Computer Network for __Communication, DSM__ and __Real-Time Pricing__
 * Support for GUT-AI DCP and other decentralized cloud providers
 * Support for interoperable electric vehicles
 * Support for conventional (dieasel and petrol) vehicles
 * Support for Near-Zero Energy Buildings (NZEBs)
+* Support for Aeroponics, Hydroponics and Aquaponics
 
 ### Component C1.2: GUT-AI DCP
 
@@ -330,13 +337,13 @@ __Description:__ Perform Multi-Robot Target Detection and Tracking.
 __Aims:__ TODO
 
 
-### Component C3.15: Anomaly Detection
+### Component C3.14: Anomaly Detection
 
 __Description:__ Perform Anomaly Detection.
 
 __Aims:__ TODO
 
-### Component C3.16: Recommender Engines
+### Component C3.15: Recommender Engines
 
 __Description:__ Implement Recommender Engines.
 
