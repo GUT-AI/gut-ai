@@ -20,16 +20,16 @@ The identifiers are tabulated below.
 | [C3.5](../components/README.md#component-c35-continual-learning)            | Link | Link |
 | [C3.6](../components/README.md#component-c36-distributed-systems-for-ml)    | Link | Link |
 | [C3.7](../components/README.md#component-c37-solve-memory-bottleneck)       | Link | Link |
-| [C4.1](../components/README.md#)       | Link | Link |
-| [C4.2](../components/README.md#)       | Link | Link |
-| [C4.3](../components/README.md#)       | Link | Link |
-| [C4.4](../components/README.md#)       | Link | Link |
-| [C4.5](../components/README.md#)       | Link | Link |
-| [C4.6](../components/README.md#)       | Link | Link |
-| [C4.7](../components/README.md#)       | Link | Link |
-| [C4.8](../components/README.md#)       | Link | Link |
-| [C4.9](../components/README.md#)       | Link | Link |
-| [C4.10](../components/README.md#)       | Link | Link |
+| [C4.1](../components/README.md#component-c41-automated-scientific-discovery)| Link | Link |
+| [C4.2](../components/README.md#component-c42-mtsu)                          | Link | Link |
+| [C4.3](../components/README.md#component-c43-grounded-cv)                   | Link | Link |
+| [C4.4](../components/README.md#component-c44-asr)                           | Link | Link |
+| [C4.5](../components/README.md#component-c45-tts)                           | Link | Link |
+| [C4.6](../components/README.md#component-c46-ser)                           | Link | Link |
+| [C4.7](../components/README.md#component-c47-mt)                            | Link | Link |
+| [C4.8](../components/README.md#component-c48-tod)                           | Link | Link |
+| [C4.9](../components/README.md#component-c49-qa)                            | Link | Link |
+| [C4.10](../components/README.md#component-c410-grounded-qa)                 | Link | Link |
 | [C4.11](../components/README.md#)       | Link | Link |
 | [C4.12](../components/README.md#)       | Link | Link |
 | [C4.13](../components/README.md#)       | Link | Link |
