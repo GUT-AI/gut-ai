@@ -71,7 +71,7 @@ __Aims:__
 * Use of specific hardware and devices
   * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
   * Distributed Electricity and Energy Storage (e.g. batteries)
-  * Smart Grid equipment (e.g. distributed servers, dish antenna)
+  * Smart Grid *connectivity* equipment (e.g. distributed servers, dish antenna)
 * Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
 * Use of stored energy and __valley filling DSM__ for the demands of the GUT-AI DCP through in-house distributed servers
 * Use of __Communication__ for proactive and online diagnosis of transient faults and prognosis of potential blackouts
