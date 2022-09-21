@@ -72,7 +72,7 @@ __Description:__ Bring Distributed Smart Grids into production in real life thro
 
 __Aims:__
 * No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
-* Use of grid-connected __microgrid__ for both electricity and communication 
+* Use of __grid-connected microgrid__ for both electricity and communication 
 * Use of specific hardware and devices
   * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
   * Distributed Electricity and Energy Storage (e.g. batteries)
