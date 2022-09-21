@@ -9,12 +9,12 @@ It is important to note that each component definition intentionally does not in
 * [Layer Architeacture](#layer-architeacture)
 * [Layer 1 components](#layer-1-components)
   * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
+  * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
 * [Layer 2 components](#layer-1-components)
-  * [Component C2.1: GUT-AI DCP](#component-c21-gut-ai-dcp)
-  * [Component C2.2: GUT-AI Marketplace](#component-c22-gut-ai-marketplace)
-  * [Component C2.3: Automated Data Preparation](#component-c23-automated-data-preparation)
-  * [Component C2.4: CI/CD](#component-c24-cicd)
-  * [Component C2.5: DX](#component-c25-dx)  
+  * [Component C2.1: GUT-AI Marketplace](#component-c21-gut-ai-marketplace)
+  * [Component C2.2: Automated Data Preparation](#component-c22-automated-data-preparation)
+  * [Component C2.3: CI/CD](#component-c23-cicd)
+  * [Component C2.4: DX](#component-c24-dx)  
 * [Layer 3 components](#layer-2-components)
   * [Component C3.1: AutoDS](#component-c31-autods)
   * [Component C3.2: AutoML](#component-c32-automl)
@@ -49,14 +49,14 @@ It is important to note that each component definition intentionally does not in
   * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
 
 
-## Layer Architeacture
+## Five-Layer Architecture
 
-The following five-layer architecture will be used:
+The following __Five-Layer Architecture__ will be used:
 * Layer 1 - Physical and Data Link layer
-* Layer 2 - IaaS layer
-* Layer 3 - PaaS layer
-* Layer 4 - AIaaS layer
-* Layer 5 - SaaS layer
+* Layer 2 - IaaS Layer
+* Layer 3 - PaaS Layer
+* Layer 4 - AIaaS Layer
+* Layer 5 - SaaS Layer
 
 __Abbreviations:__<br>
 IaaS = Infrastructure as a Service <br>
@@ -90,9 +90,7 @@ __Aims:__
 * Support for conventional agronomics and livestock farming
 * __Maximum freedom and liberty__ to each household on *how* to operate their own household as part of the whole ecosystem
 
-## Layer 2 components
-
-### Component C2.1: GUT-AI DCP
+### Component C1.2: GUT-AI DCP
 
 __Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
 
@@ -103,7 +101,9 @@ __Aims:__
 * Data Lakes
 * Anything else that a conventional, centralized Cloud Provider can offer
 
-### Component C2.2: GUT-AI Marketplace
+## Layer 2 components
+
+### Component C2.1: GUT-AI Marketplace
 
 __Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
 
@@ -116,7 +116,7 @@ __Aims:__
 * Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaci panels)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 
-### Component C2.3: Automated Data Preparation
+### Component C2.2: Automated Data Preparation
 
 __Description:__ Perform Automated Data Preparation using AI.
 
@@ -129,7 +129,7 @@ __Aims:__
 * Data Sampling
 * Data Cleaning
 
-### Component C2.4: CI/CD
+### Component C2.3: CI/CD
 
 __Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
@@ -160,7 +160,7 @@ __Aims:__
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the *technical debt*
 
-### Component C2.5: DX
+### Component C2.4: DX
 
 __Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
