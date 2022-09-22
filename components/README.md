@@ -61,11 +61,11 @@ The Meta component is a component about all the components. Its repository is th
 ## Five-Layer Architecture
 
 The following __Five-Layer Architecture__ is used:
-* Layer 1 - Physical and Data Link layer
-* Layer 2 - IaaS Layer
-* Layer 3 - PaaS Layer
-* Layer 4 - AIaaS Layer
-* Layer 5 - SaaS Layer
+* Layer 1 - Energy Layer (Physical and Data Link)
+* Layer 2 - Infrastructure Layer (IaaS)
+* Layer 3 - Platform Layer (PaaS)
+* Layer 4 - Intelligence Layer (AIaaS)
+* Layer 5 - Innovation Layer (SaaS)
 
 __Abbreviations:__<br>
 IaaS = Infrastructure as a Service <br>
