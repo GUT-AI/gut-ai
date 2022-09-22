@@ -154,7 +154,7 @@ Project DOI
 
 Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
 
-Current Problems and Challenges
+Current problems and challenges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges:
@@ -188,7 +188,27 @@ Model Zoos
 
 See [Model Zoos](model_zoos).
 
-License
+Getting involved
+----------------
+- `Community Discord <https://github.com/GUT-AI/gut-ai/>`_ for collaboration and discussion.
+
+Hot to cite
+-----------
+
+If you want to do so, feel free to cite GUT-AI in your publications:
+
+::
+
+    @article{kourouklides2022gut_ai,
+      Author = {Ioannis Kourouklides},
+      Journal = {OSF Preprints},
+      Title = {Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics},
+      Year = {20222}
+      doi = {10.31219/osf.io/sjrkh},
+      license = {Creative Commons Zero CC0 1.0},
+    }
+
+License 
 -------
 
 `Creative Commons Zero CC0 1.0 (Public Domain) <LICENSE>`_
