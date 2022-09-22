@@ -49,30 +49,30 @@ Main papers
 Research Proposal
 ^^^^^^^^^^^^^^^^^
 
-__Coming soon!__
+- `Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics <https://doi.org/10.31219/osf.io/sjrkh>`_
 
 Whitepaper
-^^^^
+^^^^^^^^^^
 
 __Coming soon!__
 
 
 Selected publications
-^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
-__Coming soon!__
+- Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
 
 
 DAO Foundation
-----
+--------------
 
 The **GUT-AI Foundation** has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the initiative.
 
 Real-life impact
-----
+----------------
 
 Industries
-^^^^
+^^^^^^^^^^
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
 
@@ -103,12 +103,12 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Telecoms
 
 Use Cases
-^^^^
+^^^^^^^^^
 
 See `Use Cases <use_cases/README.rst>`_.
 
 Areas of application
-^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 Depending on the modality (or modalities) of the data used, GUT-AI has applications in countless domains, including the following:
 
@@ -131,30 +131,31 @@ Depending on the modality (or modalities) of the data used, GUT-AI has applicati
 - Transportation
 
 Project files
-----
+-------------
 
 Landing page
-^^^^
+^^^^^^^^^^^^
 
 The following is the official landing page for the whole initiative of GUT-AI:
 
 - http://gut-ai.org/
 
 Project page
-^^^^
+^^^^^^^^^^^^
 
 Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
+
 - https://osf.io/rn2s4/
 
 Project DOI
-^^^^
+^^^^^^^^^^^
 
 **Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
 Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
 
 Current Problems and Challenges
-^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Currently, there are countless centralized “solutions” in the cyberspace, but with the following problems and challenges:
 
@@ -168,26 +169,26 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 * security vulnerabilities
 
 List of components
-^^^^
+^^^^^^^^^^^^^^^^^^
 
 See [Components](components) for a list of sub-projects.
 
 Environment simulators
-^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 See [Simulators](simulators).
 
 Datasets
-^^^^
+^^^^^^^^
 
 See [Datasets](datasets).
 
 Model Zoos
-^^^^
+^^^^^^^^^^
 
 See [Model Zoos](model_zoos).
 
 License
-----
+-------
 
 `Creative Commons Zero CC0 1.0 (Public Domain) <LICENSE>`_
