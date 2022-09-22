@@ -203,9 +203,9 @@ If you want to do so, feel free to cite GUT-AI in your publications:
       Author = {Ioannis Kourouklides},
       Journal = {OSF Preprints},
       Title = {Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics},
-      Year = {20222}
+      Year = {20222},
       doi = {10.31219/osf.io/sjrkh},
-      license = {Creative Commons Zero CC0 1.0},
+      license = {Creative Commons Zero CC0 1.0}
     }
 
 License 
