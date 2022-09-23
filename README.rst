@@ -165,7 +165,7 @@ Project DOI
 
 **Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_. See also `How to cite this <#how-to-cite-this>`_.
+Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_. See also `how to cite this <#how-to-cite-this>`_.
 
 Current problems and challenges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
