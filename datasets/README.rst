@@ -1,7 +1,7 @@
 Datasets
 ========
 
-**Summary:** A list of repositories containing datasets, mainly for Supervised and Unsupervised Learning.
+**Summary:** This is a non-exhaustive list of repositories containing datasets, mainly for Supervised and Unsupervised Learning.
 
 List:
 
