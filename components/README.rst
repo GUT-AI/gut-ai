@@ -35,9 +35,8 @@ The following **Five-Layer Architecture** is used:
 * Layer 3 - Platform Layer (PaaS)
 * Layer 4 - Intelligence Layer (AIaaS)
 * Layer 5 - Innovation Layer (SaaS)
-
-**Abbreviations:**
-
+|br|
+**Abbreviations:** |br|
 **IaaS** = Infrastructure as a Service |br|
 **PaaS** = Platform as a Service |br|
 **AIaaS** = AI as a Service |br|
@@ -49,7 +48,7 @@ Layer 1 components
 Component C1.1: Distributed Smart Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services (`GUT-AI DCP <#component-c21-gut-ai-dc>`_) powered by **energy storage**. Also use AI to improve Distributed Smart Grids.
+**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services (`GUT-AI DCP <#component-c1-2-gut-ai-dcp>`_) powered by **energy storage**. Also use AI to improve Distributed Smart Grids.
 
 **Aims:**
 
@@ -88,9 +87,10 @@ Component C1.2: GUT-AI DCP
 Layer 2 components
 ------------------
 
-### Component C2.1: GUT-AI Marketplace
+Component C2.1: GUT-AI Marketplace
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
+**Description:** Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a **module**, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
 
 **Aims:**
 
@@ -102,7 +102,8 @@ Layer 2 components
 * Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaci panels)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 
-### Component C2.2: Automated Data Preparation
+Component C2.2: Automated Data Preparation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Data Preparation using AI.
 
@@ -116,7 +117,8 @@ Layer 2 components
 * Data Sampling
 * Data Cleaning
 
-### Component C2.3: CI/CD
+Component C2.3: CI/CD
+^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
@@ -142,13 +144,14 @@ Layer 2 components
 * Support for Model Serving (e.g. KFServing, Seldon Core, BentoML)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
-* Direct integration to [GUT-AI Marketplace](#component-c13-gut-ai-marketplace) and other marketplaces
+* Direct integration to `GUT-AI Marketplace <#component-c2-1-gut-ai-marketplace>`_ and other marketplaces
 * Webhooks and API for direct integration to IaaS, PaaS, SaaS providers
 * Automation, MLOps, DataOps, MoodelOps, DevOps
 * Information Security, SecDevOps, DevSecOps
 * Anything else reducing the *technical debt*
 
-### Component C2.4: DX
+Component C2.4: DX
+^^^^^^^^^^^^^^^^^^
 
 **Description:** Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
@@ -156,7 +159,7 @@ Layer 2 components
 
 * Separation of concerns
 * User-friendly User Interface (UI) and Dashboards
-* User-friendly configurations (e.g. using `yaml` and `json`)
+* User-friendly configurations (e.g. using ``yaml`` and ``json``)
 * Anything else reduing the *cultural debt* or improving the DX
 
 Layer 3 components
