@@ -167,7 +167,8 @@ Component C2.4: DX
 Layer 3 components
 ------------------
 
-### Component C3.1: AutoDS
+Component C3.1: AutoDS
+^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
@@ -178,7 +179,8 @@ Layer 3 components
 * [Continual Learning](#component-c25-continual-learning)
 * [CI/CD](#component-c15-cicd)
 
-### Component C3.2: AutoML
+Component C3.2: AutoML
+^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Machine Learning (AutoML).
 
@@ -187,7 +189,8 @@ Layer 3 components
 * [Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
 * [NAS](#component-c24-nas)
 
-### Component C3.3: Automated Data Preprocessing
+Component C3.3: Automated Data Preprocessing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Data Preprocessing.
 
@@ -201,7 +204,8 @@ Layer 3 components
         * Feature Construction / Generative Learning
         * Adversarial Learning
 
-### Component C3.4: NAS
+Component C3.4: NAS
+^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Neural Architecture Search (NAS).
 
@@ -213,7 +217,8 @@ Layer 3 components
   * Hyperparameter Optimization
 * Automated Model Estimation
 
-### Component C3.5: Continual Learning
+Component C3.5: Continual Learning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Continual Learning.
 
@@ -221,7 +226,8 @@ Layer 3 components
 
 * Automated Model Retraining
 
-### Component C3.6: Distributed Systems for ML
+Component C3.6: Distributed Systems for ML
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
@@ -229,7 +235,8 @@ Layer 3 components
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
 
-### Component C3.7: Solve memory bottleneck
+Component C3.7: Solve memory bottleneck
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
@@ -378,7 +385,8 @@ Layer 4 components
 Layer 5 components
 ------------------
 
-### Component C5.1: Automated Protoyping
+Component C5.1: Automated Protoyping
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Protoyping.
 
@@ -386,7 +394,8 @@ Layer 5 components
 
 * Ideation and Creation
 
-### Component C5.2: Automated UX
+Component C5.2: Automated UX
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
@@ -396,31 +405,36 @@ Layer 5 components
 * Automated User Validation
 * Automated UX Research
 
-### Component C5.3: Automated Marketing
+Component C5.3: Automated Marketing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Marketing.
 
 **Aims:** TODO
 
-### Component C5.4: Automated Sales
+Component C5.4: Automated Sales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Sales.
 
 **Aims:** TODO
 
-### Component C5.5: Automated Customer Support
+Component C5.5: Automated Customer Support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Customer Support.
 
 **Aims:** TODO
 
-### Component C5.6: Automated Governance and Compliance
+Component C5.6: Automated Governance and Compliance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Governance and Compliance for the Blockchain and AI era.
 
 **Aims:** TODO
 
-### Component C5.7: Portfolio Management
+Component C5.7: Portfolio Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Portfolio Management for the Blockchain and AI era.
 
