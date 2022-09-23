@@ -11,15 +11,16 @@ GUT-AI
   <div align="center">
    
 .. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
-   :target: LICENSE
-   :alt: License
+  :target: LICENSE
+  :alt: License
 
 .. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
-   :target: CITATION.cff
-   :alt: DOI
+  :target: CITATION.cff
+  :alt: DOI
    
 .. image:: https://img.shields.io/badge/Discord-chat-orange.svg?logo=discord
-   :alt: Discord
+  :target: https://github.com/GUT-AI/gut-ai
+  :alt: Discord
 
 .. raw:: html
 
