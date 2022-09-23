@@ -1,33 +1,33 @@
-.. |br| raw:: html
+.. raw:: html
 
-  <br/>
+  <p align="center"><a href="https://gut-ai.org/"><img src="https://raw.githubusercontent.com/GUT-AI/.github/master/profile/Logo%20GUT-AI%20text.png" alt="Logo" width="300"/></a></p>
 
 GUT-AI
 ======
 
-![GUT-AI Initiative Logo](https://gut-ai.carrd.co/assets/images/image01.png)
-
 .. raw:: html
 
-   <div align="center">
-
+  <div align="center">
+   
 .. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
    :target: http://creativecommons.org/publicdomain/zero/1.0/
    :alt: License
 
 .. raw:: html
 
-   </div>
+  </div>
 
 .. inclusion-marker-start-do-not-remove
 
 |
 
-**Summary:** Documents and meta files about the GUT-AI Initiative in general.
-|br| |br|
+**Summary:** Documents and meta files about the **GUT-AI** Initiative in general.
+
+|
 
 .. contents:: **Table of Contents**
 
+|
 
 About
 -----
