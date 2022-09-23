@@ -215,4 +215,9 @@ If you want to do so, feel free to cite GUT-AI in your publications:
 License 
 -------
 
+.. image:: https://licensebuttons.net/p/mark/1.0/88x31.png
+   :target: http://creativecommons.org/publicdomain/zero/1.0/
+   :alt: License
+
 `Creative Commons Zero CC0 1.0 (Public Domain) <LICENSE>`_
+
