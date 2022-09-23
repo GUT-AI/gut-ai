@@ -1,3 +1,7 @@
+.. |br| raw:: html
+
+  <br/>
+
 GUT-AI
 ======
 
@@ -20,7 +24,7 @@ GUT-AI
 |
 
 **Summary:** Documents and meta files about the GUT-AI Initiative in general.
-<br><br>
+|br| |br|
 
 .. contents:: **Table of Contents**
 
