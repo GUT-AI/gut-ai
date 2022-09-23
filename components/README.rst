@@ -174,10 +174,10 @@ Component C3.1: AutoDS
 
 **Aims:**
 
-* [Automated Data Preparation](#component-c14-automated-data-preparation)
-* [AutoML](#component-c22-automl)
-* [Continual Learning](#component-c25-continual-learning)
-* [CI/CD](#component-c15-cicd)
+* `Automated Data Preparation <#component-c2-2-automated-data-preparation>`_
+* `AutoML <#component-c3-2-automl>`_
+* `Continual Learning <#component-c3-5-continual-learning>`_
+* `CI/CD <#component-c2-3-ci-cd>`_
 
 Component C3.2: AutoML
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -186,8 +186,8 @@ Component C3.2: AutoML
 
 **Aims:**
 
-* [Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
-* [NAS](#component-c24-nas)
+* `Automated Data Preprocessing <#component-c3-3-automated-data-preprocessing>`_
+* `NAS <#component-c3-4-nas>`_
 
 Component C3.3: Automated Data Preprocessing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -212,9 +212,9 @@ Component C3.4: NAS
 **Aims:**
 
 * Automated Model Selection
-  * Search space
-  * Architecture Optimization
-  * Hyperparameter Optimization
+    * Search space
+    * Architecture Optimization
+    * Hyperparameter Optimization
 * Automated Model Estimation
 
 Component C3.5: Continual Learning
@@ -232,6 +232,7 @@ Component C3.6: Distributed Systems for ML
 **Description:** Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
 **Aims:**
+
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
 
@@ -253,7 +254,7 @@ Component C3.7: Solve memory bottleneck
 * Structured Bayesian Pruning
 * Bayesian Compression
 * Lottery Ticket Hypothesis
-* [NAS](#component-c24-nas)
+* `NAS <#component-c3-4-nas>`_
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
 * Bayesian Neural Networks (BNNs)
 
