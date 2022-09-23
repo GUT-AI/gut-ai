@@ -179,6 +179,7 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 * bureaucratic hegemony
 * censorship
 * no privacy
+* no transparency
 * security vulnerabilities
 
 List of components
