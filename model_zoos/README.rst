@@ -1,4 +1,4 @@
 Model Zoos
 ==========
 
-**Summary:** This is a list of *internal* and *external* model zoos.
+**Summary:** This is a non-exhaustive list of *internal* and *external* model zoos.
