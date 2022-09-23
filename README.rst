@@ -187,6 +187,11 @@ List of components
 
 See `Components <components/README.rst>`_ for a list of sub-projects.
 
+Roadmap
+^^^^^^
+
+See `Roadmap/README.rst>`_.
+
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
 
