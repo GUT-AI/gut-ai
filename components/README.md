@@ -1,8 +1,8 @@
 # Components
 
-__Sumary:__ The GUT-AI initiative is subdivived into a series of components (i.e. sub-projects) in order to build a *user-friendly* __Open-Data, Open-Source, Decentralized ecosystem__ under the umbrella of the [GUT-AI Foundation](../README.md#dao-foundation). This is a list of all the components of such an ecosystem.
+**Sumary:** The GUT-AI initiative is subdivived into a series of components (i.e. sub-projects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** under the umbrella of the [GUT-AI Foundation](../README.md#dao-foundation). This is a list of all the components of such an ecosystem.
 
-It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be __no constraints or limits__ on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained above and also in the [Vision](../README.md#vision) and [Mission](../README.md#mission) of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
+It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained above and also in the [Vision](../README.md#vision) and [Mission](../README.md#mission) of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
 
 ## Table of Contents
 
@@ -61,6 +61,7 @@ The Meta component is a component about all the components. Its repository is th
 ## Five-Layer Architecture
 
 The following __Five-Layer Architecture__ is used:
+
 * Layer 1 - Energy Layer (Physical and Data Link)
 * Layer 2 - Infrastructure Layer (IaaS)
 * Layer 3 - Platform Layer (PaaS)
@@ -77,9 +78,10 @@ SaaS = Software as a Service <br>
 
 ### Component C1.1: Distributed Smart Grids
 
-__Description:__ Bring Distributed Smart Grids into production in real life through Blockchain and AI services ([GUT-AI DCP](#component-c21-gut-ai-dc)) powered by __energy storage__. Also use AI to improve Distributed Smart Grids.
+**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services ([GUT-AI DCP](#component-c21-gut-ai-dc)) powered by __energy storage__. Also use AI to improve Distributed Smart Grids.
 
-__Aims:__
+**Aims:**
+
 * No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
 * Use of __grid-connected microgrid__ for both electricity and communication 
 * Use of specific hardware and devices
@@ -101,9 +103,10 @@ __Aims:__
 
 ### Component C1.2: GUT-AI DCP
 
-__Description:__ Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
+**Description:** Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
 
-__Aims:__ 
+**Aims:**
+
 * Hosting
 * Databases (SQL and NoSQL)
 * Data Warehouses
@@ -114,9 +117,10 @@ __Aims:__
 
 ### Component C2.1: GUT-AI Marketplace
 
-__Description:__ Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
+**Description:** Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a __module__, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
 
-__Aims:__
+**Aims:**
+
 * Open Data (e.g. datasets, pre-trained models) as modules
 * Proprietary Data (e.g. datasets, pre-trained models) as modules
 * Centralized and decentralized SaaS modules developed by third parties
@@ -127,9 +131,10 @@ __Aims:__
 
 ### Component C2.2: Automated Data Preparation
 
-__Description:__ Perform Automated Data Preparation using AI.
+**Description:** Perform Automated Data Preparation using AI.
 
-__Aims:__
+**Aims:**
+
 * Data Collection
 * Data Synthesis / Data Simulation / Adversarial Learning
 * Data Fusion and Data Integration
@@ -140,9 +145,10 @@ __Aims:__
 
 ### Component C2.3: CI/CD
 
-__Description:__ Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
+**Description:** Perform Continuous Integreation/Continuous Delivery (CI/CD) for all ML systems and also all associated systems. Also use AI to improve CI/CD (AIOps).
 
-__Aims:__ 
+**Aims:**
+
 * Reproducibility
 * Replicability
 * Code Version Control
@@ -171,9 +177,10 @@ __Aims:__
 
 ### Component C2.4: DX
 
-__Description:__ Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
+**Description:** Enhance Developer Experience (DX) to make it developer-friendly for almost anyone who can write code at any level.
 
-__Aims:__ 
+**Aims:**
+
 * Separation of concerns
 * User-friendly User Interface (UI) and Dashboards
 * User-friendly configurations (e.g. using `yaml` and `json`)
@@ -183,9 +190,10 @@ __Aims:__
 
 ### Component C3.1: AutoDS
 
-__Description:__ Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
+**Description:** Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
 
-__Aims:__
+**Aims:**
+
 * [Automated Data Preparation](#component-c14-automated-data-preparation)
 * [AutoML](#component-c22-automl)
 * [Continual Learning](#component-c25-continual-learning)
@@ -193,17 +201,19 @@ __Aims:__
 
 ### Component C3.2: AutoML
 
-__Description:__ Perform Automated Machine Learning (AutoML).
+**Description:** Perform Automated Machine Learning (AutoML).
 
-__Aims:__
+**Aims:**
+
 * [Automated Data Preprocessing](#component-c23-automated-data-preprocessing)
 * [NAS](#component-c24-nas)
 
 ### Component C3.3: Automated Data Preprocessing
 
-__Description:__ Perform Automated Data Preprocessing.
+**Description:** Perform Automated Data Preprocessing.
 
-__Aims:__
+**Aims:**
+
 * Automated Feature Selection
 * Automated Feature Extraction
   * Rule-based AI 
@@ -214,9 +224,10 @@ __Aims:__
 
 ### Component C3.4: NAS
 
-__Description:__ Perform Neural Architecture Search (NAS).
+**Description:** Perform Neural Architecture Search (NAS).
 
-__Aims:__ 
+**Aims:**
+
 * Automated Model Selection
   * Search space
   * Architecture Optimization
@@ -225,24 +236,25 @@ __Aims:__
 
 ### Component C3.5: Continual Learning
 
-__Description:__ Perform Continual Learning.
+**Description:** Perform Continual Learning.
 
-__Aims:__
+**Aims:**
+
 * Automated Model Retraining
 
 ### Component C3.6: Distributed Systems for ML
 
-__Description:__ Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
+**Description:** Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
 
-__Aims:__ 
+**Aims:**
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
 
 ### Component C3.7: Solve memory bottleneck
 
-__Description:__ Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
+**Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
-__Aims:__ 
+**Aims:**
 * Model Compression and Weight Sharing
 * Nodes Pruning and Weight Pruning
 * Quantized Training
@@ -262,15 +274,15 @@ __Aims:__
 
 ### Component C4.1: Automated Scientific Discovery
 
-__Description:__ Perform Automated Scientific Discovery.
+**Description:** Perform Automated Scientific Discovery.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.2: MTSU
 
-__Description:__ Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
+**Description:** Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
 
-__Aims:__ 
+**Aims:**
 * Object Detection
 * Object Recognition
 * Face Recognition
@@ -292,9 +304,9 @@ __Aims:__
 
 ### Component C4.3: Grounded CV
 
-__Description:__ Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
+**Description:** Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
 
-__Aims:__ 
+**Aims:**
 * Simultaneous Localization and Mapping (SLAM).
 * 3D Scene Reconstruction
 * Surface Reconstruction
@@ -304,33 +316,33 @@ __Aims:__
 
 ### Component C4.4: ASR
 
-__Description:__ Perform Automatic Speech Recognition (ASR).
+**Description:** Perform Automatic Speech Recognition (ASR).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.5: TTS
 
-__Description:__ Perform Text-to-Speech (TTS).
+**Description:** Perform Text-to-Speech (TTS).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.6: SER
 
-__Description:__ Perform Speech Emotion Recognition (SER).
+**Description:** Perform Speech Emotion Recognition (SER).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.7: MT
 
-__Description:__ Perform Machine Translation (MT).
+**Description:** Perform Machine Translation (MT).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.8: TOD
 
-__Description:__ Perform Task-Oriented Dialog (TOD) using Multitak Learning.
+**Description:** Perform Task-Oriented Dialog (TOD) using Multitak Learning.
 
-__Aims:__
+**Aims:**
 * Natural Language Understanding (NLU)
   * Named-Entity Recognition / Entities Extraction
   * Intent Classification / Intent Detection
@@ -339,91 +351,90 @@ __Aims:__
 
 ### Component C4.9: QA
 
-__Description:__ Perform open-domain Question-Answering (QA).
+**Description:** Perform open-domain Question-Answering (QA).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.10: Grounded QA
 
-__Description:__ Perform Grounded Question-Answering (Grounded QA).
+**Description:** Perform Grounded Question-Answering (Grounded QA).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.11: VSPT
 
-__Description:__ Perform Visuo-spatial Perpsective-Taking (VSPT).
+**Description:** Perform Visuo-spatial Perpsective-Taking (VSPT).
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.12: Multi-Robot Path Planning
 
-__Description:__ Perform Multi-Robot Path Planning.
+**Description:** Perform Multi-Robot Path Planning.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.13: Multi-Robot Target Detection and Tracking
 
-__Description:__ Perform Multi-Robot Target Detection and Tracking.
+**Description:** Perform Multi-Robot Target Detection and Tracking.
 
-__Aims:__ TODO
-
+**Aims:** TODO
 
 ### Component C4.14: Anomaly Detection
 
-__Description:__ Perform Anomaly Detection.
+**Description:** Perform Anomaly Detection.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C4.15: Recommender Engines
 
-__Description:__ Implement Recommender Engines.
+**Description:** Implement Recommender Engines.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ## Layer 5 components
 
 ### Component C5.1: Automated Protoyping
 
-__Description:__ Perform Automated Protoyping.
+**Description:** Perform Automated Protoyping.
 
-__Aims:__ 
+**Aims:**
 * Ideation and Creation
 
 ### Component C5.2: Automated UX
 
-__Description:__ Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
+**Description:** Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
-__Aims:__ 
+**Aims:**
 * Automated User Research
 * Automated User Validation
 * Automated UX Research
 
 ### Component C5.3: Automated Marketing
 
-__Description:__ Perform Automated Marketing.
+**Description:** Perform Automated Marketing.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C5.4: Automated Sales
 
-__Description:__ Perform Automated Sales.
+**Description:** Perform Automated Sales.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C5.5: Automated Customer Support
 
-__Description:__ Perform Customer Support.
+**Description:** Perform Customer Support.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C5.6: Automated Governance and Compliance
 
-__Description:__ Perform Automated Governance and Compliance for the Blockchain and AI era.
+**Description:** Perform Automated Governance and Compliance for the Blockchain and AI era.
 
-__Aims:__ TODO
+**Aims:** TODO
 
 ### Component C5.7: Portfolio Management
 
-__Description:__ Perform Portfolio Management for the Blockchain and AI era.
+**Description:** Perform Portfolio Management for the Blockchain and AI era.
 
-__Aims:__ TODO
+**Aims:** TODO
