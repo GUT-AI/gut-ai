@@ -14,6 +14,10 @@ GUT-AI
    :target: http://creativecommons.org/publicdomain/zero/1.0/
    :alt: License
 
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
+   :target: https://doi.org/10.31219/osf.io/sjrkh
+   :alt: DOI
+
 .. raw:: html
 
   </div>
