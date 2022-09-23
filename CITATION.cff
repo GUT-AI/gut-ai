@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you want to do so, feel free to cite GUT-AI using these metadata. More details at https://GUT-AI.org"
+title: Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics
+authors:
+  - family-names: Kourouklides
+    given-names: Ioannis
+identifiers:
+  - type: doi
+    value: 10.31219/osf.io/sjrkh
+    description: The concept DOI for the collection containing all versions of the Citation File Format.
+date-released: "2022"
+license: "Creative Commons Zero CC0 1.0"
+doi: 10.31219/osf.io/sjrkh
