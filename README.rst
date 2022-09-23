@@ -157,7 +157,7 @@ Project DOI
 
 **Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_.
+Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_. See also `How to cite <#how-to-cite>`_
 
 Current problems and challenges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -197,10 +197,10 @@ Getting involved
 ----------------
 - `Community Discord <https://github.com/GUT-AI/gut-ai/>`_ for collaboration and discussion.
 
-Hot to cite
+How to cite
 -----------
 
-If you want to do so, feel free to cite GUT-AI in your publications:
+If you want to do so, feel free to `cite <CITATION.cff>`_ GUT-AI in your publications:
 
 ::
 
