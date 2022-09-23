@@ -5,51 +5,11 @@ Components
 
 It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained above and also in the [Vision](../README.md#vision) and [Mission](../README.md#mission) of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
 
-## Table of Contents
+|
 
-* [List of component identifiers](#list-of-component-identifiers)
-* [Meta component](#meta-component)
-* [Five-Layer Architecture](#five-layer-architecture)
-* [Layer 1 components](#layer-1-components)
-  * [Component C1.1: Distributed Smart Grids](#component-c11-distributed-smart-grids)
-  * [Component C1.2: GUT-AI DCP](#component-c12-gut-ai-dcp)
-* [Layer 2 components](#layer-1-components)
-  * [Component C2.1: GUT-AI Marketplace](#component-c21-gut-ai-marketplace)
-  * [Component C2.2: Automated Data Preparation](#component-c22-automated-data-preparation)
-  * [Component C2.3: CI/CD](#component-c23-cicd)
-  * [Component C2.4: DX](#component-c24-dx)  
-* [Layer 3 components](#layer-2-components)
-  * [Component C3.1: AutoDS](#component-c31-autods)
-  * [Component C3.2: AutoML](#component-c32-automl)
-  * [Component C3.3: Automated Data Preprocessing](#component-c33-automated-data-preprocessing)
-  * [Component C3.4: NAS](#component-c34-nas)
-  * [Component C3.5: Continual Learning](#component-c35-continual-learning)
-  * [Component C3.6: Distributed Systems for ML](#component-c36-distributed-systems-for-ml)
-  * [Component C3.7: Solve memory bottleneck](#component-c37-solve-memory-bottleneck)
-* [Layer 4 components](#layer-4-components)
-  * [Component C4.1: Automated Scientific Discovery](#component-c41-automated-scientific-discovery)
-  * [Component C4.2: MTSU](#component-c42-mtsu)
-  * [Component C4.3: Grounded CV](#component-c43-grounded-cv)
-  * [Component C4.4: ASR](#component-c44-asr)
-  * [Component C4.5: TTS](#component-c45-tts)
-  * [Component C4.6: SER](#component-c46-ser)
-  * [Component C4.7: MT](#component-c47-mt)
-  * [Component C4.8: TOD](#component-c48-tod)
-  * [Component C4.9: QA](#component-c49-qa)
-  * [Component C4.10: Grounded QA](#component-c410-grounded-qa)
-  * [Component C4.11: VSPT](#component-c411-vspt)
-  * [Component C4.12: Multi-Robot Path Planning](#component-c412-multi-robot-path-planning)
-  * [Component C4.13: Multi-Robot Target Detection and Tracking](#component-c413-multi-robot-target-detection-and-tracking)
-  * [Component C4.14: Anomaly Detection](#component-c414-anomaly-detection)
-  * [Component C4.15: Recommender Engines](#component-c415-recommender-engines)
-* [Layer 5 components](#layer-5-components)
-  * [Component C5.1: Automated Protoyping](#component-c51-automated-protoyping)
-  * [Component C5.2: Automated UX](#component-c52-automated-ux)
-  * [Component C5.3: Automated Marketing](#component-c53-automated-marketing)
-  * [Component C5.4: Automated Sales](#component-c54-automated-sales)
-  * [Component C5.5: Automated Customer Support](#component-c55-automated-customer-support)
-  * [Component C5.6: Automated Governance and Compliance](#component-c56-automated-governance-and-compliance)
-  * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
+.. contents:: **Table of Contents**
+
+|
 
 List of component identifiers
 -----------------------------
@@ -223,11 +183,11 @@ Layer 3 components
 
 * Automated Feature Selection
 * Automated Feature Extraction
-  * Rule-based AI 
-  * Representation Learning (Supervised, Unsupervised, Self-Supervised)
-    * Data Augmentation / Contrastive Learning
-    * Feature Construction / Generative Learning
-    * Adversarial Learning
+    * Rule-based AI 
+    * Representation Learning (Supervised, Unsupervised, Self-Supervised)
+        * Data Augmentation / Contrastive Learning
+        * Feature Construction / Generative Learning
+        * Adversarial Learning
 
 ### Component C3.4: NAS
 
@@ -262,6 +222,7 @@ Layer 3 components
 **Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
 
 **Aims:**
+
 * Model Compression and Weight Sharing
 * Nodes Pruning and Weight Pruning
 * Quantized Training
@@ -291,6 +252,7 @@ Layer 4 components
 **Description:** Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
 
 **Aims:**
+
 * Object Detection
 * Object Recognition
 * Face Recognition
@@ -315,6 +277,7 @@ Layer 4 components
 **Description:** Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
 
 **Aims:**
+
 * Simultaneous Localization and Mapping (SLAM).
 * 3D Scene Reconstruction
 * Surface Reconstruction
@@ -351,11 +314,12 @@ Layer 4 components
 **Description:** Perform Task-Oriented Dialog (TOD) using Multitak Learning.
 
 **Aims:**
-* Natural Language Understanding (NLU)
-  * Named-Entity Recognition / Entities Extraction
-  * Intent Classification / Intent Detection
-* Dialog Manager
-* Natural Language Generation (NLG)
+
+- Natural Language Understanding (NLU)
+    - Named-Entity Recognition / Entities Extraction
+    - Intent Classification / Intent Detection
+- Dialog Manager
+- Natural Language Generation (NLG)
 
 ### Component C4.9: QA
 
@@ -407,6 +371,7 @@ Layer 5 components
 **Description:** Perform Automated Protoyping.
 
 **Aims:**
+
 * Ideation and Creation
 
 ### Component C5.2: Automated UX
@@ -414,6 +379,7 @@ Layer 5 components
 **Description:** Perform Automated User Experience (Automated UX) during Product Discovery and Product Development.
 
 **Aims:**
+
 * Automated User Research
 * Automated User Validation
 * Automated UX Research
