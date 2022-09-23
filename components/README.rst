@@ -54,23 +54,23 @@ Component C1.1: Distributed Smart Grids
 **Aims:**
 
 * No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
-* Use of __grid-connected microgrid__ for both electricity and communication 
+* Use of **grid-connected microgrid** for both electricity and communication 
 * Use of specific hardware and devices
-  * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
-  * Distributed Electricity and Energy Storage (e.g. batteries)
-  * Smart Grid *connectivity* equipment (e.g. physical servers, dish antenna)
+    * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
+    * Distributed Electricity and Energy Storage (e.g. batteries)
+    * Smart Grid *connectivity* equipment (e.g. physical servers, dish antenna)
 * Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
-* Use of stored energy and __valley filling DSM__ for the demands of the GUT-AI DCP through in-house physical servers
-* Use of __Communication__ for proactive and online diagnosis of transient faults and prognosis of potential blackouts
-* Use of __Real-Time Pricing__ through a Decentralized Exchange (DEX) for power markets
-* Distributed Computer Network for __Communication, DSM__ and __Real-Time Pricing__
+* Use of stored energy and **valley filling DSM** for the demands of the GUT-AI DCP through in-house physical servers
+* Use of **Communication** for proactive and online diagnosis of transient faults and prognosis of potential blackouts
+* Use of **Real-Time Pricing** through a Decentralized Exchange (DEX) for power markets
+* Distributed Computer Network for **Communication, DSM** and **Real-Time Pricing**
 * Support for GUT-AI DCP and other decentralized cloud providers
 * Support for interoperable electric vehicles
 * Support for conventional (dieasel and petrol) vehicles
 * Support for Near-Zero Energy Buildings (NZEBs)
 * Support for Aeroponics, Hydroponics and Aquaponics for near-zero energy farming
 * Support for conventional agronomics and livestock farming
-* __Maximum freedom and liberty__ to each household on *how* to operate their own household as part of the whole ecosystem
+* **Maximum freedom and liberty** to each household on *how* to operate their own household as part of the whole ecosystem
 
 Component C1.2: GUT-AI DCP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
