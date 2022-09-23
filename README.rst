@@ -143,7 +143,7 @@ The following is the official landing page for the whole initiative of GUT-AI:
 Project page
 ^^^^^^^^^^^^
 
-Thanks to OSF (by the [Center for Open Science](https://www.cos.io/)), the project is temporarily hosted at:
+Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the project is temporarily hosted at:
 
 - https://osf.io/rn2s4/
 
@@ -152,7 +152,7 @@ Project DOI
 
 **Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check [identifiers](components/identifiers/README.md).
+Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.md>`_.
 
 Current problems and challenges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -171,22 +171,22 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 List of components
 ^^^^^^^^^^^^^^^^^^
 
-See [Components](components) for a list of sub-projects.
+See `Components <components/README.md>`_) for a list of sub-projects.
 
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
 
-See [Simulators](simulators).
+See `Simulators <simulators/README.md>`_.
 
 Datasets
 ^^^^^^^^
 
-See [Datasets](datasets).
+See `Datasets <datasets/README.md>`_.
 
 Model Zoos
 ^^^^^^^^^^
 
-See [Model Zoos](model_zoos).
+See `Model Zoos <model_zoos/README.md>`_.
 
 Getting involved
 ----------------
