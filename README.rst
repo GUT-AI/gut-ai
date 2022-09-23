@@ -11,8 +11,8 @@ GUT-AI
 
    <div align="center">
 
-.. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-   :target: https://img.shields.io/badge/License-Apache%202.0-blue.svg
+.. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
+   :target: http://creativecommons.org/publicdomain/zero/1.0/
    :alt: License
 
 .. raw:: html
