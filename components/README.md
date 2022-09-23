@@ -1,4 +1,5 @@
-# Components
+Components
+==========
 
 **Sumary:** The GUT-AI initiative is subdivived into a series of components (i.e. sub-projects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** under the umbrella of the [GUT-AI Foundation](../README.md#dao-foundation). This is a list of all the components of such an ecosystem.
 
@@ -50,17 +51,20 @@ It is important to note that each component definition intentionally does not in
   * [Component C5.6: Automated Governance and Compliance](#component-c56-automated-governance-and-compliance)
   * [Component C5.7: Portfolio Management](#component-c57-portfolio-management)
 
-## List of component identifiers
+List of component identifiers
+-----------------------------
 
 See [identifiers](identifiers/README.md) for the list of identifiers of all components.
 
-## Meta Component
+Meta Component
+--------------
 
-The Meta component is a component about all the components. Its repository is the current one.
+The **Meta** component is a component about all the other components. Its repository is the current one.
 
-## Five-Layer Architecture
+Five-Layer Architecture
+-----------------------
 
-The following __Five-Layer Architecture__ is used:
+The following **Five-Layer Architecture** is used:
 
 * Layer 1 - Energy Layer (Physical and Data Link)
 * Layer 2 - Infrastructure Layer (IaaS)
@@ -68,11 +72,11 @@ The following __Five-Layer Architecture__ is used:
 * Layer 4 - Intelligence Layer (AIaaS)
 * Layer 5 - Innovation Layer (SaaS)
 
-__Abbreviations:__<br>
-IaaS = Infrastructure as a Service <br>
-PaaS = Platform as a Service <br>
-AIaaS = AI as a Service <br>
-SaaS = Software as a Service <br>
+**Abbreviations:**<br>
+**IaaS** = Infrastructure as a Service <br>
+**PaaS** = Platform as a Service <br>
+**AIaaS** = AI as a Service <br>
+**SaaS** = Software as a Service <br>
 
 ## Layer 1 components
 
