@@ -11,11 +11,11 @@ GUT-AI
   <div align="center">
    
 .. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
-   :target: http://creativecommons.org/publicdomain/zero/1.0/
+   :target: LICENSE
    :alt: License
 
 .. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
-   :target: https://doi.org/10.31219/osf.io/sjrkh
+   :target: CITATION.cff
    :alt: DOI
    
 .. image:: https://img.shields.io/badge/Discord-chat-orange.svg?logo=discord
