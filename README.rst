@@ -22,7 +22,7 @@ GUT-AI
 
 |
 
-**Summary:** Documents and meta files about the **GUT-AI** Initiative in general.
+**Summary:** Documents and meta files about the **GUT-AI Initiative** in general.
 
 |
 
