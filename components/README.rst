@@ -1,9 +1,13 @@
+.. |br| raw:: html
+
+  <br/>
+
 Components
 ==========
 
-**Sumary:** The GUT-AI initiative is subdivived into a series of components (i.e. sub-projects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** under the umbrella of the [GUT-AI Foundation](../README.md#dao-foundation). This is a list of all the components of such an ecosystem.
+**Sumary:** The GUT-AI initiative is subdivived into a series of components (i.e. sub-projects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** with support from the `GUT-AI Foundation <../README.rst#dao-foundation>`_). This is a list of all the components of such an ecosystem.
 
-It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained above and also in the [Vision](../README.md#vision) and [Mission](../README.md#mission) of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
+It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained in the Summary above and also in the `Vision <../README.md#vision>`_ and `Mission <../README.md#mission>`_ of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
 
 |
 
@@ -14,7 +18,7 @@ It is important to note that each component definition intentionally does not in
 List of component identifiers
 -----------------------------
 
-See [identifiers](identifiers/README.md) for the list of identifiers of all components.
+See `identifiers <identifiers/README.rst>`_ for the list of identifiers of all components.
 
 Meta Component
 --------------
@@ -32,18 +36,20 @@ The following **Five-Layer Architecture** is used:
 * Layer 4 - Intelligence Layer (AIaaS)
 * Layer 5 - Innovation Layer (SaaS)
 
-**Abbreviations:**<br>
-**IaaS** = Infrastructure as a Service <br>
-**PaaS** = Platform as a Service <br>
-**AIaaS** = AI as a Service <br>
-**SaaS** = Software as a Service <br>
+**Abbreviations:**
+
+**IaaS** = Infrastructure as a Service |br|
+**PaaS** = Platform as a Service |br|
+**AIaaS** = AI as a Service |br|
+**SaaS** = Software as a Service |br|
 
 Layer 1 components
 ------------------
 
-### Component C1.1: Distributed Smart Grids
+Component C1.1: Distributed Smart Grids
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services ([GUT-AI DCP](#component-c21-gut-ai-dc)) powered by __energy storage__. Also use AI to improve Distributed Smart Grids.
+**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services (`GUT-AI DCP <#component-c21-gut-ai-dc>`_) powered by **energy storage**. Also use AI to improve Distributed Smart Grids.
 
 **Aims:**
 
@@ -66,9 +72,10 @@ Layer 1 components
 * Support for conventional agronomics and livestock farming
 * __Maximum freedom and liberty__ to each household on *how* to operate their own household as part of the whole ecosystem
 
-### Component C1.2: GUT-AI DCP
+Component C1.2: GUT-AI DCP
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the __information storage__ needs.
+**Description:** Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the **information storage** needs.
 
 **Aims:**
 
