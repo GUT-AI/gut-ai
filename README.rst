@@ -17,6 +17,9 @@ GUT-AI
 .. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
    :target: https://doi.org/10.31219/osf.io/sjrkh
    :alt: DOI
+   
+.. image:: https://img.shields.io/badge/Discord-chat-orange.svg?logo=discord
+   :alt: Discord
 
 .. raw:: html
 
