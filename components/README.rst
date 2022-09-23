@@ -260,13 +260,15 @@ Component C3.7: Solve memory bottleneck
 Layer 4 components
 ------------------
 
-### Component C4.1: Automated Scientific Discovery
+Component C4.1: Automated Scientific Discovery
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Scientific Discovery.
 
 **Aims:** TODO
 
-### Component C4.2: MTSU
+Component C4.2: MTSU
+^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
 
@@ -291,7 +293,8 @@ Layer 4 components
 * Multi-Object Motion Detection and Tracking
 * Vision-Based Motion Analysis
 
-### Component C4.3: Grounded CV
+Component C4.3: Grounded CV
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
 
@@ -304,31 +307,36 @@ Layer 4 components
 * Feature Matching
 * Active Tracking
 
-### Component C4.4: ASR
+Component C4.4: ASR
+^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automatic Speech Recognition (ASR).
 
 **Aims:** TODO
 
-### Component C4.5: TTS
+Component C4.5: TTS
+^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Text-to-Speech (TTS).
 
 **Aims:** TODO
 
-### Component C4.6: SER
+Component C4.6: SER
+^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Speech Emotion Recognition (SER).
 
 **Aims:** TODO
 
-### Component C4.7: MT
+Component C4.7: MT
+^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Machine Translation (MT).
 
 **Aims:** TODO
 
-### Component C4.8: TOD
+Component C4.8: TOD
+^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Task-Oriented Dialog (TOD) using Multitak Learning.
 
@@ -340,43 +348,50 @@ Layer 4 components
 - Dialog Manager
 - Natural Language Generation (NLG)
 
-### Component C4.9: QA
+Component C4.9: QA
+^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform open-domain Question-Answering (QA).
 
 **Aims:** TODO
 
-### Component C4.10: Grounded QA
+Component C4.10: Grounded QA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Grounded Question-Answering (Grounded QA).
 
 **Aims:** TODO
 
-### Component C4.11: VSPT
+Component C4.11: VSPT
+^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Visuo-spatial Perpsective-Taking (VSPT).
 
 **Aims:** TODO
 
-### Component C4.12: Multi-Robot Path Planning
+Component C4.12: Multi-Robot Path Planning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Multi-Robot Path Planning.
 
 **Aims:** TODO
 
-### Component C4.13: Multi-Robot Target Detection and Tracking
+Component C4.13: Multi-Robot Target Detection and Tracking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Multi-Robot Target Detection and Tracking.
 
 **Aims:** TODO
 
-### Component C4.14: Anomaly Detection
+Component C4.14: Anomaly Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Anomaly Detection.
 
 **Aims:** TODO
 
-### Component C4.15: Recommender Engines
+Component C4.15: Recommender Engines
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Implement Recommender Engines.
 
