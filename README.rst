@@ -180,6 +180,7 @@ Currently, there are countless centralized “solutions” in the cyberspace, bu
 * censorship
 * no privacy
 * no transparency
+* no customization
 * security vulnerabilities
 
 List of components
