@@ -78,7 +78,8 @@ The following **Five-Layer Architecture** is used:
 **AIaaS** = AI as a Service <br>
 **SaaS** = Software as a Service <br>
 
-## Layer 1 components
+Layer 1 components
+------------------
 
 ### Component C1.1: Distributed Smart Grids
 
@@ -117,7 +118,8 @@ The following **Five-Layer Architecture** is used:
 * Data Lakes
 * Anything else that a conventional, centralized Cloud Provider can offer
 
-## Layer 2 components
+Layer 2 components
+------------------
 
 ### Component C2.1: GUT-AI Marketplace
 
@@ -190,7 +192,8 @@ The following **Five-Layer Architecture** is used:
 * User-friendly configurations (e.g. using `yaml` and `json`)
 * Anything else reduing the *cultural debt* or improving the DX
 
-## Layer 3 components
+Layer 3 components
+------------------
 
 ### Component C3.1: AutoDS
 
@@ -274,7 +277,8 @@ The following **Five-Layer Architecture** is used:
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
 * Bayesian Neural Networks (BNNs)
 
-## Layer 4 components
+Layer 4 components
+------------------
 
 ### Component C4.1: Automated Scientific Discovery
 
@@ -395,7 +399,8 @@ The following **Five-Layer Architecture** is used:
 
 **Aims:** TODO
 
-## Layer 5 components
+Layer 5 components
+------------------
 
 ### Component C5.1: Automated Protoyping
 
