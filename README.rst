@@ -153,7 +153,7 @@ Project files
 Landing page
 ^^^^^^^^^^^^
 
-The following is the official landing page for the whole initiative of GUT-AI:
+The following is the official landing page of the `GUT-AI Foundation <#dao-foundation>`_:
 
 - http://gut-ai.org/
 
