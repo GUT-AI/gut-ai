@@ -323,28 +323,39 @@ Component C4.4: ASR
 
 **Description:** Perform Automatic Speech Recognition (ASR).
 
-**Aims:** TODO
+**Aims:** 
+
+* End-to-End ASR
+* ASR as Inverse TTS
 
 Component C4.5: TTS
 ^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Text-to-Speech (TTS).
 
-**Aims:** TODO
+**Aims:** 
+
+* End-to-End TTS
 
 Component C4.6: SER
 ^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Speech Emotion Recognition (SER).
 
-**Aims:** TODO
+**Aims:** 
+
+* Perform Unsupervised Learning to learn a hierarchical model about the number of emotions
+* Representation disentanglement of lingustic (lexical) and paralinguistic (non-lexical) features
+* End-to-End SER
 
 Component C4.7: MT
 ^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Machine Translation (MT).
+**Description:** Perform Machine Translation (MT) using Multitask Learning for various languages.
 
-**Aims:** TODO
+**Aims:** 
+
+* MT
 
 Component C4.8: TOD
 ^^^^^^^^^^^^^^^^^^^
