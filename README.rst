@@ -99,7 +99,7 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Automotive and Self-Driving Cars
 - Biotech, Pharma and Medical Devices
 - Cloud Infrastructure and Networking
-- Cyber Security
+- Cybersecurity
 - E-Commerce (Wholesale and Retail)
 - Education and E-Learning
 - Energy
@@ -115,8 +115,9 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Medical Imaging
 - Real Estate
 - Retail
-- Sports
 - Security and Surveillance
+- Smart Cities
+- Sports
 - Telecoms
 
 Use Cases
