@@ -44,11 +44,11 @@ Component                                                                       
 `C4.13 <../README.rst#component-c4-13-multi-robot-target-detection-and-tracking>`_ Link                                  Link
 `C4.14 <../README.rst#component-c4-14-anomaly-detection>`_                         Link                                  Link
 `C4.15 <../README.rst#component-c4-15-recommender-engines>`_                       Link                                  Link
-`<C5.1../README.rst#component-c5-1-automated-protoyping>`_                         Link                                  Link
-`<C5.2../README.rst#component-c5-2-automated-ux>`_                                 Link                                  Link
-`<C5.3../README.rst#component-c5-3-automated-marketing>`_                          Link                                  Link
-`<C5.4../README.rst#component-c5-4-automated-sales>`_                              Link                                  Link
-`<C5.5../README.rst#component-c5-5-automated-customer-support>`_                   Link                                  Link
-`<C5.6../README.rst#component-c5-6-automated-governance-and-compliance>`_          Link                                  Link
-`<C5.7../README.rst#component-c5-7-portfolio-management>`_                         Link                                  Link
+`C5.1 <../README.rst#component-c5-1-automated-protoyping>`_                        Link                                  Link
+`C5.2 <../README.rst#component-c5-2-automated-ux>`_                                Link                                  Link
+`C5.3 <../README.rst#component-c5-3-automated-marketing>`_                         Link                                  Link
+`C5.4 <../README.rst#component-c5-4-automated-sales>`_                             Link                                  Link
+`C5.5 <../README.rst#component-c5-5-automated-customer-support>`_                  Link                                  Link
+`C5.6 <../README.rst#component-c5-6-automated-governance-and-compliance>`_         Link                                  Link
+`C5.7 <../README.rst#component-c5-7-portfolio-management>`_                        Link                                  Link
 ================================================================================== ===================================== ================================
