@@ -258,7 +258,7 @@ Component C3.7: Solve memory bottleneck
 * Lottery Ticket Hypothesis
 * `NAS <#component-c3-4-nas>`_
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
-* Linear Weighted Finite-State Machines (LWFSM)
+* Weighted Linear Finite-State Machines (WLFSM)
 * Bayesian Neural Networks (BNNs)
 * Automated Indexing, Caching and Searching (of compressed knowledge)
 
