@@ -144,7 +144,7 @@ Component C2.3: CI/CD
 * Support for Synchronous Communication (e.g. REST, GraphQL)
 * Support for Databases (SQL and NoSQL), Data Warehouses and Data Lakes
 * Support for Data Workflow Management (e.g. Airflow, Kubeflow, MLflow)
-* Support for Model Serving (e.g. KFServing, Seldon Core, BentoML)
+* Support for Model Serving (e.g. KServe, Seldon Core, BentoML)
 * Direct integration to Top 10 *centralized* IaaS cloud providers
 * Direct integration to Top 10 *decentralized* IaaS cloud providers
 * Direct integration to `GUT-AI Marketplace <#component-c2-1-gut-ai-marketplace>`_ and other marketplaces
