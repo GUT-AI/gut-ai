@@ -296,6 +296,7 @@ Component C4.2: MTSU
 * Domain Adaptation
 * Multi-Object Motion Detection and Tracking
 * Vision-Based Motion Analysis
+* Vision as Inverse Graphics
 
 Component C4.3: Grounded CV
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -358,7 +359,12 @@ Component C4.9: QA
 
 **Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue.
 
-**Aims:** TODO
+**Aims:** 
+
+* ML-based QA (Corpus-based QA or Image-based QA)
+    * Retrieval-based models (using Utterance selection)
+    * Generative models
+* QA as Inverse Question Generation
 
 Component C4.10: VSPT
 ^^^^^^^^^^^^^^^^^^^^^
