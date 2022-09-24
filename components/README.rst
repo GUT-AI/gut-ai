@@ -225,6 +225,7 @@ Component C3.5: Continual Learning
 **Aims:**
 
 * Automated Model Retraining
+* Causal Learning (to address the *Moravec's Paradox*)
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
