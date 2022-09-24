@@ -517,6 +517,7 @@ Component C5.6: Automated Governance and Compliance
 **Aims:** 
 
 * Automated contracts and reporting
+* Automated planning and strategy
 
 Component C5.7: Portfolio Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
