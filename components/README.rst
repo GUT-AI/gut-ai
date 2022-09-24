@@ -170,7 +170,7 @@ Layer 3 components
 Component C3.1: AutoDS
 ^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Automated Data Science (AutoDS) by combining (internal or external) __modules__ together in an adjustable way.
+**Description:** Perform Automated Data Science (AutoDS) by combining (internal or external) **modules** together in an adjustable way.
 
 **Aims:**
 
@@ -230,7 +230,7 @@ Component C3.5: Continual Learning
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Introduce and perform Distributed Systems that are *model-specific* for ML and especially for __Gradient-Based Optimization__ methods.
+**Description:** Introduce and perform Distributed Systems that are *model-specific* for ML and especially for **Gradient-Based Optimization** methods.
 
 **Aims:**
 
@@ -240,7 +240,7 @@ Component C3.6: Distributed Systems for ML
 Component C3.7: Solve memory bottleneck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices.
+**Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices (while also addressing *Moravec's Paradox*).
 
 **Aims:**
 
@@ -257,7 +257,10 @@ Component C3.7: Solve memory bottleneck
 * Lottery Ticket Hypothesis
 * `NAS <#component-c3-4-nas>`_
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
+* Linear Weighted Finite-State Machines (LWFSM)
 * Bayesian Neural Networks (BNNs)
+* Automated Indexing, Caching and Searching (of compressed knowledge)
+
 
 Layer 4 components
 ------------------
