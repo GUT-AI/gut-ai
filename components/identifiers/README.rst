@@ -14,17 +14,15 @@ Component                                                                       
 `Meta <../README.rst#meta-component>`_                                             https://doi.org/10.17605/OSF.IO/RN2S4 https://github.com/GUT-AI/gut-ai
 `C1.1 <../README.rst#component-c1-1-distributed-smart-grids>`_                     Link                                  Link
 `C1.2 <../README.rst#component-c1-2-gut-ai-dcp>`_                                  Link                                  Link
+`C2.1 <../README.rst#component-c2-1-gut-ai-marketplace>`_                          Link                                  Link
+`C2.2 <../README.rst#component-c2-2-automated-data-preparation>`_                  Link                                  Link
+`C2.3 <../README.rst#component-c2-3-ci-cd>`_                                       Link                                  Link
+`C2.4 <../README.rst#component-c2-4-dx>`_                                          Link                                  Link
 `C4.13 <../README.rst#component-c4-13-multi-robot-target-detection-and-tracking>`_ Link                                  Link
 ================================================================================== ===================================== ================================
 
 `<../README.rst#>`_                                 Link                                  Link
 
-| [C1.1](../README.md#component-c11-distributed-smart-grids)              | Link | Link |
-| [C1.2](../README.md#component-c12-gut-ai-dcp)                           | Link | Link |
-| [C2.1](../README.md#component-c21-gut-ai-marketplace)                   | Link | Link |
-| [C2.2](../README.md#component-c22-automated-data-preparation)           | Link | Link |
-| [C2.3](../README.md#component-c23-cicd)                                 | Link | Link |
-| [C2.4](../README.md#component-c24-dx)                                   | Link | Link |
 | [C3.1](../README.md#component-c31-autods)                               | Link | Link |
 | [C3.2](../README.md#component-c32-automl)                               | Link | Link |
 | [C3.3](../README.md#component-c33-automated-data-preprocessing)         | Link | Link |
