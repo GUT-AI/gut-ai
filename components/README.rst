@@ -355,7 +355,7 @@ Component C4.7: MT
 
 **Aims:** 
 
-* MT
+* End-to-End MT
 
 Component C4.8: TOD
 ^^^^^^^^^^^^^^^^^^^
