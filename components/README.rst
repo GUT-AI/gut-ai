@@ -519,6 +519,7 @@ Component C5.6: Automated Governance and Compliance
 
 * Automated Contracts and Compliance Reporting
 * Automated Planning and Strategy
+* Automated Risk Management
 * Customized Privacy and Security
 
 Component C5.7: Portfolio Management
