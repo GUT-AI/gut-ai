@@ -93,7 +93,7 @@ Industries
 
 GUT-AI has the potential to affect and transform the vast majorities of industries, including the following:
 
-- Aerospace
+- Aerospace & Geospatial Technologies
 - Agriculture and Aeroponics
 - Aquaponics and Hydroponics
 - Automotive and Self-Driving Cars
