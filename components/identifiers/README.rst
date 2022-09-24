@@ -8,48 +8,16 @@ The identifiers are tabulated below.
 .. table::
    :widths: auto
 
-============================================================================= ====================================== ==================================
-Component                                                                     Identifier                             Repository
-============================================================================= ====================================== ==================================
-`Meta <../README.rst#meta-component>`_                                         https://doi.org/10.17605/OSF.IO/RN2S4  https://github.com/GUT-AI/gut-ai
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
-`<../README.rst#>`_                                                            Link                                   Link
+================================================================================== ===================================== ================================
+Component                                                                          Identifier                            Repository
+================================================================================== ===================================== ================================
+`Meta <../README.rst#meta-component>`_                                             https://doi.org/10.17605/OSF.IO/RN2S4 https://github.com/GUT-AI/gut-ai
+`C1.1 <../README.rst#component-c1-1-distributed-smart-grids>`_                     Link                                  Link
+`C1.2 <../README.rst#component-c1-2-gut-ai-dcp>`_                                  Link                                  Link
+`C4.13 <../README.rst#component-c4-13-multi-robot-target-detection-and-tracking>`_ Link                                  Link
+================================================================================== ===================================== ================================
 
-============================================================================= ====================================== ==================================
-
+`<../README.rst#>`_                                 Link                                  Link
 
 | [C1.1](../README.md#component-c11-distributed-smart-grids)              | Link | Link |
 | [C1.2](../README.md#component-c12-gut-ai-dcp)                           | Link | Link |
@@ -76,7 +44,7 @@ Component                                                                     Id
 | [C4.10](../README.md#component-c410-grounded-qa)                        | Link | Link |
 | [C4.11](../README.md#component-c411-vspt)                               | Link | Link |
 | [C4.12](../README.md#component-c412-multi-robot-path-planning)          | Link | Link |
-| [C4.13](../README.md#component-c413-multi-robot-target-detection-and-tracking) | Link | Link |
+| [C4.13](../README.md#component-c4-13-multi-robot-target-detection-and-tracking) | Link | Link |
 | [C4.14](../README.md#component-c414-anomaly-detection)                  | Link | Link |
 | [C4.15](../README.md#component-c415-recommender-engines)                | Link | Link |
 | [C5.1](../README.md#component-c51-automated-protoyping)                 | Link | Link |
