@@ -481,6 +481,7 @@ Component C5.2: Automated UX
 * Automated User Research
 * Automated User Validation
 * Automated UX Research
+* Multiple A/B experiments
 
 Component C5.3: Automated Marketing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -516,8 +517,8 @@ Component C5.6: Automated Governance and Compliance
 
 **Aims:** 
 
-* Automated contracts and reporting
-* Automated planning and strategy
+* Automated Contracts and Compliance Reporting
+* Automated Planning and Strategy
 
 Component C5.7: Portfolio Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
