@@ -465,11 +465,11 @@ Layer 5 components
 Component C5.1: Automated Protoyping
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Automated Protoyping.
+**Description:** Perform Automated Protoyping during Product Discovery.
 
 **Aims:**
 
-* Ideation and Creation
+* Automated Ideation and Creation
 
 Component C5.2: Automated UX
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -487,32 +487,42 @@ Component C5.3: Automated Marketing
 
 **Description:** Perform Automated Marketing.
 
-**Aims:** TODO
+**Aims:** 
+
+* Customized campaigns
 
 Component C5.4: Automated Sales
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Sales.
 
-**Aims:** TODO
+**Aims:** 
+
+* Customized cross-sell and up-sell
 
 Component C5.5: Automated Customer Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Customer Support.
+**Description:** Perform Automated Customer Support.
 
-**Aims:** TODO
+**Aims:** 
+
+* Customized support
 
 Component C5.6: Automated Governance and Compliance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Governance and Compliance for the Blockchain and AI era.
 
-**Aims:** TODO
+**Aims:** 
+
+* Automated contracts and reporting
 
 Component C5.7: Portfolio Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Portfolio Management for the Blockchain and AI era.
 
-**Aims:** TODO
+**Aims:** 
+
+* Customized portfolios for the needs of the user (retail or insitutional)
