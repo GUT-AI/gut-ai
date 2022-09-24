@@ -387,7 +387,10 @@ Component C4.10: VSPT
 
 **Description:** Perform Visuo-spatial Perpsective-Taking (VSPT).
 
-**Aims:** TODO
+**Aims:** 
+
+* Level 1 (L1) VSPT
+* Level 2 (L2) VSPT
 
 Component C4.11: Multi-Robot Path Planning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
