@@ -74,10 +74,11 @@ Component C1.1: Distributed Smart Grids
 Component C1.2: GUT-AI DCP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the **information storage** needs.
+**Description:** Create a dedicated Decentralized Cloud Proivder (DCP) related to GUT-AI for the **information storage** needs. Also use AI to improve DCP.
 
 **Aims:**
 
+* No hierarchical, centralized authority (i.e. similar to blockchain)
 * Hosting
 * Databases (SQL and NoSQL)
 * Data Warehouses
