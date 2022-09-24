@@ -22,33 +22,32 @@ Component                                                                       
 `C2.2 <../README.rst#component-c2-2-automated-data-preparation>`_                  Link                                  Link
 `C2.3 <../README.rst#component-c2-3-ci-cd>`_                                       Link                                  Link
 `C2.4 <../README.rst#component-c2-4-dx>`_                                          Link                                  Link
-`3.1 <../README.rst#component-c3-1-autods>`_                                       Link                                  Link
-`3.2 <../README.rst#component-c3-2-automl>`_                                       Link                                  Link
-`3.3 <../README.rst#component-c3-3-automated-data-preprocessing>`_                 Link                                  Link
-`3.4 <../README.rst#omponent-c3-4-nas>`_                                           Link                                  Link
-`3.5 <../README.rst#component-c3-5-continual-learning>`_                           Link                                  Link
-`3.6 <../README.rst#component-c3-6-distributed-systems-for-ml>`_                   Link                                  Link
-`3.7 <../README.rst#component-c3-7-solve-memory-bottleneck>`_                      Link                                  Link
+`C3.1 <../README.rst#component-c3-1-autods>`_                                       Link                                  Link
+`C3.2 <../README.rst#component-c3-2-automl>`_                                       Link                                  Link
+`C3.3 <../README.rst#component-c3-3-automated-data-preprocessing>`_                 Link                                  Link
+`C3.4 <../README.rst#omponent-c3-4-nas>`_                                           Link                                  Link
+`C3.5 <../README.rst#component-c3-5-continual-learning>`_                           Link                                  Link
+`C3.6 <../README.rst#component-c3-6-distributed-systems-for-ml>`_                   Link                                  Link
+`C3.7 <../README.rst#component-c3-7-solve-memory-bottleneck>`_                      Link                                  Link
+`C4.1 <../README.rst#component-c4-1-automated-scientific-discovery>`_               Link                                  Link
+`C4.2 <../README.rst#component-c4-2-mtsu>`_                                         Link                                  Link
+`C4.3 <../README.rst#component-c43-grounded-cv>`_                                   Link                                  Link
+`C4.4 <../README.rst#component-c44-asr>`_                                           Link                                  Link
+`C4.5 <../README.rst#component-c45-tts>`_                                           Link                                  Link
+`C4.6 <../README.rst#component-c46-ser>`_                                           Link                                  Link
+`C4.7 <../README.rst#component-c47-mt>`_                                            Link                                  Link
+`C4.8 <../README.rst#component-c48-tod>`_                                           Link                                  Link
+`C4.9 <../README.rst#component-c49-qa>`_                                            Link                                  Link
+`C4.10 <../README.rst#component-c410-grounded-qa>`_                                 Link                                  Link
+`C4.11 <../README.rst#component-c411-vspt>`_                                        Link                                  Link
+`C4.12 <../README.rst#component-c412-multi-robot-path-planning>`_                   Link                                  Link
 `C4.13 <../README.rst#component-c4-13-multi-robot-target-detection-and-tracking>`_ Link                                  Link
+`C4.14 <../README.rst#component-c414-anomaly-detection>`_                           Link                                  Link
+`C4.15 <../README.rst#component-c415-recommender-engines>`_                         Link                                  Link
 ================================================================================== ===================================== ================================
 
 `<../README.rst#>`_                                 Link                                  Link
 
-| [C4.1](../README.md#component-c41-automated-scientific-discovery)       | Link | Link |
-| [C4.2](../README.md#component-c42-mtsu)                                 | Link | Link |
-| [C4.3](../README.md#component-c43-grounded-cv)                          | Link | Link |
-| [C4.4](../README.md#component-c44-asr)                                  | Link | Link |
-| [C4.5](../README.md#component-c45-tts)                                  | Link | Link |
-| [C4.6](../README.md#component-c46-ser)                                  | Link | Link |
-| [C4.7](../README.md#component-c47-mt)                                   | Link | Link |
-| [C4.8](../README.md#component-c48-tod)                                  | Link | Link |
-| [C4.9](../README.md#component-c49-qa)                                   | Link | Link |
-| [C4.10](../README.md#component-c410-grounded-qa)                        | Link | Link |
-| [C4.11](../README.md#component-c411-vspt)                               | Link | Link |
-| [C4.12](../README.md#component-c412-multi-robot-path-planning)          | Link | Link |
-| [C4.13](../README.md#component-c4-13-multi-robot-target-detection-and-tracking) | Link | Link |
-| [C4.14](../README.md#component-c414-anomaly-detection)                  | Link | Link |
-| [C4.15](../README.md#component-c415-recommender-engines)                | Link | Link |
 | [C5.1](../README.md#component-c51-automated-protoyping)                 | Link | Link |
 | [C5.2](../README.md#component-c52-automated-ux)                         | Link | Link |
 | [C5.3](../README.md#component-c53-automated-marketing)                  | Link | Link |
