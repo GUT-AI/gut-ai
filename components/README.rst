@@ -266,12 +266,15 @@ Component C4.1: Automated Scientific Discovery
 
 **Description:** Perform Automated Scientific Discovery.
 
-**Aims:** TODO
+**Aims:** 
+
+* Automated Scientific Discovery using *model-based* Reinforcement Learning.
+* Automated Scientific Discovery using *model-free* Reinforcement Learning.
 
 Component C4.2: MTSU
 ^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks from a still and immobile camera.
+**Description:** Perform Multitask Scence Understanding (MTSU) by applying Multitak Learning on Computer Visions tasks on a *still and immobile* camera.
 
 **Aims:**
 
@@ -297,10 +300,11 @@ Component C4.2: MTSU
 Component C4.3: Grounded CV
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Grounded Computer Vision (Grounded CV) by applying Grounded Cognition on Computer Visions tasks from a single mobile robot or a single aerial robot (drone).
+**Description:** Perform Grounded Computer Vision (Grounded CV) by applying *Grounded Cognition* on Computer Visions tasks on *multiple mobile* robots or  *multiple aerial* robots (drones) or a combination of them (but using only a *single* modality, i.e. images or video).
 
 **Aims:**
 
+* `MTSU <#component-c4-2-mtsu>`_
 * Simultaneous Localization and Mapping (SLAM).
 * 3D Scene Reconstruction
 * Surface Reconstruction
@@ -339,64 +343,96 @@ Component C4.7: MT
 Component C4.8: TOD
 ^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Task-Oriented Dialog (TOD) using Multitak Learning.
+**Description:** Perform Task-Oriented Dialogue (TOD) using Multitak Learning.
 
 **Aims:**
 
 - Natural Language Understanding (NLU)
     - Named-Entity Recognition / Entities Extraction
     - Intent Classification / Intent Detection
-- Dialog Manager
+- Dialogue Manager
 - Natural Language Generation (NLG)
 
 Component C4.9: QA
 ^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform open-domain Question-Answering (QA).
+**Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue.
 
 **Aims:** TODO
 
-Component C4.10: Grounded QA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Description:** Perform Grounded Question-Answering (Grounded QA).
-
-**Aims:** TODO
-
-Component C4.11: VSPT
+Component C4.10: VSPT
 ^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Visuo-spatial Perpsective-Taking (VSPT).
 
 **Aims:** TODO
 
-Component C4.12: Multi-Robot Path Planning
+Component C4.11: Multi-Robot Path Planning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Multi-Robot Path Planning.
 
-**Aims:** TODO
+**Aims:** 
 
-Component C4.13: Multi-Robot Target Detection and Tracking
+* `MTSU <#component-c4-2-mtsu>`_
+* Path Planning
+
+Component C4.12: Multi-Robot Target Detection and Tracking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Multi-Robot Target Detection and Tracking.
 
-**Aims:** TODO
+**Aims:** 
 
-Component C4.14: Anomaly Detection
+* Target Detection
+* Target Tracking
+
+Component C4.13: Anomaly Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Anomaly Detection.
 
-**Aims:** TODO
+**Aims:** 
 
-Component C4.15: Recommender Engines
+* Anomaly Detection
+
+Component C4.14: Recommender Engines
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Implement Recommender Engines.
 
-**Aims:** TODO
+**Aims:** 
+
+* Recommender Engines
+
+Component C4.15: Grounded QA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Grounded Question-Answering (Grounded QA) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
+
+**Aims:** 
+
+* `QA <#component-c4-9-qa>`_
+* `VSPT <#component-c4-10-vspt>`_
+* `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
+
+Component C4.16: Grounded NLP
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Grounded Natural Language Processing (Grounded NLP) by applying *Grounded Cognition* on NLP tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
+
+**Aims:** 
+
+* `ASR <#component-c4-4-asr>`_
+* `TTS <#component-c4-5-tts>`_
+* `SER <#component-c4-6-ser>`_
+* `MT <#component-c4-7-mt>`_
+* `TOD <#component-c4-8-tod>`_
+* `QA <#component-c4-9-qa>`_
+* `VSPT <#component-c4-10-vspt>`_
+* `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
+* `Multi-Robot Target Detection and Tracking <#component-c4-12-multi-robot-target-detection-and-tracking>`_
+
 
 Layer 5 components
 ------------------
