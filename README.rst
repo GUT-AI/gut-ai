@@ -103,7 +103,7 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - E-Commerce (Wholesale and Retail)
 - Education and E-Learning
 - Energy
-- Finance
+- Financial Services
 - Food and Beverage
 - Gaming
 - Healthcare and Telemedicine
