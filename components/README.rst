@@ -227,6 +227,7 @@ Component C3.5: Continual Learning
 
 * Automated Model Retraining
 * Causal Learning (to address the *Moravec's Paradox*)
+* Intra-Agent Transfer Learning in RL
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -430,7 +431,22 @@ Component C4.14: Recommender Engines
 
 * Recommender Engines
 
-Component C4.15: Grounded QA
+Component C4.15: Multi-agent communication
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Implement Multi-agent communication.
+
+**Aims:** 
+
+* Communication among agents in Deep RL
+* Body language
+* Sign language
+* Inter-Agent Transfer Learning in RL
+    * Inverse Reinforcement Learning (IRL)
+    * Imitation Learning
+    * Learning from Demonstrations
+
+Component C4.16: Grounded QA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Grounded Question-Answering (Grounded QA) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
@@ -440,8 +456,9 @@ Component C4.15: Grounded QA
 * `QA <#component-c4-9-qa>`_
 * `VSPT <#component-c4-10-vspt>`_
 * `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
+* Multi-agent communication
 
-Component C4.16: Grounded NLP
+Component C4.17: Grounded NLP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Grounded Natural Language Processing (Grounded NLP) by applying *Grounded Cognition* on NLP tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
