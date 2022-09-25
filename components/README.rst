@@ -318,6 +318,8 @@ Component C4.3: Grounded CV
 * Structure from Motion
 * Feature Matching
 * Active Tracking
+* Exploration
+* Navigation
 
 Component C4.4: ASR
 ^^^^^^^^^^^^^^^^^^^
