@@ -376,7 +376,7 @@ Component C4.8: TOD
 Component C4.9: QA
 ^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue.
+**Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue (i.e. *visuo-linguistic* abilities).
 
 **Aims:** 
 
@@ -413,7 +413,7 @@ Component C4.11: Multi-Agent Communication
 Component C4.12: Multi-Robot Path Planning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Multi-Robot Path Planning.
+**Description:** Perform Multi-Robot Path Planning  (i.e. *visuo-motor* abilities).
 
 **Aims:** 
 
