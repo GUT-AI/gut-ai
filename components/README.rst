@@ -413,25 +413,7 @@ Component C4.12: Multi-Robot Target Detection and Tracking
 * Target Detection
 * Target Tracking
 
-Component C4.13: Anomaly Detection
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Description:** Perform Anomaly Detection.
-
-**Aims:** 
-
-* Anomaly Detection
-
-Component C4.14: Recommender Engines
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Description:** Implement Recommender Engines.
-
-**Aims:** 
-
-* Recommender Engines
-
-Component C4.15: Multi-agent communication
+Component C4.13: Multi-Agent Communication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Implement Multi-agent communication.
@@ -446,6 +428,24 @@ Component C4.15: Multi-agent communication
     * Imitation Learning
     * Learning from Demonstrations
 
+Component C4.14: Anomaly Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Anomaly Detection.
+
+**Aims:** 
+
+* Anomaly Detection
+
+Component C4.15: Recommender Engines
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Implement Recommender Engines.
+
+**Aims:** 
+
+* Recommender Engines
+
 Component C4.16: Grounded QA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -456,7 +456,7 @@ Component C4.16: Grounded QA
 * `QA <#component-c4-9-qa>`_
 * `VSPT <#component-c4-10-vspt>`_
 * `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
-* Multi-agent communication
+* `Multi-Agent Communication <#component-c4-13-multi-agent-communication>`_
 
 Component C4.17: Grounded NLP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -474,7 +474,7 @@ Component C4.17: Grounded NLP
 * `VSPT <#component-c4-10-vspt>`_
 * `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
 * `Multi-Robot Target Detection and Tracking <#component-c4-12-multi-robot-target-detection-and-tracking>`_
-
+* `Multi-Agent Communication <#component-c4-13-multi-agent-communication>`_
 
 Layer 5 components
 ------------------
