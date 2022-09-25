@@ -549,3 +549,23 @@ Component C5.7: Portfolio Management
 **Aims:** 
 
 * Customized portfolios for the needs of the user (retail or insitutional)
+
+Component C5.8: Air Traffic Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Air Traffic Management for airports.
+
+**Aims:** 
+
+* Scheduler: Airport Gate Assignment Problem (AGAP)
+* Controller: `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
+
+
+Component C5.9: Traffic Light Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Traffic Light Management for electric and conventional vehicles.
+
+**Aims:** 
+
+* Controller: `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
