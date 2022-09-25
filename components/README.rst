@@ -451,7 +451,7 @@ Component C4.15: Recommender Engines
 Component C4.16: Grounded QA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Grounded Question-Answering (Grounded QA) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
+**Description:** Perform Grounded Question-Answering (**Grounded QA**) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
 
 **Aims:** 
 
