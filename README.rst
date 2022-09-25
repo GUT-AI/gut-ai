@@ -229,7 +229,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ GUT-AI in your publica
       journal = {OSF Preprints},
       title = {Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics},
       year = {2022},
-      doi = {10.31219/osf.io/sjrkh},
+      doi = {10.17605/osf.io/sjrkh},
       license = {Creative Commons Zero CC0 1.0}
     }
 
