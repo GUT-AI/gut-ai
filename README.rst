@@ -34,7 +34,7 @@ GUT-AI
 
 |
 
-**Summary:** Documents and meta files about the **GUT-AI Initiative** in general.
+**Summary:** Documentation and meta files about the **GUT-AI Initiative** in general.
 
 |
 
