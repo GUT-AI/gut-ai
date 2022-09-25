@@ -53,4 +53,6 @@ Component                                                                       
 `C5.5 <../README.rst#component-c5-5-automated-customer-support>`_                  Link                                  Link
 `C5.6 <../README.rst#component-c5-6-automated-governance-and-compliance>`_         Link                                  Link
 `C5.7 <../README.rst#component-c5-7-portfolio-management>`_                        Link                                  Link
+`C5.8 <../README.rst#component-c5-8-air-traffic-management>`_                      Link                                  Link
+`C5.9 <../README.rst#component-c5-9-traffic-light-management>`_                    Link                                  Link
 ================================================================================== ===================================== ================================
