@@ -43,7 +43,7 @@ Component                                                                       
 `C4.12 <../README.rst#component-c4-12-multi-robot-target-detection-and-tracking>`_ Link                                  Link
 `C4.13 <../README.rst#component-c4-13-anomaly-detection>`_                         Link                                  Link
 `C4.14 <../README.rst#component-c4-14-recommender-engines>`_                       Link                                  Link
-`C4.15 <../README.rst#component-c4-15-grounded-qa>`_                               Link                                  Link
+`C4.15 <../README.rst#component-c4-15-grounded-qa>`_                               Link                                  https://github.com/GUT-AI/grounded-qa
 `C4.16 <../README.rst#component-c4-16-grounded-nlp>`_                              Link                                  Link
 `C5.1 <../README.rst#component-c5-1-automated-protoyping>`_                        Link                                  Link
 `C5.2 <../README.rst#component-c5-2-automated-ux>`_                                Link                                  Link
