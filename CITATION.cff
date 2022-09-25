@@ -6,8 +6,8 @@ authors:
     given-names: Ioannis
 identifiers:
   - type: doi
-    value: 10.31219/osf.io/sjrkh
+    value: 10.10.17605/osf.io/sjrkh
     description: The concept DOI for the collection containing all versions of the Citation File Format.
 date-released: "2022"
 license: "Creative Commons Zero CC0 1.0"
-doi: 10.31219/osf.io/sjrkh
+doi: 10.10.17605/osf.io/sjrkh
