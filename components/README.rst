@@ -395,27 +395,7 @@ Component C4.10: VSPT
 * Level 1 (L1) VSPT
 * Level 2 (L2) VSPT
 
-Component C4.11: Multi-Robot Path Planning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Description:** Perform Multi-Robot Path Planning.
-
-**Aims:** 
-
-* `MTSU <#component-c4-2-mtsu>`_
-* Path Planning
-
-Component C4.12: Multi-Robot Target Detection and Tracking
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Description:** Perform Multi-Robot Target Detection and Tracking.
-
-**Aims:** 
-
-* Target Detection
-* Target Tracking
-
-Component C4.13: Multi-Agent Communication
+Component C4.11: Multi-Agent Communication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Implement Multi-agent communication.
@@ -429,6 +409,26 @@ Component C4.13: Multi-Agent Communication
     * Inverse Reinforcement Learning (IRL)
     * Imitation Learning
     * Learning from Demonstrations
+
+Component C4.12: Multi-Robot Path Planning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Multi-Robot Path Planning.
+
+**Aims:** 
+
+* `MTSU <#component-c4-2-mtsu>`_
+* Path Planning
+
+Component C4.13: Multi-Robot Target Detection and Tracking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Multi-Robot Target Detection and Tracking.
+
+**Aims:** 
+
+* Target Detection
+* Target Tracking
 
 Component C4.14: Anomaly Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -457,8 +457,8 @@ Component C4.16: Grounded QA
 
 * `QA <#component-c4-9-qa>`_
 * `VSPT <#component-c4-10-vspt>`_
-* `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
-* `Multi-Agent Communication <#component-c4-13-multi-agent-communication>`_
+* `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
+* `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 
 Component C4.17: Grounded NLP
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -474,9 +474,9 @@ Component C4.17: Grounded NLP
 * `TOD <#component-c4-8-tod>`_
 * `QA <#component-c4-9-qa>`_
 * `VSPT <#component-c4-10-vspt>`_
-* `Multi-Robot Path Planning <#component-c4-11-multi-robot-path-planning>`_
-* `Multi-Robot Target Detection and Tracking <#component-c4-12-multi-robot-target-detection-and-tracking>`_
-* `Multi-Agent Communication <#component-c4-13-multi-agent-communication>`_
+* `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
+* `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
+* `Multi-Robot Target Detection and Tracking <#component-c4-13-multi-robot-target-detection-and-tracking>`_
 
 Layer 5 components
 ------------------
