@@ -37,7 +37,7 @@ Component                                                                       
 `C4.6 <../README.rst#component-c4-6-ser>`_                                         Link                                  Link
 `C4.7 <../README.rst#component-c4-7-mt>`_                                          Link                                  Link
 `C4.8 <../README.rst#component-c4-8-tod>`_                                         Link                                  Link
-`C4.9 <../README.rst#component-c4-9-qa>`_                                          Link                                  Link
+`C4.9 <../README.rst#component-c4-9-qa>`_                                          Link                                  https://github.com/GUT-AI/qa
 `C4.10 <../README.rst#component-c4-10-vspt>`_                                      Link                                  Link
 `C4.11 <../README.rst#component-c4-11-multi-agent-communication>`_                 Link                                  Link
 `C4.12 <../README.rst#component-c4-12-multi-robot-path-planning>`_                 Link                                  Link
