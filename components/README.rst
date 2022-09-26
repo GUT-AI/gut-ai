@@ -228,6 +228,10 @@ Component C3.5: Continual Learning
 * Automated Model Retraining
 * Causal Learning (to address the *Moravec's Paradox*)
 * Intra-Agent Transfer Learning in RL
+* Explainable AI (XAI)
+    * Counterfactuals
+    * Factuals
+* `Solve memory bottleneck <#component-c3-7-solve-memory-bottleneck>`_
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -262,7 +266,7 @@ Component C3.7: Solve memory bottleneck
 * Weighted Linear Finite-State Machines (WLFSM)
 * Bayesian Neural Networks (BNNs)
 * Automated Indexing, Caching and Searching (of compressed knowledge)
-
+* Extraction of compressed knowledge
 
 Layer 4 components
 ------------------
