@@ -423,6 +423,7 @@ Component C4.12: Multi-Robot Path Planning
 
 * `MTSU <#component-c4-2-mtsu>`_
 * Path Planning
+* `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
 
 Component C4.13: Multi-Robot Target Detection and Tracking
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -433,6 +434,7 @@ Component C4.13: Multi-Robot Target Detection and Tracking
 
 * Target Detection
 * Target Tracking
+* `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
 
 Component C4.14: Anomaly Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
