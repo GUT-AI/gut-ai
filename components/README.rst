@@ -384,7 +384,7 @@ Component C4.9: QA
 
 **Aims:** 
 
-* ML-based QA (Corpus-based only)
+* ML-based QA (Corpus-based or Image-based)
     * Retrieval-based models (using Utterance selection)
     * Generative models
 * QA as Inverse Question Generation
