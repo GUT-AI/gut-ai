@@ -278,8 +278,9 @@ Component C4.1: Automated Scientific Discovery
 
 **Aims:** 
 
-* Automated Scientific Discovery using *model-based* Reinforcement Learning.
-* Automated Scientific Discovery using *model-free* Reinforcement Learning.
+* Automated Scientific Discovery using *model-based* Reinforcement Learning
+* Automated Scientific Discovery using *model-free* Reinforcement Learning
+* Automated extraction of 'learnable' rules (i.e. 'oscillatory' determinism) in accordance with GUT and TLKA theory
 
 Component C4.2: MTSU
 ^^^^^^^^^^^^^^^^^^^^
