@@ -380,11 +380,11 @@ Component C4.8: TOD
 Component C4.9: QA
 ^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue (i.e. *visuo-linguistic* abilities).
+**Description:** Perform open-domain Question-Answering (QA), aka Non-Task-Oriented Dialogue.
 
 **Aims:** 
 
-* ML-based QA (Corpus-based QA or Image-based QA)
+* ML-based QA (Corpus-based only)
     * Retrieval-based models (using Utterance selection)
     * Generative models
 * QA as Inverse Question Generation
@@ -457,7 +457,7 @@ Component C4.15: Recommender Engines
 Component C4.16: Grounded QA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Grounded Question-Answering (**Grounded QA**) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
+**Description:** Perform Grounded Question-Answering (**Grounded QA**) by applying *Grounded Cognition* on QA tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning* (i.e. *visuo-linguistic* abilities).
 
 **Aims:** 
 
