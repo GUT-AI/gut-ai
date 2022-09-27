@@ -402,7 +402,7 @@ Component C4.10: VSPT
 Component C4.11: Multi-Agent Communication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Implement Multi-agent communication.
+**Description:** Implement Multi-Agent Communication.
 
 **Aims:** 
 
