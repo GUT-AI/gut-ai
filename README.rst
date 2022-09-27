@@ -7,8 +7,8 @@
   <p align="center"><a href="https://gut-ai.org/"><img src="https://raw.githubusercontent.com/GUT-AI/.github/master/profile/Logo%20GUT-AI%20text.png" alt="Logo" width="250"/></a>
   </p>
 
-GUT-AI
-======
+GUT-AI [Work In Progress]
+=========================
 
 .. raw:: html
 
