@@ -204,6 +204,7 @@ Component C3.3: Automated Data Preprocessing
         * Data Augmentation / Contrastive Learning
         * Feature Construction / Generative Learning
         * Adversarial Learning
+* Meta Learning
 
 Component C3.4: NAS
 ^^^^^^^^^^^^^^^^^^^
@@ -217,6 +218,7 @@ Component C3.4: NAS
     * Architecture Optimization
     * Hyperparameter Optimization
 * Automated Model Estimation
+* Meta Learning
 
 Component C3.5: Continual Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -232,6 +234,7 @@ Component C3.5: Continual Learning
     * Counterfactuals
     * Factuals
 * `Memory Bottleneck <#component-c3-7-memory-bottleneck>`_
+* Meta Learning
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
