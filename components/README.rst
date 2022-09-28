@@ -189,6 +189,7 @@ Component C3.2: AutoML
 
 * `Automated Data Preprocessing <#component-c3-3-automated-data-preprocessing>`_
 * `NAS <#component-c3-4-nas>`_
+* Hyperparameter Optimization (HPO)
 
 Component C3.3: Automated Data Preprocessing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -216,7 +217,6 @@ Component C3.4: NAS
 * Automated Model Selection
     * Search space
     * Architecture Optimization
-    * Hyperparameter Optimization
 * Automated Model Estimation
 * Meta Learning
 
