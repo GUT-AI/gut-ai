@@ -231,7 +231,7 @@ Component C3.5: Continual Learning
 * Explainable AI (XAI)
     * Counterfactuals
     * Factuals
-* `Solve memory bottleneck <#component-c3-7-solve-memory-bottleneck>`_
+* `Memory Bottleneck <#component-c3-7-memory-bottleneck>`_
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -243,10 +243,10 @@ Component C3.6: Distributed Systems for ML
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
 
-Component C3.7: Solve memory bottleneck
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Component C3.7: Memory Bottleneck
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Solve the issue of memory bottleneck in order to enable the Inference of Deep Learning models in embedded devices (while also addressing *Moravec's Paradox*).
+**Description:** Solve the issue of **memory bottleneck** in order to enable the Inference of Deep Learning models in embedded devices (while also addressing *Moravec's Paradox*).
 
 **Aims:**
 
