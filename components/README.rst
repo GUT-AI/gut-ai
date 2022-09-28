@@ -265,8 +265,8 @@ Component C3.7: Memory Bottleneck
 * Start with no connections, and add complexity as needed (e.g. Weighted Agnostic Neural Networks)
 * Weighted Linear Finite-State Machines (WLFSM)
 * Bayesian Neural Networks (BNNs)
+* Automated extraction of compressed knowledge
 * Automated Indexing, Caching and Searching (of compressed knowledge)
-* Extraction of compressed knowledge
 
 Layer 4 components
 ------------------
