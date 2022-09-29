@@ -208,7 +208,6 @@ Component C3.3: Automated Data Preprocessing
         * Adversarial Learning
 * Representation disentanglement
 * Representation Transfer
-* Meta Learning
 
 Component C3.4: NAS
 ^^^^^^^^^^^^^^^^^^^
@@ -221,7 +220,6 @@ Component C3.4: NAS
     * Search space
     * Architecture Optimization
 * Automated Model Estimation
-* Meta Learning
 
 Component C3.5: Continual Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
