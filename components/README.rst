@@ -91,7 +91,7 @@ Layer 2 components
 Component C2.1: GUT-AI Marketplace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a **module**, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle*).
+**Description:** Create a dedicated Marketplace for products (data, software apps) and services (Contractors and Freelancers) related to GUT-AI. Each digital product will be a **module**, which will be *interoperable* and *integrable* with any other module (just like *pieces of a puzzle* or building blocks).
 
 **Aims:**
 
