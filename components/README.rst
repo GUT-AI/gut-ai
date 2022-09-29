@@ -206,6 +206,8 @@ Component C3.3: Automated Data Preprocessing
         * Data Augmentation / Contrastive Learning
         * Feature Construction / Generative Learning
         * Adversarial Learning
+* Representation disentanglement
+* Representation Transfer
 * Meta Learning
 
 Component C3.4: NAS
