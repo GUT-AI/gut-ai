@@ -179,6 +179,7 @@ Component C3.1: AutoDS
 * `AutoML <#component-c3-2-automl>`_
 * `Continual Learning <#component-c3-5-continual-learning>`_
 * `CI/CD <#component-c2-3-ci-cd>`_
+* `Distributed Systems for ML <#component-c3-6-distributed-systems-for-ml>`_
 
 Component C3.2: AutoML
 ^^^^^^^^^^^^^^^^^^^^^^
