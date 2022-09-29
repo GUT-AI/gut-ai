@@ -237,6 +237,7 @@ Component C3.5: Continual Learning
 * `Memory Bottleneck <#component-c3-7-memory-bottleneck>`_
 * Meta Learning
 * Multitask Learning
+* Transfer Learning
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
