@@ -230,11 +230,11 @@ Component C3.5: Continual Learning
 
 * Automated Model Retraining
 * Intra-Agent Transfer Learning in RL
+* Causal Learning (to address the *Moravec's Paradox*)
 * Explainable AI (XAI)
     * Counterfactuals
     * Factuals
 * `Memory Bottleneck <#component-c3-7-memory-bottleneck>`_
-* Causal Learning (to address the *Moravec's Paradox*)
 * Meta Learning
 
 Component C3.6: Distributed Systems for ML
@@ -287,6 +287,10 @@ Component C4.1: Automated Scientific Discovery
 * Automated Scientific Discovery using *Dynamical Systems*
 * Representation disentanglement to find neural state variables
 * Automated extraction of 'learnable' rules (i.e. 'oscillatory' determinism) in accordance with GUT and TLKA theory
+* Causal Learning (to address the *Moravec's Paradox*)
+* Explainable AI (XAI)
+    * Counterfactuals
+    * Factuals
 
 
 Component C4.2: MTSU
