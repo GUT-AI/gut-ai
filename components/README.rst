@@ -282,7 +282,6 @@ Component C4.1: Automated Scientific Discovery
 
 **Aims:** 
 
-* `Automated Data Preprocessing <#component-c3-3-automated-data-preprocessing>`_
 * Automated Scientific Discovery using *model-based* Reinforcement Learning
 * Automated Scientific Discovery using *model-free* Reinforcement Learning
 * Automated Scientific Discovery using *Dynamical Systems*
