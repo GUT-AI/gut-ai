@@ -208,6 +208,7 @@ Component C3.3: Automated Data Preprocessing
         * Adversarial Learning
 * Representation disentanglement
 * Representation Transfer
+* Multimodal Representation Learning
 
 Component C3.4: NAS
 ^^^^^^^^^^^^^^^^^^^
