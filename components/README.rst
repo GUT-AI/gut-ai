@@ -359,6 +359,7 @@ Component C4.5: TTS
 **Aims:** 
 
 * End-to-End TTS
+* Multimodal TTS
 
 Component C4.6: SER
 ^^^^^^^^^^^^^^^^^^^
@@ -499,6 +500,7 @@ Component C4.17: Grounded NLP
 * `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
 * `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 * `Multi-Robot Target Detection and Tracking <#component-c4-13-multi-robot-target-detection-and-tracking>`_
+* Multimodal Image and Video Description
 
 Layer 5 components
 ------------------
