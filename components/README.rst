@@ -440,6 +440,8 @@ Component C4.12: Multi-Robot Path Planning
 **Aims:** 
 
 * `MTSU <#component-c4-2-mtsu>`_
+* Navigation
+* Collision Avoidance
 * Path Planning
 * `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
 
