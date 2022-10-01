@@ -30,7 +30,7 @@ Five-Layer Architecture
 
 The following **Five-Layer Architecture** is used:
 
-* Layer 1 - Energy Layer (Physical and Data Link)
+* Layer 1 - Foundation Layer (Physical and Data Link)
 * Layer 2 - Infrastructure Layer (IaaS)
 * Layer 3 - Platform Layer (PaaS)
 * Layer 4 - Intelligence Layer (AIaaS)
