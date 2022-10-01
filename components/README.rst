@@ -427,7 +427,7 @@ Component C4.11: Multi-Agent Communication
 **Aims:** 
 
 * Communication among agents in Deep RL
-* Interpretation of emergent communication
+* Interpretation of emergent communication (among heterogenous or homogeneous agents)
 * Body language
 * Sign language
 * Inter-Agent Transfer Learning in RL
