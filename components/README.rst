@@ -180,6 +180,7 @@ Component C3.1: AutoDS
 * `Continual Learning <#component-c3-5-continual-learning>`_
 * `CI/CD <#component-c2-3-ci-cd>`_
 * `Distributed Systems for ML <#component-c3-6-distributed-systems-for-ml>`_
+* Sandbox for experiments
 
 Component C3.2: AutoML
 ^^^^^^^^^^^^^^^^^^^^^^
