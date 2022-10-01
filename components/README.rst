@@ -210,6 +210,7 @@ Component C3.3: Automated Data Preprocessing
 * Representation disentanglement
 * Representation Transfer
 * Multimodal Representation Learning
+* Self-Supervised Learning (for efficient RL Downstream Tasks)
 
 Component C3.4: NAS
 ^^^^^^^^^^^^^^^^^^^
