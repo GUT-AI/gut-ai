@@ -28,6 +28,24 @@ Computer Vision
 - Code: https://github.com/google-research/vision_transformer
 - Pretrained Model: https://github.com/google-research/vision_transformer
 - Released: 2020
+- Learning: Supervised
+- Architecture: Transformer
+
+**BEiT**
+
+- Paper: `BEiT: BERT Pre-Training of Image Transformers <https://arxiv.org/pdf/2106.08254.pdf>`_
+- Code: https://github.com/microsoft/unilm/tree/master/beit
+- Pretrained Model: https://github.com/microsoft/unilm/tree/master/beit
+- Released: 2021
+- Learning: Self-Supervised
+- Architecture: Transformer
+
+**DeiT 3**
+
+- Paper: `DeiT III: Revenge of the ViT <https://arxiv.org/pdf/2204.07118.pdf>`_
+- Code: https://github.com/facebookresearch/deit
+- Pretrained Model: https://github.com/facebookresearch/deit
+- Released: 2022
 - Learning: Self-Supervised
 - Architecture: Transformer
 
