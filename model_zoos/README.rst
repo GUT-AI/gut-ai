@@ -14,6 +14,11 @@ Representation Learning Models (RLMs)
 
 **Note:** RLMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes wrongly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external, larger* dataset than the one for the Downstream Task.
 
+.. raw:: html
+
+  <p align="center"><img src="https://raw.githubusercontent.com/GUT-AI/gut-ai/master/images/Preprocessing.png" alt="Logo" width="300"/>
+  </p>
+
 NLP
 ^^^
 
@@ -34,6 +39,11 @@ Downstream Task Models (DTMs)
 ----------------------------
 
 **Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal depends on the specific task.
+
+.. raw:: html
+
+  <p align="center"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/DownstreamTask.png" alt="Logo" width="300"/>
+  </p>
 
 NLP
 ^^^
