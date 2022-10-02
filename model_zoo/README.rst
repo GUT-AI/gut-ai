@@ -12,7 +12,7 @@ Model Zoos
 Representation Learning Models (RLMs)
 -------------------------------------
 
-**Note:** RLMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes wrongly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external, larger* dataset than the one for the Downstream Task.
+**Note:** RLMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes incorrectly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external, larger* dataset than the one for the Downstream Task.
 
 .. raw:: html
 
@@ -50,7 +50,7 @@ Speech Processing
 
 - Paper: `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
 - Code: https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
-- Pretrained Model: https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
+- Pretrained model: https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
 - Released: 2021
 - Learning: Self-Supervised
 - Architecture: Transformer
@@ -62,7 +62,7 @@ Multimodal
 
 - Paper: `ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks <https://arxiv.org/pdf/1908.02265.pdf>`_
 - Code: https://github.com/facebookresearch/vilbert-multi-task
-- Pretrained Model:
+- Pretrained model:
 - Released: 2019
 - Learning: Self-Supervised
 - Architecture: Transformer
@@ -71,8 +71,17 @@ Multimodal
 
 - Paper: `MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering <https://arxiv.org/pdf/2010.14095.pdf>`_
 - Code: https://github.com/aurooj/MMFT-BERT
-- Pretrained Model:
+- Pretrained model:
 - Released: 2020
+- Learning: Self-Supervised
+- Architecture: Transformer
+
+**ViLT**
+
+- Paper: `ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision <https://arxiv.org/pdf/2010.14095.pdf>`_
+- Code: https://github.com/dandelin/vilt
+- Pretrained model: https://github.com/dandelin/vilt
+- Released: 2021
 - Learning: Self-Supervised
 - Architecture: Transformer
 
