@@ -277,7 +277,7 @@ Component C3.7: Memory Bottleneck
 * Bayesian Neural Networks (BNNs)
 * Automated extraction of compressed knowledge
 * Automated Indexing, Caching and Searching (of compressed knowledge)
-* Compressed Feature Extraction
+* Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
 
 Layer 4 components
 ------------------
