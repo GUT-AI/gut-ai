@@ -22,9 +22,17 @@ NLP
 - Paper: 
 - Model: 
 
+Computer Vision
+^^^^^^^^^^^^^^^
 
 Downstrem Task Models (DTMs)
 ----------------------------
 
 DTMs are **task-specific** models which are typically used at the Downstream Task. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used.
 
+NLP
+^^^
+
+
+Computer Vision
+^^^^^^^^^^^^^^^
