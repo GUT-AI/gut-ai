@@ -22,9 +22,13 @@ NLP
 - Paper: `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
 - Code: https://github.com/google-research/bert
 - Pretrained Model: https://github.com/google-research/bert
+- Released: 2019
 
 Computer Vision
 ^^^^^^^^^^^^^^^
+
+
+
 
 Downstrem Task Models (DTMs)
 ----------------------------
