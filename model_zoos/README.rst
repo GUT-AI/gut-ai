@@ -19,8 +19,9 @@ NLP
 
 **BERT**
 
-- Paper: 
-- Model: 
+- Paper: `BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding <https://arxiv.org/pdf/1810.04805.pdf>`_
+- Code: https://github.com/google-research/bert
+- Pretrained Model: https://github.com/google-research/bert
 
 Computer Vision
 ^^^^^^^^^^^^^^^
