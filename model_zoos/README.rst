@@ -19,6 +19,16 @@ Representation Learning Models (RLMs)
   <p align="center"><img src="https://raw.githubusercontent.com/GUT-AI/gut-ai/master/images/Preprocessing.png" alt="Logo" width="300"/>
   </p>
 
+Computer Vision
+^^^^^^^^^^^^^^^
+
+**ViT**
+
+- Paper: `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://arxiv.org/pdf/2010.11929.pdf>`_
+- Code: https://github.com/google-research/vision_transformer
+- Pretrained Model: https://github.com/google-research/vision_transformer
+- Released: 2020
+
 NLP
 ^^^
 
@@ -29,9 +39,18 @@ NLP
 - Pretrained Model: https://github.com/google-research/bert
 - Released: 2019
 
-Computer Vision
-^^^^^^^^^^^^^^^
+Speech Processing
+^^^^^^^^^^^^^^^^^
 
+**HuBERT**
+
+- Paper: ` <>`_
+- Code: 
+- Pretrained Model: 
+- Released: 
+
+Multimodal
+^^^^^^^^^^
 
 
 
@@ -45,9 +64,16 @@ Downstream Task Models (DTMs)
   <p align="center"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/DownstreamTask.png" alt="Logo" width="300"/>
   </p>
 
+
+Computer Vision
+^^^^^^^^^^^^^^^
+
 NLP
 ^^^
 
 
-Computer Vision
-^^^^^^^^^^^^^^^
+Speech Processing
+^^^^^^^^^^^^^^^^^
+
+Multimodal
+^^^^^^^^^^
