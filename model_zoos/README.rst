@@ -12,7 +12,7 @@ Model Zoos
 Representation Learning Models (RLMs)
 -------------------------------------
 
-DTMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes wrongly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal is to extract the **representations / features / embeddings**.
+DTMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes wrongly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal is to extract dense **representations / features / embeddings**.
 
 NLP
 ^^^
