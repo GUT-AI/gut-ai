@@ -209,10 +209,10 @@ Datasets
 
 See `Datasets <datasets/README.rst>`_.
 
-Model Zoos
-^^^^^^^^^^
+Model Zoo
+^^^^^^^^^
 
-See `Model Zoos <model_zoos/README.rst>`_.
+See `Model Zoo <model_zoo/README.rst>`_.
 
 Getting involved
 ----------------
