@@ -28,6 +28,8 @@ Computer Vision
 - Code: https://github.com/google-research/vision_transformer
 - Pretrained Model: https://github.com/google-research/vision_transformer
 - Released: 2020
+- Learning: Self-Supervised
+- Architecture: Transformer
 
 NLP
 ^^^
@@ -38,21 +40,41 @@ NLP
 - Code: https://github.com/google-research/bert
 - Pretrained Model: https://github.com/google-research/bert
 - Released: 2019
+- Learning: Self-Supervised
+- Architecture: Transformer
 
 Speech Processing
 ^^^^^^^^^^^^^^^^^
 
 **HuBERT**
 
-- Paper: ` <>`_
-- Code: 
-- Pretrained Model: 
-- Released: 
+- Paper: `HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units <https://arxiv.org/pdf/2106.07447.pdf>`_
+- Code: https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
+- Pretrained Model: https://github.com/facebookresearch/fairseq/tree/main/examples/hubert
+- Released: 2021
+- Learning: Self-Supervised
+- Architecture: Transformer
 
 Multimodal
 ^^^^^^^^^^
 
+**ViLBERT**
 
+- Paper: `ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks <https://arxiv.org/pdf/1908.02265.pdf>`_
+- Code: https://github.com/facebookresearch/vilbert-multi-task
+- Pretrained Model:
+- Released: 2019
+- Learning: Self-Supervised
+- Architecture: Transformer
+
+**MMFT-BERT**
+
+- Paper: `MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering <https://arxiv.org/pdf/2010.14095.pdf>`_
+- Code: https://github.com/aurooj/MMFT-BERT
+- Pretrained Model:
+- Released: 2020
+- Learning: Self-Supervised
+- Architecture: Transformer
 
 Downstream Task Models (DTMs)
 ----------------------------
