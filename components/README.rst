@@ -268,6 +268,7 @@ Component C3.7: Memory Bottleneck
 * Soft-Weight Sharing
 * Variational Dropout
 * Structured Bayesian Pruning
+* Knowledge distillation
 * Bayesian Compression
 * Lottery Ticket Hypothesis
 * `NAS <#component-c3-4-nas>`_
