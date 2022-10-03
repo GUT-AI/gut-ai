@@ -234,9 +234,6 @@ Component C3.5: Continual Learning
 * Automated Model Retraining
 * Intra-Agent Transfer Learning in RL
 * Causal Learning (to address the *Moravec's Paradox*)
-* Explainable AI (XAI)
-    * Counterfactuals
-    * Factuals
 * `Memory Bottleneck <#component-c3-7-memory-bottleneck>`_
 * Meta Learning
 * Multitask Learning
