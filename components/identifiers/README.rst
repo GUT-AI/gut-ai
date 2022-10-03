@@ -24,12 +24,12 @@ Component                                                                       
 `C2.4 <../README.rst#component-c2-4-dx>`_                                          Link                                  Link
 `C3.1 <../README.rst#component-c3-1-autods>`_                                      Link                                  Link
 `C3.2 <../README.rst#component-c3-2-automl>`_                                      https://doi.org/10.17605/OSF.IO/FVNDU https://github.com/GUT-AI/auto-ml
-`C3.3 <../README.rst#component-c3-3-automated-data-preprocessing>`_                Link                                  https://github.com/GUT-AI/automated-data-preprocessing
+`C3.3 <../README.rst#component-c3-3-automated-data-preprocessing>`_                https://doi.org/10.17605/OSF.IO/TKFWP https://github.com/GUT-AI/automated-data-preprocessing
 `C3.4 <../README.rst#omponent-c3-4-nas>`_                                          https://doi.org/10.17605/OSF.IO/NXZYR https://github.com/GUT-AI/nas
-`C3.5 <../README.rst#component-c3-5-continual-learning>`_                          Link                                  https://github.com/GUT-AI/continual-learning
+`C3.5 <../README.rst#component-c3-5-continual-learning>`_                          https://doi.org/10.17605/OSF.IO/TEBPN https://github.com/GUT-AI/continual-learning
 `C3.6 <../README.rst#component-c3-6-distributed-systems-for-ml>`_                  Link                                  Link
 `C3.7 <../README.rst#component-c3-7-solve-memory-bottleneck>`_                     https://doi.org/10.17605/OSF.IO/D2A5M https://github.com/GUT-AI/memory-bottleneck
-`C4.1 <../README.rst#component-c4-1-automated-scientific-discovery>`_              Link                                  https://github.com/GUT-AI/automated-scientific-discovery
+`C4.1 <../README.rst#component-c4-1-automated-scientific-discovery>`_              https://doi.org/10.17605/OSF.IO/SDWP6 https://github.com/GUT-AI/automated-scientific-discovery
 `C4.2 <../README.rst#component-c4-2-mtsu>`_                                        Link                                  Link
 `C4.3 <../README.rst#component-c4-3-grounded-cv>`_                                 Link                                  Link
 `C4.4 <../README.rst#component-c4-4-asr>`_                                         Link                                  Link
