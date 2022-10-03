@@ -15,7 +15,7 @@ The identifiers and repostitories are tabulated below.
 ================================================================================== ===================================== ================================
 Component                                                                          Identifier                            Repository
 ================================================================================== ===================================== ================================
-`Meta <../README.rst#meta-component>`_                                             https://doi.org/10.17605/OSF.IO/RN2S4 https://github.com/GUT-AI/gut-ai
+`Meta <../README.rst#meta-component>`_                                             https://doi.org/10.17605/OSF.IO/VMJPX https://github.com/GUT-AI/gut-ai
 `C1.1 <../README.rst#component-c1-1-distributed-smart-grids>`_                     Link                                  Link
 `C1.2 <../README.rst#component-c1-2-gut-ai-dcp>`_                                  Link                                  Link
 `C2.1 <../README.rst#component-c2-1-gut-ai-marketplace>`_                          Link                                  Link
