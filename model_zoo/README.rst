@@ -73,8 +73,8 @@ Speech Processing
 - Learning: Self-Supervised
 - Architecture: Transformer
 
-Multimodal
-^^^^^^^^^^
+Multimodal Learning
+^^^^^^^^^^^^^^^^^^^
 
 **ViLBERT**
 
@@ -137,5 +137,5 @@ NLP
 Speech Processing
 ^^^^^^^^^^^^^^^^^
 
-Multimodal
-^^^^^^^^^^
+Multimodal Learning
+^^^^^^^^^^^^^^^^^^^
