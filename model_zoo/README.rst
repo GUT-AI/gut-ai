@@ -12,7 +12,7 @@ Model Zoo
 Representation Learning Models (RLMs)
 -------------------------------------
 
-**Note:** RLMs are **task-agnostic** models which are typically used at the **state of Preprocessing** (which is sometimes incorrectly called "pretraining" phase). They are typically trained using *Self-Supervised Learning*, but Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external* dataset (i.e. *source* dataset) whihch is *larger* than the one for the Downstream Task (i.e. *target* dataset).
+**Note:** RLMs are typically **task-agnostic** models which are used at the **state of Preprocessing** (which is sometimes incorrectly called "pretraining" phase). They are usually trained using *Self-Supervised Learning*, but Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external* dataset (i.e. *source* dataset) whihch is *larger* than the one for the Downstream Task (i.e. *target* dataset).
 
 .. raw:: html
 
@@ -119,7 +119,7 @@ Multimodal
 Downstream Task Models (DTMs)
 ----------------------------
 
-**Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal depends on the specific task. The DTMs listed below are only the ones compatible with *dense-representation* RLMs (e.g. Transformer-based encoders).
+**Note:** DTMs are typically **task-specific** models which are used at the **Downstream Task**. They are usually trained using *Supervised Learning*, but Self-Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal depends on the specific task. The DTMs listed below are only the ones compatible with *dense-representation* RLMs (e.g. Transformer-based encoders).
 
 .. raw:: html
 
