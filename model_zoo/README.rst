@@ -84,6 +84,7 @@ Multimodal
 - Released: 2019
 - Learning: Self-Supervised
 - Architecture: Transformer
+- Modalities: images, text
 
 **MMFT-BERT**
 
@@ -93,6 +94,7 @@ Multimodal
 - Released: 2020
 - Learning: Self-Supervised
 - Architecture: Transformer
+- Modalities: images, text
 
 **ViLT**
 
@@ -102,11 +104,22 @@ Multimodal
 - Released: 2021
 - Learning: Self-Supervised
 - Architecture: Transformer
+- Modalities: images, text
+
+**AV-HuBERT**
+
+- Paper: `Learning audio-visual speech representation by masked multimodal cluster prediction <https://arxiv.org/pdf/2201.02184.pdf>`_
+- Code: https://github.com/facebookresearch/av_hubert
+- Pretrained model: https://github.com/facebookresearch/av_hubert
+- Released: 2022
+- Learning: Self-Supervised
+- Architecture: Transformer
+- Modalities: images, audio
 
 Downstream Task Models (DTMs)
 ----------------------------
 
-**Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal depends on the specific task.
+**Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal depends on the specific task. The DTMs listed below are only the ones compatible with *dense representation* RLMs (e.g. Transformer-based encoders).
 
 .. raw:: html
 
