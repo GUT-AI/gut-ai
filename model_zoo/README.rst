@@ -119,7 +119,7 @@ Multimodal
 Downstream Task Models (DTMs)
 ----------------------------
 
-**Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal depends on the specific task. The DTMs listed below are only the ones compatible with *dense representation* RLMs (e.g. Transformer-based encoders).
+**Note:** DTMs are **task-specific** models which are typically used at the **Downstream Task**. They are typically trained using *Supervised Learning*, but Self-Supervised and (narrow-sense) Unsupervised Learning can also be used. The end goal depends on the specific task. The DTMs listed below are only the ones compatible with *dense-representation* RLMs (e.g. Transformer-based encoders).
 
 .. raw:: html
 
