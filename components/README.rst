@@ -64,6 +64,7 @@ Component C1.1: Distributed Smart Grids
 * Use of **Real-Time Pricing** through a Decentralized Exchange (DEX) for power markets
 * Distributed Computer Network for **Communication, DSM** and **Real-Time Pricing**
 * Support for GUT-AI DCP and other decentralized cloud providers
+* Support for Internet of Things (IoT)
 * Support for interoperable electric vehicles
 * Support for conventional (dieasel and petrol) vehicles
 * Support for Near-Zero Energy Buildings (NZEBs)
