@@ -108,7 +108,7 @@ Multimodal
 
 **AV-HuBERT**
 
-- Paper: `Learning audio-visual speech representation by masked multimodal cluster prediction <https://arxiv.org/pdf/2201.02184.pdf>`_
+- Paper: `Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction <https://arxiv.org/pdf/2201.02184.pdf>`_
 - Code: https://github.com/facebookresearch/av_hubert
 - Pretrained model: https://github.com/facebookresearch/av_hubert
 - Released: 2022
