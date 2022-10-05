@@ -110,3 +110,20 @@ Image Captioning
 
 * `COCO Captions <https://paperswithcode.com/dataset/coco-captions>`_
 
+Representaiton Learning (Feature Extraction)
+--------------------------------------------
+
+The following are larger datasets in order to train `Representation Learning Models (RLMs) <../model_zoo/README.rst#representation-learning-models-rlms>`_.
+
+Image
+^^^^^
+
+
+Text
+^^^^
+
+
+Audio
+^^^^^
+
+
