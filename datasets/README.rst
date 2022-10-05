@@ -70,6 +70,9 @@ Text Classification
 **News Classification**
 
 * `AG News <https://paperswithcode.com/dataset/ag-news>`_
+* `20 Newsgroups <https://paperswithcode.com/dataset/20-newsgroups>`_
+* `Reuters-21578 R8, R52 and Full <https://paperswithcode.com/dataset/reuters-21578>`_
+* `Ohsumed <https://paperswithcode.com/dataset/ohsumed>`_
 
 **Topic Classification**
 
