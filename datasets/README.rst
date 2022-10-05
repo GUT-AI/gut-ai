@@ -29,6 +29,12 @@ Image Classification
 Natural Language Processing
 ---------------------------
 
+Text Classification
+^^^^^^^^^^^^^^^^^^^
+
+* `AG News <https://paperswithcode.com/dataset/ag-news>`_
+* `SST <https://paperswithcode.com/dataset/sst>`_
+
 
 Speech Processing
 -----------------
