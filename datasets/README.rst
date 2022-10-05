@@ -57,10 +57,21 @@ Text Classification
 **Retrieval-based Question Answering**
 
 * `SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad>`_
+* `Quora Question Pairs <https://paperswithcode.com/dataset/quora-question-pairs>`_
 
 **Natural Language Inference**
  
 * `SNLI <https://paperswithcode.com/dataset/snli>`_
+
+**Linguistic Acceptability**
+
+* `CoLA <https://paperswithcode.com/dataset/cola>`_
+
+**Semantic Textual Similarity**
+
+* `STS Benchmark <https://paperswithcode.com/dataset/sts-benchmark>`_
+* `MRPC <https://paperswithcode.com/dataset/mrpc>`_
+
 
 Speech Processing
 -----------------
