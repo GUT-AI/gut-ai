@@ -60,7 +60,7 @@ Text Classification
 
 **Natural Language Inference**
  
-* ` <>`_
+* `SNLI <https://paperswithcode.com/dataset/snli>`_
 
 Speech Processing
 -----------------
