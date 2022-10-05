@@ -72,7 +72,7 @@ Text Classification
 
 **Topic Classification**
 
-* `DBpedia <https://paperswithcode.com/dataset/dbpedia>`_
+* `DBpedia 2016-10 <https://paperswithcode.com/dataset/dbpedia>`_
 
 **Question Answering (Retrieval-based)**
 
