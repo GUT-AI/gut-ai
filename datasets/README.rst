@@ -32,9 +32,25 @@ Natural Language Processing
 Text Classification
 ^^^^^^^^^^^^^^^^^^^
 
-* `AG News <https://paperswithcode.com/dataset/ag-news>`_
+**Sentiment Analysis**
+
 * `SST-2 and SST-5 <https://paperswithcode.com/dataset/sst>`_
 
+**News Classification**
+
+* `AG News <https://paperswithcode.com/dataset/ag-news>`_
+
+**Topic Classification**
+
+* `DBpedia <https://paperswithcode.com/dataset/dbpedia>`_
+
+**Retrieval-based Question Answering**
+
+* `DBpedia <SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad`_
+
+**Natural Language Inference**
+ 
+ * ` <>`_
 
 Speech Processing
 -----------------
