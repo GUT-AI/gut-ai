@@ -1,7 +1,17 @@
+.. |br| raw:: html
+
+  <br/>
+
 Datasets
 ========
 
 **Summary:** This is a non-exhaustive list of repositories containing datasets, mainly for Supervised and Unsupervised Learning.
+
+|
+
+.. contents:: **Table of Contents**
+
+|
 
 Lists of datasets
 -----------------
@@ -46,11 +56,11 @@ Text Classification
 
 **Retrieval-based Question Answering**
 
-* `DBpedia <SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad`_
+* `SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad>`_
 
 **Natural Language Inference**
  
- * ` <>`_
+* ` <>`_
 
 Speech Processing
 -----------------
