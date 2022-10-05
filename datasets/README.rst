@@ -37,6 +37,7 @@ Image Classification
 * `CIFAR-100 <https://paperswithcode.com/dataset/cifar-100>`_
 * `ImageNet <https://paperswithcode.com/dataset/imagenet>`_
 * `Tiny ImageNet <https://paperswithcode.com/dataset/tiny-imagenet>`_
+* `iNaturalist <https://paperswithcode.com/dataset/inaturalist>`_
 
 Object Detection (Bounding Box)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
