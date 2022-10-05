@@ -34,3 +34,4 @@ Game emulators
 --------------
 
 - `Gym Retro <https://github.com/openai/retro>`_ - classic video games (Atari, Nintendo, Saga, etc.)
+- `gym-games <https://github.com/qlan3/gym-games>`_ - various video games in PyGame and MinAtar
