@@ -23,6 +23,12 @@ Indoor simulators
 Outdoor simulators
 ------------------
 
-- `SUMO <https://www.eclipse.org/sumo/>`_
-- `airport-ai <https://github.com/burnpiro/airport-ai>`_
-- `trafficSimulator <https://github.com/BilHim/trafficSimulator>`_
+- `SUMO <https://www.eclipse.org/sumo/>`_ - air and road traffic
+- `airport-ai <https://github.com/burnpiro/airport-ai>`_ - air traffic
+- `trafficSimulator <https://github.com/BilHim/trafficSimulator>`_ - air traffic
+- `SVL <https://www.svlsimulator.com/>`_ - autonomous vehicles
+
+Game emulators
+--------------
+
+- `Gym Retro <https://github.com/openai/retro>`_ - classic video games (Atari, Nintendo, Saga, etc.)
