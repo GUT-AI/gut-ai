@@ -23,6 +23,7 @@ Image Classification
 * `MNIST <https://paperswithcode.com/dataset/mnist>`_
 * `CIFAR-10 <https://paperswithcode.com/dataset/cifar-10>`_
 * `CIFAR-100 <https://paperswithcode.com/dataset/cifar-100>`_
+* `ImageNet <https://paperswithcode.com/dataset/imagenet>`_
 
 
 Natural Language Processing
