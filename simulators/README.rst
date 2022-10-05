@@ -27,6 +27,7 @@ Outdoor simulators
 - `airport-ai <https://github.com/burnpiro/airport-ai>`_ - air traffic
 - `trafficSimulator <https://github.com/BilHim/trafficSimulator>`_ - air traffic
 - `SVL <https://www.svlsimulator.com/>`_ - autonomous vehicles
+- `AirSim <https://microsoft.github.io/AirSim/reinforcement_learning/> - autonomous vehicles
 
 Game emulators
 --------------
