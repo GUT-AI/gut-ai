@@ -98,4 +98,8 @@ Speech Processing
 Multimodal Learning
 -------------------
 
+Image Captioning
+^^^^^^^^^^^^^^^^
+
+* `COCO Captions <https://paperswithcode.com/dataset/coco-captions>`_
 
