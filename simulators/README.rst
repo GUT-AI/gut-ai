@@ -26,6 +26,7 @@ Outdoor simulators
 - `SUMO <https://www.eclipse.org/sumo/>`_ (`sumo-rl <https://github.com/LucasAlegre/sumo-rl>`_) - air and road traffic
 - `airport-ai <https://github.com/burnpiro/airport-ai>`_ - air traffic
 - `trafficSimulator <https://github.com/BilHim/trafficSimulator>`_ - air traffic
+- `CARLA <http://carla.org/>`_ (`gym-carla <https://github.com/cjy1992/gym-carla>`_) - autonomous vehicles
 - `SVL <https://www.svlsimulator.com/>`_ - autonomous vehicles
 - `AirSim <https://microsoft.github.io/AirSim/reinforcement_learning/>`_ - autonomous vehicles
 
