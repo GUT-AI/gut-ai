@@ -90,6 +90,13 @@ Text Classification
 * `STS Benchmark <https://paperswithcode.com/dataset/sts-benchmark>`_
 * `MRPC <https://paperswithcode.com/dataset/mrpc>`_
 
+Machine Translation
+^^^^^^^^^^^^^^^^^^^
+
+
+Question Answering (Generative)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 Speech Processing
 -----------------
