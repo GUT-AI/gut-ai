@@ -45,6 +45,7 @@ Text Classification
 **Sentiment Analysis**
 
 * `SST-2 and SST-5 <https://paperswithcode.com/dataset/sst>`_
+* `IMDb Movie Reviews <https://paperswithcode.com/dataset/imdb-movie-reviews>`_
 
 **News Classification**
 
