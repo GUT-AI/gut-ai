@@ -3,7 +3,8 @@ Datasets
 
 **Summary:** This is a non-exhaustive list of repositories containing datasets, mainly for Supervised and Unsupervised Learning.
 
-List:
+Lists of datasets
+-----------------
 
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Papers with Code <https://paperswithcode.com/datasets>`_
@@ -12,3 +13,27 @@ List:
 * `DeepLearning.Net <http://deeplearning.net/datasets/>`_
 * `MLdata <http://mldata.org/repository/data/by_views/>`_
 * `List of datasets for machine learning research <https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research>`_
+
+Computer Vision
+---------------
+
+Image Classification
+^^^^^^^^^^^^^^^^^^^^
+
+* `MNIST <https://paperswithcode.com/dataset/mnist>`_
+* `CIFAR-10 <https://paperswithcode.com/dataset/cifar-10>`_
+* `CIFAR-100 <https://paperswithcode.com/dataset/cifar-100>`_
+
+
+Natural Language Processing
+---------------------------
+
+
+Speech Processing
+-----------------
+
+
+Multimodal Learning
+-------------------
+
+
