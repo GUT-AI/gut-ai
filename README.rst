@@ -149,8 +149,8 @@ Depending on the modality (or modalities) of the data used, GUT-AI has applicati
 - Speech Processing
 - Transportation
 
-Project files
--------------
+Initiative files
+----------------
 
 Landing page
 ^^^^^^^^^^^^
@@ -159,19 +159,19 @@ The following is the official landing page of the `GUT-AI Foundation <#dao-found
 
 - http://gut-ai.org/
 
-Project page
-^^^^^^^^^^^^
+Initiative page
+^^^^^^^^^^^^^^^
 
-Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the project is temporarily hosted at:
+Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the initiative is temporarily hosted at:
 
 - https://osf.io/rn2s4/
 
-Project DOI
-^^^^^^^^^^^
+Initiative DOI
+^^^^^^^^^^^^^^
 
-**Project identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
+**Initiative identifier:** https://doi.org/10.17605/OSF.IO/RN2S4
 
-Please note that the above is the DOI for the *whole* project, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_. See also `how to cite this <#how-to-cite-this>`_.
+Please note that the above is the DOI for the *whole* initiative, *not* for this GitHub repository. For the identifiers of each specific component, check `identifiers <components/identifiers/README.rst>`_. See also `how to cite this <#how-to-cite-this>`_.
 
 Current problems and challenges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
