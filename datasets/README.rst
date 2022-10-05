@@ -113,7 +113,7 @@ Image Captioning
 Representaiton Learning (Feature Extraction)
 --------------------------------------------
 
-The following are larger datasets in order to train `Representation Learning Models (RLMs) <../model_zoo/README.rst#representation-learning-models-rlms>`_.
+The following are larger datasets in order to train `Representation Learning Models (RLMs) <../model_zoo/README.rst#representation-learning-models-rlms>`_ by extracting dense **representations / features / embeddings**.
 
 Image
 ^^^^^
