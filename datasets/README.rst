@@ -23,6 +23,8 @@ Lists of datasets
 * `DeepLearning.Net <http://deeplearning.net/datasets/>`_
 * `MLdata <http://mldata.org/repository/data/by_views/>`_
 * `List of datasets for machine learning research <https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research>`_
+* `Pytorch datasets <https://pytorch.org/vision/stable/datasets.html>`_
+* `TensorFlow datasets <https://www.tensorflow.org/datasets/>`_
 
 Computer Vision
 ---------------
@@ -34,6 +36,21 @@ Image Classification
 * `CIFAR-10 <https://paperswithcode.com/dataset/cifar-10>`_
 * `CIFAR-100 <https://paperswithcode.com/dataset/cifar-100>`_
 * `ImageNet <https://paperswithcode.com/dataset/imagenet>`_
+
+Object Detection (Bounding Box)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Instance Segmentation
+^^^^^^^^^^^^^^^^^^^^^
+
+
+Object Recognition
+^^^^^^^^^^^^^^^^^^
+
+
+Semantic Segmentation
+^^^^^^^^^^^^^^^^^^^^^
 
 
 Natural Language Processing
