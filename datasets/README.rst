@@ -101,6 +101,17 @@ Question Answering (Generative)
 Speech Processing
 -----------------
 
+Automatic Speech Recognition
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Text-To-Speech (Speech Synthesis)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Speech Emotion Recognition
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 Multimodal Learning
 -------------------
@@ -109,6 +120,9 @@ Image Captioning
 ^^^^^^^^^^^^^^^^
 
 * `COCO Captions <https://paperswithcode.com/dataset/coco-captions>`_
+
+Visual Question Answering
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Representaiton Learning (Feature Extraction)
 --------------------------------------------
