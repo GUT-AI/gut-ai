@@ -72,7 +72,7 @@ Text Classification
 
 * `DBpedia <https://paperswithcode.com/dataset/dbpedia>`_
 
-**Retrieval-based Question Answering**
+**Question Answering (Retrieval-based)**
 
 * `SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad>`_
 * `Quora Question Pairs <https://paperswithcode.com/dataset/quora-question-pairs>`_
