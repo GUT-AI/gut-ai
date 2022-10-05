@@ -37,7 +37,8 @@ Image Classification
 * `CIFAR-100 <https://paperswithcode.com/dataset/cifar-100>`_
 * `ImageNet <https://paperswithcode.com/dataset/imagenet>`_
 * `Tiny ImageNet <https://paperswithcode.com/dataset/tiny-imagenet>`_
-* `iNaturalist <https://paperswithcode.com/dataset/inaturalist>`_
+* `iNaturalist 2017, 2018, 2019 and 2021 <https://paperswithcode.com/dataset/inaturalist>`_
+* `Stanford Cars <https://paperswithcode.com/sota/image-classification-on-stanford-cars>`_
 
 Object Detection (Bounding Box)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
