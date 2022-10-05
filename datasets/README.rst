@@ -33,7 +33,7 @@ Text Classification
 ^^^^^^^^^^^^^^^^^^^
 
 * `AG News <https://paperswithcode.com/dataset/ag-news>`_
-* `SST <https://paperswithcode.com/dataset/sst>`_
+* `SST-2 and SST-5 <https://paperswithcode.com/dataset/sst>`_
 
 
 Speech Processing
