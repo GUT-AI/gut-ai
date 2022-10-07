@@ -89,6 +89,10 @@ The Problem
   <p align="left"><a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/ML_Papers.jpg" alt="Logo" width="350"/></a>
   </p>
 
+\- Can AI understand humour? No. |br|
+\- Should AI understand hmour? Yes. |br|
+\- How do we get there?
+
 DAO Foundation
 --------------
 
