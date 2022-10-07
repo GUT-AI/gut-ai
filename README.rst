@@ -39,11 +39,11 @@ GUT-AI [Work In Progress]
 +----------------------------------------+--------------------------------------------------+--------------------------------------------+
 | **For Developers**                     | **For Reserchers**                               | **For Investors**                          |
 +========================================+==================================================+============================================+
-| `DAO Foundation <#dao-foundation>`_    | The Problem <>`_                                 | Pitch <>`_                                 |
+| `DAO Foundation <#dao-foundation>`_    | `The Problem <#the-problem>`_                    | `Pitch <>`_                                |
 +----------------------------------------+--------------------------------------------------+--------------------------------------------+
-| `Components <components/README.rst>`_  | Research Proposal <>`_                           | Whitepaper <>`_                            |
+| `Components <components/README.rst>`_  | `Research Proposal <#research-proposal>`_        | `Whitepaper <>`_                           |
 +----------------------------------------+--------------------------------------------------+--------------------------------------------+
-| `Simulators <simulators/README.rst>`_  | Datasets <>`_                                    | Roadmap <>`_                               |
+| `Simulators <simulators/README.rst>`_  | `Datasets <datasets/README.rst>`_                | `Roadmap <>`_                              |
 +----------------------------------------+--------------------------------------------------+--------------------------------------------+
 
 |
