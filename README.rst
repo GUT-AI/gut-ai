@@ -79,6 +79,10 @@ Selected publications
 
 - Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
 
+The Problem
+--------------
+
+**A picture is worth a thousand words**. You can see the picture below and draw your own conclusions.
 
 DAO Foundation
 --------------
