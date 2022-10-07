@@ -115,9 +115,12 @@ Text-To-Speech (Speech Synthesis)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Speech Emotion Recognition
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Speech Emotion Recognition (SER)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+Audio Source Separation (ASS)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Multimodal Learning
 -------------------
@@ -128,6 +131,9 @@ Image Captioning
 * `COCO Captions <https://paperswithcode.com/dataset/coco-captions>`_
 
 Visual Question Answering
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Audio-Visual Localization
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Representaiton Learning (Feature Extraction)
