@@ -212,7 +212,7 @@ See `Components <components/README.rst>`_ for a list of subprojects.
 Roadmap
 ^^^^^^
 
-See `Roadmap <Roadmap/README.rst>`_.
+See `Roadmap <roadmap/README.rst>`_.
 
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
