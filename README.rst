@@ -84,6 +84,11 @@ The Problem
 
 **A picture is worth a thousand words**. You can see the picture below and draw your own conclusions.
 
+.. raw:: html
+
+  <p align="left"><a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/ML_Papers.jpg" alt="Logo" width="350"/></a>
+  </p>
+
 DAO Foundation
 --------------
 
