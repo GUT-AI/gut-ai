@@ -108,8 +108,8 @@ Question Answering (Generative)
 Speech Processing
 -----------------
 
-Automatic Speech Recognition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Automatic Speech Recognition (ASR)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Text-To-Speech (Speech Synthesis)
