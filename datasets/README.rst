@@ -25,6 +25,7 @@ Lists of datasets
 * `List of datasets for machine learning research <https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research>`_
 * `Pytorch datasets <https://pytorch.org/vision/stable/datasets.html>`_
 * `TensorFlow datasets <https://www.tensorflow.org/datasets/>`_
+* `Network (Graph) Datasets <http://networksciencebook.com/translations/en/resources/data.html>`_
 
 Computer Vision
 ---------------
@@ -121,6 +122,12 @@ Speech Emotion Recognition (SER)
 
 Audio Source Separation (ASS)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sequential Data
+---------------
+
+Time Series
+^^^^^^^^^^^
 
 Multimodal Learning
 -------------------
