@@ -511,8 +511,8 @@ Component C4.17: Grounded NLP
 Layer 5 components
 ------------------
 
-Component C5.1: Automated Protoyping
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Component C5.1: Automated Prototyping
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Automated Protoyping during Product Discovery.
 
