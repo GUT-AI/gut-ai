@@ -44,18 +44,30 @@ Image Classification
 Object Detection (Bounding Box)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* `COCO 2017 <https://paperswithcode.com/dataset/coco>`_
+
+Single-Object Discovery
+^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Object Discovery <https://paperswithcode.com/dataset/object-discovery>`_
+* `COCO_20k <https://paperswithcode.com/dataset/coco>`_
+
+Object Recognition  (Bounding Boxes)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `PASCAL VOC `<https://paperswithcode.com/dataset/pascal-voc>`_
 
 Instance Segmentation
 ^^^^^^^^^^^^^^^^^^^^^
 
-
-Object Recognition
-^^^^^^^^^^^^^^^^^^
-
+* `COCO 2017 <https://paperswithcode.com/dataset/coco>`_
 
 Semantic Segmentation
 ^^^^^^^^^^^^^^^^^^^^^
 
+* `PASCAL VOC `<https://paperswithcode.com/dataset/pascal-voc>`_
+* `ADE20K <https://paperswithcode.com/dataset/cityscapes>`_
+* `Cityscapes <https://paperswithcode.com/dataset/cityscapes>`_
 
 Natural Language Processing
 ---------------------------
