@@ -55,7 +55,7 @@ Single-Object Discovery
 Object Recognition  (Bounding Boxes)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `PASCAL VOC `<https://paperswithcode.com/dataset/pascal-voc>`_
+* `PASCAL VOC <https://paperswithcode.com/dataset/pascal-voc>`_
 
 Instance Segmentation
 ^^^^^^^^^^^^^^^^^^^^^
@@ -65,7 +65,7 @@ Instance Segmentation
 Semantic Segmentation
 ^^^^^^^^^^^^^^^^^^^^^
 
-* `PASCAL VOC `<https://paperswithcode.com/dataset/pascal-voc>`_
+* `PASCAL VOC <https://paperswithcode.com/dataset/pascal-voc>`_
 * `ADE20K <https://paperswithcode.com/dataset/cityscapes>`_
 * `Cityscapes <https://paperswithcode.com/dataset/cityscapes>`_
 
