@@ -16,7 +16,7 @@ Model Zoo
 Representation Learning Models (RLMs)
 -------------------------------------
 
-**Note:** RLMs are typically **task-agnostic** models which are used at the **state of Preprocessing** (which is sometimes incorrectly called "pretraining" phase). They are usually trained using *Self-Supervised Learning*, but Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external* dataset (i.e. *source* dataset) whihch is *larger* than the one for the Downstream Task (i.e. *target* dataset).
+**Note:** RLMs are typically **task-agnostic** models which are used at the **state of Preprocessing** (which is often *incorrectly* called "pretraining" phase). They are usually trained using *Self-Supervised Learning*, but Supervised, (narrow-sense) Unsupervised Learning and Reinforcement Learning can also be used. The end goal is to extract dense **representations / features / embeddings**. This is typically trained at an *external* dataset (i.e. *source* dataset) whihch is *larger* than the one for the Downstream Task (i.e. *target* dataset).
 
 .. raw:: html
 
