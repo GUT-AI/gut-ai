@@ -249,6 +249,7 @@ Component C3.6: Distributed Systems for ML
 
 * Support for *generic* Distributed Systems (e.g. Horovod, DeepSpeed)
 * Devise new *ML-specific* architectures (similar to Petuum V2)
+* Large-Scale ML
 
 Component C3.7: Memory Bottleneck
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
