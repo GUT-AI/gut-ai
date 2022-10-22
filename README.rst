@@ -100,7 +100,7 @@ The Problem
   </p>
 
 \- Can AI understand humour? No. |br|
-\- Should AI understand hmour? Yes. |br|
+\- Should AI understand humour? Yes. |br|
 \- How do we get there? |br|
 
 (*Image credits:* Anonymous online user)
