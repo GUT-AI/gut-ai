@@ -5,7 +5,7 @@
 Model Zoo
 =========
 
-**Summary:** This is a non-exhaustive list of *internal* and *external* model zoos.
+**Summary:** This is a non-exhaustive list of *internal* and *external* pretrained models. Internal pretrained models are stored on `Zeonodo <https://zenodo.org/communities/gut-ai/>`_.
 
 |
 
