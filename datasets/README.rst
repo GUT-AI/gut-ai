@@ -5,7 +5,7 @@
 Datasets
 ========
 
-**Summary:** This is a non-exhaustive list of repositories containing datasets, mainly for Supervised and Unsupervised Learning.
+**Summary:** This is a non-exhaustive list of repositories containing datasets, mainly for Supervised and Unsupervised Learning. Internal datasets are stored on `Zeonodo <https://zenodo.org/communities/gut-ai/>`_.
 
 |
 
