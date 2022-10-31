@@ -141,6 +141,7 @@ Component C2.3: CI/CD
 * User of containers (e.g. Docker)
 * User of orchestration (e.g. Kubernetes)
 * Use of microservices
+* Support for Tensor Computation Libraries (e.g. TensorFlow, PyTorch, JAX)
 * Support for Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
 * Support for Synchronous Communication (e.g. REST, GraphQL)
 * Support for Databases (SQL and NoSQL), Data Warehouses and Data Lakes
