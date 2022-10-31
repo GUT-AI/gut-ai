@@ -242,7 +242,7 @@ See `Model Zoo <model_zoo/README.rst>`_.
 Software tools
 ^^^^^^^^^^^^^^
 
-See `Software tools <https://github.com/GUT-AI/gut-ai/blob/master/software_tools/README.rst>`_.
+See `Software tools <software_tools/README.rst>`_.
 
 Getting involved
 ----------------
