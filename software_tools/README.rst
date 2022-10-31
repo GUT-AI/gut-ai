@@ -12,7 +12,9 @@ Software tools
 Tensor Computations Libraries
 -----------------------------
 
-- 
+- `TensorFlow <https://github.com/tensorflow/tensorflow>`_
+- `PyTorch <https://github.com/pytorch/pytorch>`_
+- `JAX <https://github.com/google/jax>`_
 
 Representation Learning Models (RLMs)
 -------------------------------------
