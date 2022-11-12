@@ -172,4 +172,9 @@ Text
 Audio
 ^^^^^
 
+Multimodal
+^^^^^^^^^^
+
+Few-Shot Learning (FSL)
+-----------------------
 
