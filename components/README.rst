@@ -240,6 +240,8 @@ Component C3.5: Continual Learning
 * Meta Learning
 * Multitask Learning
 * Transfer Learning
+* Few-Shot Learning
+* Zero-Shot Learning
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
