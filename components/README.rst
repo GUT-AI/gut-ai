@@ -301,6 +301,7 @@ Component C4.1: Automated Scientific Discovery
 * Automated extraction of compressed knowledge
 * Automated extraction of 'learnable' rules (i.e. 'oscillatory' determinism) in accordance with GUT and TLKA theory
 * Causal Learning (to address the *Moravec's Paradox*)
+* Representation disentanglement
 * Explainable AI (XAI)
     * Counterfactuals
     * Factuals
