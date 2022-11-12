@@ -178,3 +178,10 @@ Multimodal
 Few-Shot Learning (FSL)
 -----------------------
 
+Image
+^^^^^
+
+* `Omniglot - N-shot, M-way <https://paperswithcode.com/dataset/omniglot-1>`_
+* `Mini-ImageNet - N-shot, M-way <https://paperswithcode.com/dataset/mini-imagenet>`_
+* `Tiered ImageNet - N-shot, M-way <https://paperswithcode.com/dataset/tieredimagenet>`_
+* `CIFAR-FS - N-shot, 5-way <https://paperswithcode.com/dataset/cifar-fs>`_
