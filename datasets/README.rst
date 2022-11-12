@@ -97,7 +97,7 @@ Text Classification
 * `SQuAD 1.1 and SQuAD 2.0 <https://paperswithcode.com/dataset/squad>`_
 * `Quora Question Pairs <https://paperswithcode.com/dataset/quora-question-pairs>`_
 
-**Natural Language Inference**
+**Natural Language Inference (NLI)**
  
 * `SNLI <https://paperswithcode.com/dataset/snli>`_
 
