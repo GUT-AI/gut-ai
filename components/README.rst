@@ -263,7 +263,8 @@ Component C3.7: Memory Bottleneck
 
 * Model Compression and Weight Sharing
 * Nodes Pruning and Weight Pruning
-* Quantized Training
+* Product Quantization (or Vevtor Quantization)
+* Precision Quantization (or Scalar Quantization)
 * Huffman Coding
 * Representation disentanglement on the sparse weight matrix
 * Structured Sparsity Learning (StSL)
@@ -280,6 +281,7 @@ Component C3.7: Memory Bottleneck
 * Automated extraction of compressed knowledge
 * Automated Indexing, Caching and Searching (of compressed knowledge)
 * Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
+* Competitive Learning
 
 Layer 4 components
 ------------------
