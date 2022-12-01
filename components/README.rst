@@ -514,6 +514,7 @@ Component C4.17: Grounded NLP
 * `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 * `Multi-Robot Target Detection and Tracking <#component-c4-13-multi-robot-target-detection-and-tracking>`_
 * Multimodal Image and Video Description
+* Learning to follow instructions
 
 Layer 5 components
 ------------------
