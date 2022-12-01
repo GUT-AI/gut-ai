@@ -65,6 +65,15 @@ NLP
 - Learning: Self-Supervised
 - Architecture: Transformer
 
+**GPT-J (GPT-3 open-source alternative)**
+
+- Paper: `Language Models are Few-Shot Learners <https://arxiv.org/pdf/2005.14165.pdf>`_
+- Code: https://github.com/kingoflolz/mesh-transformer-jax
+- Pretrained Model: https://github.com/kingoflolz/mesh-transformer-jax
+- Released: 2020
+- Learning: Self-Supervised
+- Architecture: Transformer
+
 Speech Processing
 ^^^^^^^^^^^^^^^^^
 
