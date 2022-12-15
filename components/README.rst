@@ -608,3 +608,15 @@ Component C5.9: Traffic Light Management
 **Aims:** 
 
 * Controller: `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
+
+Component C5.10: Medical Imaging
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Medical Imaging on multiple modalities.
+
+**Aims:** 
+
+* MR data
+* CT data
+* Ultrasound data
+* Data fusion
