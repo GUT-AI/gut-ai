@@ -333,6 +333,8 @@ Component C4.2: MTSU
 * Multi-Object Motion Detection and Tracking
 * Vision-Based Motion Analysis
 * Vision as Inverse Graphics
+* Image Synthesis
+* Video Synthesis
 
 Component C4.3: Grounded CV
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -514,7 +516,8 @@ Component C4.17: Grounded NLP
 * `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 * `Multi-Robot Target Detection and Tracking <#component-c4-13-multi-robot-target-detection-and-tracking>`_
 * Multimodal Image and Video Description
-* Text-to-Image and Text-to-Video generation
+* Text-to-Image and Text-to-Video Generation
+* Text-to-Audio Generation (not just speech)
 * Learning to follow instructions
 
 Layer 5 components
