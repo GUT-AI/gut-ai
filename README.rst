@@ -136,7 +136,8 @@ GUT-AI has the potential to affect and transform the vast majorities of industri
 - Hospitality
 - Insurance
 - Logistics
-- Manufacturing and Construction  
+- Manufacturing and Construction
+- Marketing and Advertising
 - Media and Entertainment
 - Medical Imaging
 - Real Estate
