@@ -58,7 +58,7 @@ About
 Pitch
 ^^^^^
 
-The GUT-AI initiative is an initiative which aims to eliminate the *multiple, single-points-of-failure* when using AI for real-life applications in the *real world* in order to achive the **ultimate purpose** of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from Brain Consciousness and Abiogenesis to Quantum Gravity and Genesis Cosmology). 
+The GUT-AI initiative is an initiative which aims to eliminate the *multiple, single-points-of-failure* when using AI for real-life applications in the *real world* in order to achieve the **ultimate purpose** of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from Brain Consciousness and Abiogenesis to Quantum Gravity and Genesis Cosmology).
 
 Vision
 ^^^^
