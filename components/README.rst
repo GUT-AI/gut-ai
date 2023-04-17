@@ -101,7 +101,7 @@ Component C2.1: GUT-AI Marketplace
 * Centralized and decentralized SaaS modules developed by third parties
 * Centralized and decentralized PaaS modules developed by third parties
 * Centralized and decentralized IaaS modules developed by third parties
-* Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaci panels)
+* Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaic panels)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
 * Support for conventional (credit and debit card) payments
 * Support for crypto payments
@@ -141,6 +141,7 @@ Component C2.3: CI/CD
 * User of containers (e.g. Docker)
 * User of orchestration (e.g. Kubernetes)
 * Use of microservices
+* Support for embedded devices and IoT devices
 * Support for Tensor Computation Libraries (e.g. TensorFlow, PyTorch, MXNet, JAX)
 * Support for Asynchronous Communication (e.g. ActiveMQ, RabbitMQ, Apache Kafka)
 * Support for Synchronous Communication (e.g. REST, GraphQL)
