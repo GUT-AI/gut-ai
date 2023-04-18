@@ -164,6 +164,7 @@ Component C2.4: DX
 **Aims:**
 
 * Separation of concerns
+* Publication of optional standards and good practise guidelines
 * User-friendly User Interface (UI) and Dashboards
 * User-friendly configurations (e.g. using ``yaml`` and ``json``)
 * Anything else reduing the *cultural debt* or improving the DX
