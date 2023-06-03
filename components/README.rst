@@ -55,7 +55,7 @@ Component C1.1: Distributed Smart Grids
 * No hierarchical, centralized (electricity or communication) authority for the residential and commercial consumers (i.e. non-industrial)
 * Use of **grid-connected microgrid** for both electricity and communication 
 * Use of specific hardware and devices
-    * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
+    * Distributed Energy Sources (e.g. photovoltaic panels)
     * Distributed Electricity and Energy Storage (e.g. batteries)
     * Smart Grid *connectivity* equipment (e.g. physical servers, dish antenna)
 * Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
