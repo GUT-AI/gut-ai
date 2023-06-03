@@ -52,7 +52,7 @@ Component C1.1: Distributed Smart Grids
 
 **Aims:**
 
-* No hierarchical, centralized (electricity or communication) authority for the non-commercial, household consumers
+* No hierarchical, centralized (electricity or communication) authority for the residential and commercial consumers (i.e. non-industrial)
 * Use of **grid-connected microgrid** for both electricity and communication 
 * Use of specific hardware and devices
     * Distributed Renewable Energy Sources (e.g. photovoltaic panels)
