@@ -58,8 +58,7 @@ Component C1.1: Distributed Smart Grids
     * Distributed Energy Sources (e.g. photovoltaic panels)
     * Distributed Electricity and Energy Storage (e.g. batteries)
     * Smart Grid *connectivity* equipment (e.g. physical servers, dish antenna)
-* Automated Demand-Side Management (DSM) to flatten load curve and eliminate peak load
-* Use of stored energy and **valley filling DSM** for the demands of the GUT-AI DCP through in-house physical servers
+* Use of stored energy for the demands of the GUT-AI DCP through in-house physical servers in order to reduce waste of the generated energy
 * Use of **Communication** for proactive and online diagnosis of transient faults and prognosis of potential blackouts
 * Use of **Real-Time Pricing** through a Decentralized Exchange (DEX) for power markets
 * Distributed Computer Network for **Communication, DSM** and **Real-Time Pricing**
