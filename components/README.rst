@@ -48,7 +48,7 @@ Layer 1 components
 Component C1.1: Distributed Smart Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI services (`GUT-AI DCP <#component-c1-2-gut-ai-dcp>`_) powered by **energy storage**. Also use AI to improve Distributed Smart Grids.
+**Description:** Bring Distributed Smart Grids into production in real life through Blockchain and AI solutions (`GUT-AI DCP <#component-c1-2-gut-ai-dcp>`_) powered by **energy storage**. Also use AI to improve Distributed Smart Grids.
 
 **Aims:**
 
