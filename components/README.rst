@@ -102,6 +102,7 @@ Component C2.1: GUT-AI Marketplace
 * Centralized and decentralized IaaS modules developed by third parties
 * Marketplace for marketplaces by third parties for physical products (e.g. computers, physical servers, robots, photovoltaic panels)
 * Contractors and Freelancers (e.g. Data Scientists, Data Engineers, Machine Learning Engineers, Blockchain Developers)
+* Decentralized Exchange (DEX)
 * Support for conventional (credit and debit card) payments
 * Support for crypto payments
 
