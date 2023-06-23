@@ -18,6 +18,7 @@ Indoor simulators
 
 - `AI2-THOR <https://ai2thor.allenai.org/>`_
 - `iGibson <https://github.com/StanfordVL/iGibson>`_
+- `Sonicverse <https://github.com/StanfordVL/Sonicverse>`_
 - `Habitat-Sim <https://github.com/facebookresearch/habitat-sim>`_
 
 Outdoor simulators
