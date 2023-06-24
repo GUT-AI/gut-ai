@@ -20,6 +20,7 @@ Indoor simulators
 - `iGibson <https://github.com/StanfordVL/iGibson>`_
 - `Sonicverse <https://github.com/StanfordVL/Sonicverse>`_
 - `Habitat-Sim <https://github.com/facebookresearch/habitat-sim>`_
+- `AlexaArena <https://github.com/amazon-science/alexa-arena>`_
 
 Outdoor simulators
 ------------------
