@@ -41,6 +41,19 @@ The following **Five-Layer Architecture** is used:
 **PaaS** = Platform as a Service |br|
 **AIaaS** = AI as a Service |br|
 **SaaS** = Software as a Service |br|
+**FD** = Fully Decentralized |br|
+**SD** = Semi-Decentralized |br|
+
+.. raw:: html
+
+  <p align="center"><a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Protocol_layers.png" alt="Protocol layers" width="550"/></a>
+  </p>
+
+.. raw:: html
+
+  <p align="center"><a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Blockchain_layers.png" alt="Blockchain layers" width="550"/></a>
+  </p>
+
 
 Layer 1 components
 ------------------
