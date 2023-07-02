@@ -12,6 +12,7 @@ Click on an industry below to explore Use Cases for that specific industry.
 - Aerospace
 - Agriculture and Aeroponics
 - Aquaponics and Hydroponics
+- Augmented and Mixed Reality
 - Automotive and Self-Driving Cars
 - Biotech, Pharma and Medical Devices
 - Cloud Infrastructure and Networking
@@ -34,3 +35,4 @@ Click on an industry below to explore Use Cases for that specific industry.
 - Sports
 - Security and Surveillance
 - Telecoms
+- Water Supply and Sanitation
