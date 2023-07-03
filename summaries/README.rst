@@ -31,7 +31,7 @@ Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 - It discusses the potential of Education Technology (EdTech) companies in developing or low-income countries to build their AI infrastructure on top of the proposed Ecosystem.
 - The paper presents the cycle of innovation, including the generation of scientific discoveries, the commercialization of research findings, and the growth and success of commercialized research findings.
 - It discusses the need for AI solutions for enterprise users, with examples of top enterprise AI companies.
-- The paper presents a comparison and evolution of the Web from Web1 to Web3.
+- The paper presents a comparison and evolution of the Web from Web1 all the way to Web3, and how to transition from Web2 to Web3 using AI solutions.
 - It discusses the concept of 'maximizing for creativity' in the design of the whole Ecosystem.
 - The paper presents a block diagram of a decentralized storage system and a pictorial representation of the proposed Decentralized Cloud Provider.
 - It presents examples of AR and MR devices in brain and heart surgeries.
