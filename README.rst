@@ -86,7 +86,7 @@ Research Proposal
 Whitepaper
 ^^^^^^^^^^
 
-__Coming soon!__
+- `An Overview of the GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations <https://doi.org/10.31219/osf.io/bxw4h>`_
 
 
 Selected publications
