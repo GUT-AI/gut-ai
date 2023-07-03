@@ -88,7 +88,7 @@ Whitepaper
 
 - `An Overview of the GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations <https://doi.org/10.31219/osf.io/bxw4h>`_
 
-Read a brief `Summary <summaries/whitepaper_summary.rst>`_ of the Whitepaper.
+Read a brief `Summary <summaries/whitepaper_summary.rst#whitepaper>`_ of the Whitepaper.
 
 
 Selected publications
