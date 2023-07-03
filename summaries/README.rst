@@ -15,7 +15,7 @@ Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 
 **Q1: Write a summary of this PDF in 120 words.**
 
-**A1:** The GUT-AI whitepaper discusses the impact of centralization on innovation, specifically in the generation of scientific discoveries, commercialization of research findings, and the growth of commercialized research findings. It emphasizes the need for a system that fosters healthy competition and innovation. The paper also explores the evolution of the Web from Web1 to Web3, focusing on the 'what' rather than the 'how' to allow for maximum creativity. It highlights the importance of user-friendliness and security in this context. The concept of a decentralized community (DeCom) is introduced, where households are interconnected without the need for a centralized authority. The authors clarify that the views expressed are their own and not necessarily those of the GUT-AI Foundation, and that the whitepaper is intended to solicit feedback from the public.  
+**A1:** The GUT-AI Whitepaper discusses the impact of centralization on innovation, specifically in the generation of scientific discoveries, commercialization of research findings, and the growth of commercialized research findings. It emphasizes the need for a system that fosters healthy competition and innovation. The paper also explores the evolution of the Web from Web1 to Web3, focusing on the 'what' rather than the 'how' to allow for maximum creativity. It highlights the importance of user-friendliness and security in this context. The concept of a decentralized community (DeCom) is introduced, where households are interconnected without the need for a centralized authority. The authors clarify that the views expressed are their own and not necessarily those of the GUT-AI Foundation, and that the Whitepaper is intended to solicit feedback from the public.  
 |br| |br|
 
 **Q2: Summarize this PDF in 15 bullet points.**
@@ -36,7 +36,7 @@ Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 - The paper presents a block diagram of a decentralized storage system and a pictorial representation of the proposed Decentralized Cloud Provider.
 - It presents examples of AR and MR devices in brain and heart surgeries.
 - The paper discusses the concept of a hierarchical modular network in a decentralized community.
-- It includes a disclaimer that the whitepaper is not an offer to sell or a solicitation of an offer to buy any tokens.
+- It includes a disclaimer that the Whitepaper is not an offer to sell or a solicitation of an offer to buy any tokens.
 |br|
 
 **Q3: Explain in 180 words why the proposed Ecosystem is important. Include specific examples.**
