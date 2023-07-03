@@ -13,14 +13,14 @@ Whitepaper
 Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 |br| |br|
 
-**Write a summary in 120 words of this PDF.**
+**Q1: Write a summary in 120 words of this PDF.**
 
-The GUT-AI whitepaper discusses the impact of centralization on innovation, specifically in the generation of scientific discoveries, commercialization of research findings, and the growth of commercialized research findings. It emphasizes the need for a system that fosters healthy competition and innovation. The paper also explores the evolution of the Web from Web1 to Web3, focusing on the 'what' rather than the 'how' to allow for maximum creativity. It highlights the importance of user-friendliness and security in this context. The concept of a decentralized community (DeCom) is introduced, where households are interconnected without the need for a centralized authority. The authors clarify that the views expressed are their own and not necessarily those of the GUT-AI Foundation, and that the whitepaper is intended to solicit feedback from the public.  
+**A1:** The GUT-AI whitepaper discusses the impact of centralization on innovation, specifically in the generation of scientific discoveries, commercialization of research findings, and the growth of commercialized research findings. It emphasizes the need for a system that fosters healthy competition and innovation. The paper also explores the evolution of the Web from Web1 to Web3, focusing on the 'what' rather than the 'how' to allow for maximum creativity. It highlights the importance of user-friendliness and security in this context. The concept of a decentralized community (DeCom) is introduced, where households are interconnected without the need for a centralized authority. The authors clarify that the views expressed are their own and not necessarily those of the GUT-AI Foundation, and that the whitepaper is intended to solicit feedback from the public.  
 |br| |br|
 
-**Summarize this PDF in 15 bullet points.**
+**Q2: Summarize this PDF in 15 bullet points.**
 
-Here are 15 key points from the GUT-AI Whitepaper:
+**A2:** Here are 15 key points from the GUT-AI Whitepaper:
 
 - The paper discusses the challenges of centralization in scientific discovery and technological breakthroughs.
 - It emphasizes the need for a system that fosters healthy competition and innovation.
@@ -39,9 +39,9 @@ Here are 15 key points from the GUT-AI Whitepaper:
 - It includes a disclaimer that the whitepaper is not an offer to sell or a solicitation of an offer to buy any tokens.
 |br|
 
-**Explain in 180 words why the proposed Ecosystem is important. Include specific examples.**
+**Q3: Explain in 180 words why the proposed Ecosystem is important. Include specific examples.**
 
-The proposed Ecosystem in the GUT-AI Whitepaper is important for several reasons. It addresses the challenges of centralization in scientific discovery and technological breakthroughs, advocating for a system that encourages healthy competition and innovation. This is crucial in a world where centralization often hinders progress and stifles creativity.
+**A3:** The proposed Ecosystem in the GUT-AI Whitepaper is important for several reasons. It addresses the challenges of centralization in scientific discovery and technological breakthroughs, advocating for a system that encourages healthy competition and innovation. This is crucial in a world where centralization often hinders progress and stifles creativity.
 
 The Ecosystem also emphasizes the importance of user-friendliness and security, two critical aspects in the digital age. It introduces the concept of a decentralized community (DeCom), where households are interconnected without the need for a centralized authority. This promotes autonomy and reduces reliance on single points of control.
 
