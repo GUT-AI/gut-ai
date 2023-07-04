@@ -45,7 +45,7 @@ Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 
 The Ecosystem also emphasizes the importance of user-friendliness and security, two critical aspects in the digital age. It introduces the concept of a decentralized community (DeCom), where households are interconnected without the need for a centralized authority. This promotes autonomy and reduces reliance on single points of control.
 
-The Ecosystem also proposes solutions for the automation of the Product Discovery process. This is significant as it speeds up the process, improves accuracy, reduces human error, and enhances scalability. For instance, an Education Technology (EdTech) company could build its AI infrastructure on top of the proposed Ecosystem, promoting social good and offering its services through the proposed Marketplace.
+The Ecosystem also proposes solutions for the automation of the Product Discovery process. This is significant as it speeds up the process, improves efficiency, reduces human error, and enhances scalability. For instance, an Education Technology (EdTech) company could build its AI infrastructure on top of the proposed Ecosystem, promoting social good and offering its services through the proposed Marketplace.
 
 Furthermore, the Ecosystem includes a proposed microgrid within a decentralized community, emphasizing the importance of distributed energy generation and storage. This is a key step towards resilience, self-sustainability and self-sufficiency.
 |br| |br|
