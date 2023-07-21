@@ -301,25 +301,50 @@ Component C3.7: Memory Bottleneck
 Component C3.8: Multi-tool CMS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Multi-toll Content Management System (CMS) for anything *external* to the company.
+**Description:** Multi-tool Content Management System (CMS) for anything *external* to the company.
 
 **Aims:**
 
 * Headless CMS with independent web front-ends
-* E-shop functionality
-* Payment functionality
+* E-Commerce functionality
+* Payments functionality
 * Website builder using drag-and-drop elements
+* Plugins
 
-Component C3.8: Multi-tool CRM
+Component C3.9: Multi-tool CRM
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Multi-toll Customer Management System (CMS) for anything *internal* to the company.
+**Description:** Multi-tool Customer Relationaship Management (CRM) software for anything *internal* to the company.
 
 **Aims:**
 
 * Headless CRM with independent web front-ends
-* Client database
+* Client database & Contact Management
+* Payments functionality
+* Quotationg, Invoicing, Billing & Accounting
+* Marketing Automation & Lead Management
+* Workflow Automation
+* Customer Support & Helpdesk
 * Enterprise Management System (ERP)
+* Inventory
+* Contract Management
+* Plugins
+
+Component C3.10: Multi-tool Task Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Multi-tool Task Management software for building software products.
+
+**Aims:**
+
+* Task Creation and Assignment
+* Time Tracking and Progress Monitoring
+* Bug Tracking and Issue Management
+* Integration with Version Control
+* Release Planning and Management
+* Agile boards (Scrum and Kanban)
+* Roadmaps
+* Plugins
 
 Layer 4 components
 ------------------
