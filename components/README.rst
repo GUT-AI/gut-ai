@@ -321,7 +321,7 @@ Component C3.9: Multi-tool CRM
 * Headless CRM with independent web front-ends
 * Client database & Contact Management
 * Payments functionality
-* Quotationg, Invoicing, Billing & Accounting
+* Quotation, Invoicing, Billing & Accounting
 * Marketing Automation & Lead Management
 * Workflow Automation
 * Customer Support & Helpdesk
