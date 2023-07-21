@@ -298,6 +298,29 @@ Component C3.7: Memory Bottleneck
 * Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
 * Competitive Learning
 
+Component C3.8: Multi-tool CMS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Multi-toll Content Management System (CMS) for anything *external* to the company.
+
+**Aims:**
+
+* Headless CMS with independent web front-ends
+* E-shop functionality
+* Payment functionality
+* Website builder using drag-and-drop elements
+
+Component C3.8: Multi-tool CRM
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Multi-toll Customer Management System (CMS) for anything *internal* to the company.
+
+**Aims:**
+
+* Headless CRM with independent web front-ends
+* Client database
+* Enterprise Management System (ERP)
+
 Layer 4 components
 ------------------
 
