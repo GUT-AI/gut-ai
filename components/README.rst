@@ -257,6 +257,7 @@ Component C3.5: Continual Learning
 * Transfer Learning
 * Few-Shot Learning
 * Zero-Shot Learning
+* Continual AutoML
 
 Component C3.6: Distributed Systems for ML
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
