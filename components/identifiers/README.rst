@@ -59,4 +59,6 @@ Component                                                                       
 `C5.7 <../README.rst#component-c5-7-portfolio-management>`_                        Link                                  Link
 `C5.8 <../README.rst#component-c5-8-air-traffic-management>`_                      Link                                  Link
 `C5.9 <../README.rst#component-c5-9-traffic-light-management>`_                    Link                                  Link
+`C5.10 <../README.rst#component-c5-10-medical-imaging>`_                           Link                                  Link
+`C5.11 <../README.rst#component-c5-11-autonomous-driving>`_                        Link                                  Link
 ================================================================================== ===================================== ================================
