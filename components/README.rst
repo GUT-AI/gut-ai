@@ -309,6 +309,7 @@ Component C3.8: Multi-tool CMS
 * E-Commerce functionality
 * Payments functionality
 * Website builder using drag-and-drop elements
+* Privacy-aware (GDPR-compliant)
 * Plugins
 
 Component C3.9: Multi-tool CRM
@@ -328,6 +329,7 @@ Component C3.9: Multi-tool CRM
 * Enterprise Management System (ERP)
 * Inventory
 * Contract Management
+* Privacy-aware (GDPR-compliant)
 * Plugins
 
 Component C3.10: Multi-tool Task Management
