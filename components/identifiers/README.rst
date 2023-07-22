@@ -49,6 +49,7 @@ Component                                                                       
 `C4.15 <../README.rst#component-c4-15-recommender-engines>`_                       Link                                  Link
 `C4.16 <../README.rst#component-c4-16-grounded-qa>`_                               https://doi.org/10.17605/OSF.IO/8FRXM https://github.com/GUT-AI/grounded-qa
 `C4.17 <../README.rst#component-c4-17-grounded-nlp>`_                              Link                                  Link
+`C4.18 <../README.rst#component-c4-18-agi-and-asi>`_                               Link                                  Link
 `C5.1 <../README.rst#component-c5-1-automated-protoyping>`_                        Link                                  Link
 `C5.2 <../README.rst#component-c5-2-automated-ux>`_                                Link                                  Link
 `C5.3 <../README.rst#component-c5-3-automated-marketing>`_                         Link                                  Link
