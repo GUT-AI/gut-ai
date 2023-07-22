@@ -565,7 +565,7 @@ Component C4.16: Grounded QA
 * `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 
 Component C4.17: Grounded NLP
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Grounded Natural Language Processing (Grounded NLP) by applying *Grounded Cognition* on NLP tasks on multiple mobile robots or multiple aerial robots (drones) or a combination of them using *Multimodal Learning*.
 
@@ -585,6 +585,22 @@ Component C4.17: Grounded NLP
 * Text-to-Image and Text-to-Video Generation
 * Text-to-Audio Generation (not just speech)
 * Learning to follow instructions
+
+Component C4.18: AGI and ASI
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Artificial General Intelligence (AGI) and Artificial Super-Intelligence (ASI).
+
+**Aims:** 
+
+* Grounded NLP
+* Grounded CV
+* `VSPT <#component-c4-10-vspt>`_
+* `Multi-Agent Communication <#component-c4-11-multi-agent-communication>`_
+* `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
+* `Multi-Robot Target Detection and Tracking <#component-c4-13-multi-robot-target-detection-and-tracking>`_
+* Embedded Simulations
+
 
 Layer 5 components
 ------------------
