@@ -32,6 +32,7 @@ Component                                                                       
 `C3.8 <../README.rst#component-c3-8-multi-tool-cms>`_                              Link                                  Link
 `C3.9 <../README.rst#component-c3-9-multi-tool-crm>`_                              Link                                  Link
 `C3.10 <../README.rst#component-c3-10-multi-tool-task-management>`_                Link                                  Link
+C3.11                                                                              Link                                  Link
 `C4.1 <../README.rst#component-c4-1-automated-scientific-discovery>`_              https://doi.org/10.17605/OSF.IO/SDWP6 https://github.com/GUT-AI/automated-scientific-discovery
 `C4.2 <../README.rst#component-c4-2-mtsu>`_                                        Link                                  Link
 `C4.3 <../README.rst#component-c4-3-grounded-cv>`_                                 Link                                  Link
