@@ -706,7 +706,23 @@ Component C5.10: Medical Imaging
 * Ultrasound data
 * Data fusion
 
-Component C5.11: Autonomous driving
+Component C5.11: Bioinformatics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description:** Perform Autonomous driving for self-driving vehicles.
+
+**Aims:** 
+
+* Genomics
+* Proteomics
+* Metabolomics
+* Metagenomics
+* Phenomics
+* Transcriptomics
+* Multiomics
+
+
+Component C5.12: Autonomous driving
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Description:** Perform Autonomous driving for self-driving vehicles.
