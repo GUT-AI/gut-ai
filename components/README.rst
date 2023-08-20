@@ -697,7 +697,7 @@ Component C5.9: Traffic Light Management
 Component C5.10: Medical Imaging
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Medical Imaging on multiple modalities.
+**Description:** Perform Medical Imaging on multiple biomedical modalities.
 
 **Aims:** 
 
@@ -709,7 +709,7 @@ Component C5.10: Medical Imaging
 Component C5.11: Bioinformatics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Description:** Perform Autonomous driving for self-driving vehicles.
+**Description:** Perform Bioinformatics on biological, biochemical and biophysical data.
 
 **Aims:** 
 
