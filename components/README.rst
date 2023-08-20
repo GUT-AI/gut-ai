@@ -349,6 +349,16 @@ Component C3.10: Multi-tool Task Management
 * Roadmaps
 * Plugins
 
+Component C3.11: NOS
+^^^^^^^^^^^^^^^^^^^^
+
+**Description:**  Neural Operating System (NOS) for deploying Deep Learning into production.
+
+**Aims:**
+
+* Integrations with CMS, CRM and Task Management software
+* Interoperability with main Linux distributions (e.g., Ubuntu, Debian, CentOS)
+
 Layer 4 components
 ------------------
 
