@@ -257,7 +257,7 @@ See `Software tools <software_tools/README.rst>`_.
 
 Getting involved
 ----------------
-- `Community Discord <https://github.com/GUT-AI/gut-ai/>`_ for collaboration and discussion.
+- `Community Discord <https://discord.gg/h23tg2PKN2>`_ for collaboration and discussion.
 
 How to cite this
 ----------------
