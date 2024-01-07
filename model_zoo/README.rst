@@ -136,7 +136,7 @@ Downstream Task Models (DTMs)
 
 .. raw:: html
 
-  <p align="center"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/DownstreamTask.png" alt="Logo" width="300"/>
+  <p align="center"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Downstream_Task.png" alt="Logo" width="300"/>
   </p>
 
 
