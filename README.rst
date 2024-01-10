@@ -68,7 +68,7 @@ We believe that there should be no organization or person in our world who wants
 Mission
 ^^^^
 
-We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** for AI using cutting-edge technology either of the 21st century or that we might invent by ourselves.
+We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** for AI using cutting-edge technology, either of the 21st century or that we might invent by ourselves.
 
 .. raw:: html
 
