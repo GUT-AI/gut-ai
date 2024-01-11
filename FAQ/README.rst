@@ -43,4 +43,4 @@ No, not at all. In order to join the Foundation, you will need to purchase its d
 
 **9. Do the Co-Founders or Genesis members of the Foundation get any "special privillages"?**
 
-No, not at all. Co-Foudners and Genesis members don’t get any "special privileges", but they are something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent members who will join later on will not be disadvantaged in any way.
+No, not at all. Co-Foudners and Genesis members don’t get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent members who will join later on will not be disadvantaged in any way.
