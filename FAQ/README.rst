@@ -39,7 +39,7 @@ No, not at all. The GUT-AI Foundation is merely a *pure subset* of the GUT-AI In
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
-No, not at all. In order to join the Foundation, you will need to purchase its dedicated governance token. In order to participate in the Network, you will need to buy the AGI utility token. Crucially, the Network and the Foundation have distinct, isolated and completely unrelated governance systems with one anoter. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. Also, more than one foundations can be active in the Network on an equal basis with the GUT-AI Foundation, which will have no "special privileges". More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, not at all. In order to join the Foundation, you will need to purchase its dedicated governance token. In order to participate in the Network, you will need to buy the AGI utility token. Crucially, the Network and the Foundation have distinct, isolated and completely unrelated governance systems with one anoter. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. Also, more than one foundations can be active in the Network on an equal basis with the GUT-AI Foundation, which will have no "special privileges" within the Network. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **9. Do the Co-Founders or Genesis members of the Foundation get any "special privillages"?**
 
