@@ -255,6 +255,12 @@ Software tools
 
 See `Software tools <software_tools/README.rst>`_.
 
+FAQ
+^^^
+
+See `FAQ <FAQ/README.rst>`_.
+
+
 Getting involved
 ----------------
 - `Community Discord <https://discord.gg/h23tg2PKN2>`_ for collaboration and discussion.
