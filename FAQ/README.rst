@@ -23,7 +23,7 @@ No, not at all. The Free and Open-Source Software produced, promoted or enabled 
 
 Not yet, but we are planning to. An additional whitepaper (or lightpaper) will be released about the new crypto coin. And before we do that, we want to engage the community and receive feedback. This is why we have released the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_ of the Foundation. More details there.
 
-**5. Will the software be restricted only to AI software?**
+**5. Will the software be restricted only to AI solutions?**
 
 No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve real-life, practical problems in the industry. It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
