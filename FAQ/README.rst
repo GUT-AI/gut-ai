@@ -33,3 +33,14 @@ No, the software will also include open-source business tools (like CRM, CMS, E-
 
 Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI (placeholder name) is a hybrid PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
+**7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
+
+No, not at all. The GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. The GUT-AI Foundation has a *supportive* role, while acting as a catalyst in order to **accelerate** the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no permission needed (or granted) in order to join the GUT-AI Initiative. Just use the logo if you want to signal to others that you have joined the Initiative and you are good to go.
+
+**8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
+
+No, not at all. Crucially, the Network and the Foundation have distinct, isolated and unrelated governance systems. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+
+**9. Do the Co-Founders or Genesis members of the Foundation get any "special privillages"?**
+
+No, not at all. Co-Foudners and Genesis members don’t get any "special privileges", but they are something like *primus inter pares* (i.e. first among equals). This ensures that subsequent members that join later on will not be disadvantaged in any way.
