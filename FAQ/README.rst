@@ -7,6 +7,8 @@ FAQ
 
 The following is a Frequently Asked Questions (FAQ) list.
 
+|br|
+
 **1. What is GUT-AI?**
 
 Read about it on `About <../README.rst#about>`_.
