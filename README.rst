@@ -116,7 +116,7 @@ The Problem
 DAO Foundation
 --------------
 
-The **GUT-AI Foundation** has a *supportive* role, while acting as a catalyst in order to accelerate the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
+The **GUT-AI Foundation** has a *supportive* role, while acting as a catalyst in order to **accelerate** the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
 
 Real-life impact
 ----------------
