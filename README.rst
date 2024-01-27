@@ -300,5 +300,5 @@ License
    :target: http://creativecommons.org/publicdomain/zero/1.0/
    :alt: License
 
-`Creative Commons Zero CC0 1.0 (Public Domain) <LICENSE>`_
+`Creative Commons Zero CC0 1.0 Universal (Public Domain) <LICENSE>`_
 
