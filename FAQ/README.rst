@@ -15,7 +15,7 @@ Read about it on `About <../README.rst#about>`_.
 
 **2. Does GUT-AI Foundation promote Open-Source?**
 
-YES! The Foundation is 100% an Open-Source First organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+YES! The Foundation is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **3. Does the GUT-AI rely only on one or a few Blockchain networks?**
 
@@ -27,7 +27,7 @@ Not yet, but we are planning to. An additional whitepaper (or lightpaper) will b
 
 **5. Will the software be restricted only to AI solutions?**
 
-No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve real-life, practical problems in the industry. It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve *real-life, practical problems* in the industry. It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **6. On the network side, how do you deal with Sybil attacks and consensus?**
 
@@ -35,7 +35,7 @@ Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybi
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
-No, not at all. The GUT-AI Foundation has a *supportive* role, while acting as a catalyst in order to **accelerate** the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo if you want to signal to others that you have joined the GUT-AI Initiative. That's it. You are good to go.
+No, not at all. The GUT-AI Foundation has a *supportive* role, while acting as a catalyst in order to **accelerate** the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a **pure subset** of the GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo if you want to signal to others that you have joined the GUT-AI Initiative. That's it. You are good to go.
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
@@ -51,4 +51,12 @@ No, not at all. On the contrary, both the GUT-AI Foundation and the GUT-AI Initi
 
 **11. Does any of your content have any Copyright or Copyleft?**
 
-No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 (Public Domain) <../LICENSE>`_.
+No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 (Public Domain) <../LICENSE>`_. You can use it *freely (libre)* and  *free of charge (gratis)*. No permission needed. No need to ask anyone for anything. Keep in mind though, that the GUT-AI Inititative includes, or it's compatible with, multiple projects, each with its own license and potential restrictions.
+
+**12. Can I fork this project?**
+
+YES!. We actually welcome it. Feel free to make as many forks of this project as you like. No permission needed. No need to ask anyone for anything.
+
+**13. Will the GUT-AI Foundation be making money out of this?**
+
+Yes, it will. The GUT-AI Foundation will be generating revenue by following the Open-Source Business Model, thus offering a combination of Hosting, Professional Services, a Marketplace, etc. This is already being used succesfully by many other Free and Open-Source projects (such as Nextcloud, WordPress, Databricks and Red Hat). The revenue is absolutely necessary in order to ensure both the *survival* of the Foundation and also the *accelerated growth* of the Free and Open-Source Software offered to the community. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
