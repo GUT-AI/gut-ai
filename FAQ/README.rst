@@ -51,7 +51,7 @@ No, not at all. On the contrary, both the GUT-AI Foundation and the GUT-AI Initi
 
 **11. Does any of your content have any Copyright or Copyleft?**
 
-No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 (Public Domain) <../LICENSE>`_. You can use it *freely (libre)* and  *free of charge (gratis)*. No permission needed. No need to ask anyone for anything. Keep in mind though, that the GUT-AI Inititative includes, or it's compatible with, multiple projects, each with its own license and potential restrictions.
+No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 Universal (Public Domain) <../LICENSE>`_. You can use it *freely (libre)* and  *free of charge (gratis)*. No permission needed. No need to ask anyone for anything. Keep in mind though, that the GUT-AI Inititative includes, or it's compatible with, multiple projects, each with its own license and potential restrictions.
 
 **12. Can I fork this project?**
 
