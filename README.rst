@@ -21,9 +21,9 @@ GUT-AI [Work In Progress]
 .. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fsjrkh-blue
   :target: CITATION.cff
   :alt: DOI
-   
-.. image:: https://img.shields.io/badge/Discord-chat-orange.svg?logo=discord
-  :target: https://github.com/GUT-AI/gut-ai
+
+.. image:: https://discord.com/api/guilds/1130106061232279633/widget.png
+  :target: https://discord.gg/h23tg2PKN2
   :alt: Discord
 
 .. raw:: html
