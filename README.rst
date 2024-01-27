@@ -7,7 +7,8 @@ GUT-AI [Work In Progress]
 
 .. raw:: html
 
-  <p align="center"><a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Logo_GUT-AI_text.png" alt="Logo" width="250"/></a>
+  <p align="center">
+      <a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Logo_GUT-AI_text.png" alt="Logo" width="250"/></a>
   </p>
 
 .. raw:: html
@@ -29,6 +30,16 @@ GUT-AI [Work In Progress]
 .. raw:: html
 
   </div>
+
+.. raw:: html
+
+  <br/>
+  <p align="center">
+    <a href="https://www.gut-ai.org"><b>Website</b></a> •
+    <a href="https://twitter.com/"><b>X (Twitter)</b></a> •
+    <a href="https://discord.gg/h23tg2PKN2"><b>Discord</b></a> •
+    <a href="https://gutai.miraheze.org"><b>Wiki</b></a> 
+  </p>
 
 .. inclusion-marker-start-do-not-remove
 
