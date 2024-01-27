@@ -9,6 +9,6 @@ identifiers:
     value: 10.10.17605/osf.io/sjrkh
     description: The concept DOI for the collection containing all versions of the Citation File Format.
 date-released: "2022"
-license: "Creative Commons Zero CC0 1.0"
+license: "Creative Commons Zero CC0 1.0 Universal"
 doi: 10.10.17605/osf.io/sjrkh
 url: https://doi.org/10.31219/osf.io/sjrkh
