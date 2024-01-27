@@ -14,7 +14,7 @@ GUT-AI [Work In Progress]
 
   <div align="center">
    
-.. image:: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
+.. image:: https://img.shields.io/badge/License-CC0_1.0-purple.svg
   :target: LICENSE
   :alt: License
 
