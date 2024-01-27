@@ -49,4 +49,6 @@ No, not at all. Co-Founders and Genesis members don’t get any "special privile
 
 No, not at all. On the contrary, both the GUT-AI Foundation and the GUT-AI Initiative are **'leaderfull'**. 
 
+**11. Does any of your content have any Copyright or Copyleft?**
 
+No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 (Public Domain) <../LICENSE>`_.
