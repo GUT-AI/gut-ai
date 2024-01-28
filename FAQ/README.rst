@@ -43,7 +43,7 @@ No, not at all. In order to join the Foundation, you will need to purchase its d
 
 **9. Do I need a permission or some kind of membership to join the GUT-AI Initiative?**
 
-No, absolutely not. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo if you want to signal to others that you have joined the GUT-AI Initiative. That's it. You are good to go. Also, you do need to be a member of the GUT-AI Foundation, since the GUT-AI Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
+No, absolutely not. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo of the GUT-AI Initiative (*not* of the Foundation) if you want to signal to others that you have joined the Initiative. That's it. You are good to go. Also, you do need to be a member of the GUT-AI Foundation, since the GUT-AI Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
 
 **10. Do I need a permission or some kind of membership to join the GUT-AI Network?**
 
