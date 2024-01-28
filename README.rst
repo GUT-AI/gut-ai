@@ -8,7 +8,9 @@ GUT-AI [Work In Progress]
 .. raw:: html
 
   <p align="center">
-      <a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Logo_GUT-AI_text.png" alt="Logo" width="250"/></a>
+      <a href="https://gut-ai.org/"><img src="https://github.com/GUT-AI/gut-ai/blob/master/images/Logo_GUT-AI_text.png" alt="Logo" width="250"/></a><br/>
+      <b>Unleashing human creativity and potential</b><br/>
+      <br/>
   </p>
 
 .. raw:: html
@@ -46,7 +48,11 @@ GUT-AI [Work In Progress]
 
 |
 
+----
+
 **Summary:** Documentation and meta files about the **GUT-AI Initiative** in general.
+
+|
 
 +------------------------------------------------+--------------------------------------------------+--------------------------------------------+
 | **For Developers**                             | **For Reserchers**                               | **For Investors**                          |
