@@ -25,6 +25,10 @@ GUT-AI [Work In Progress]
   :target: CITATION.cff
   :alt: DOI
 
+.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg
+  :target: #getting-involved
+  :alt: Contributions welcome
+
 .. image:: https://discord.com/api/guilds/1130106061232279633/widget.png
   :target: https://discord.gg/h23tg2PKN2
   :alt: Discord
@@ -281,7 +285,12 @@ See `FAQ <FAQ/README.rst>`_.
 
 Getting involved
 ----------------
-- `Community Discord <https://discord.gg/h23tg2PKN2>`_ for collaboration and discussion.
+
+**EVERY** contributor is welcome!
+
+- Join our `Community Discord <https://discord.gg/h23tg2PKN2>`_ for collaboration and discussion.
+- Join our `governance wiki <https://gutai.miraheze.org>`_ to share your knowledge.
+- If you have any suggestions or feedback, please feel free to open an `issue <https://github.com/GUT-AI/gut-ai/issues>`_ or submit a `pull request <https://github.com/GUT-AI/gut-ai/pulls>`_.
 
 How to cite this
 ----------------
