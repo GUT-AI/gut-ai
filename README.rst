@@ -67,7 +67,7 @@ GUT-AI [Work In Progress]
 +------------------------------------------------+--------------------------------------------------+--------------------------------------------+
 | `Components <components/README.rst>`_          | `Research Proposal <#research-proposal>`_        | `Whitepaper <#whitepaper>`_                |
 +------------------------------------------------+--------------------------------------------------+--------------------------------------------+
-| `Software tools <software_tools/README.rst>`_  | `Datasets <datasets/README.rst>`_                | `Roadmap <roadmap/README.rst>`_            |
+| `Software tools <software_tools/README.rst>`_  | `Datasets <datasets/README.rst>`_                | `FAQ <FAQ/README.rst>`_                    |
 +------------------------------------------------+--------------------------------------------------+--------------------------------------------+
 
 |
