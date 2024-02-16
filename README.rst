@@ -54,7 +54,7 @@ GUT-AI [Work In Progress]
 
 ----
 
-**Summary:** Documentation, content and meta files about the **GUT-AI Initiative** in general. This repository is common point of reference for **everyone** looking to learn about our worldwide, decentralized Initiative.
+**Summary:** Documentation, content and meta files about the **GUT-AI Initiative** in general. This repository is common point of reference for **everyone** looking to learn about our worldwide, permissionless, decentralized Initiative.
 
 
 
