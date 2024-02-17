@@ -110,7 +110,7 @@ Research Proposal
 Whitepaper
 ^^^^^^^^^^
 
-- `An Overview of the GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations <https://doi.org/10.31219/osf.io/bxw4h>`_
+- `An Overview of GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations <https://doi.org/10.31219/osf.io/bxw4h>`_
 
 Read a brief `Summary <summaries/README.rst#whitepaper>`_ of the Whitepaper.
 
@@ -119,7 +119,7 @@ Selected publications
 ^^^^^^^^^^^^^^^^^^^^^
 
 - Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
-- Kourouklides, I., & Alexandrou, K. (2023). An Overview of the GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations. *OSF Preprints*. https://doi.org/10.31219/osf.io/bxw4h
+- Kourouklides, I., & Alexandrou, K. (2023). An Overview of GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations. *OSF Preprints*. https://doi.org/10.31219/osf.io/bxw4h
 
 The Problem
 --------------
@@ -140,7 +140,7 @@ The Problem
 DAO Foundation
 --------------
 
-The **GUT-AI Foundation** has a *supportive* role, while acting as a catalyst in order to **accelerate** the GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, the GUT-AI Foundation is merely a *pure subset* of the GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
+The *purpose* of **GUT-AI Foundation** is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words,  GUT-AI Foundation is merely a *pure subset* of GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
 
 See `FAQ <FAQ/README.rst>`_ for more details.
 
