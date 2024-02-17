@@ -54,7 +54,7 @@ GUT-AI [Work In Progress]
 
 ----
 
-**Summary:** Documentation, content and meta files about the **GUT-AI Initiative** in general. This repository is common point of reference for **everyone** looking to learn about our worldwide, permissionless, decentralized Initiative.
+**Summary:** Documentation, content and meta files about **GUT-AI Initiative** in general. This repository is common point of reference for **everyone** looking to learn about our worldwide, permissionless, decentralized Initiative.
 
 
 
@@ -82,7 +82,7 @@ About
 Pitch
 ^^^^^
 
-The **GUT-AI Initiative** is a totally *decentralized* initiative which aims to eliminate the *multiple single points of failure* when using AI for real-life applications in the *real world* in order to achieve the **ultimate purpose** of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from `Brain Consciousness <https://www.google.com/search?q=what+is+Brain+Consciousness>`_ and `Abiogenesis <https://www.google.com/search?q=what+is+Abiogenesis>`_ to `Quantum Gravity <https://www.google.com/search?q=what+is+Quantum+Gravity>`_ and `Genesis Cosmology <https://www.google.com/search?q=what+is+Genesis+Cosmology>`_ ).  For instance, does evolution or the universe have a `conscious or intelligent “geist” <https://www.google.com/search?q=Max+Planck+conscious+and+intelligent+spirit+geist>`_ (spirit), as Max Planck once claimed?
+**GUT-AI Initiative** is a totally *decentralized* initiative which aims to eliminate the *multiple single points of failure* when using AI for real-life applications in the *real world* in order to achieve the **ultimate purpose** of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from `Brain Consciousness <https://www.google.com/search?q=what+is+Brain+Consciousness>`_ and `Abiogenesis <https://www.google.com/search?q=what+is+Abiogenesis>`_ to `Quantum Gravity <https://www.google.com/search?q=what+is+Quantum+Gravity>`_ and `Genesis Cosmology <https://www.google.com/search?q=what+is+Genesis+Cosmology>`_ ).  For instance, does evolution or the universe have a `conscious or intelligent “geist” <https://www.google.com/search?q=Max+Planck+conscious+and+intelligent+spirit+geist>`_ (spirit), as Max Planck once claimed?
 
 Vision
 ^^^^
@@ -217,7 +217,7 @@ Initiative files
 Landing page
 ^^^^^^^^^^^^
 
-The following is the official landing page of the `GUT-AI Foundation <#dao-foundation>`_:
+The following is the official landing page of `GUT-AI Foundation <#dao-foundation>`_:
 
 - http://gut-ai.org/
 
