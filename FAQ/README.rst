@@ -27,7 +27,7 @@ Not yet, but we are planning to. An additional whitepaper (or lightpaper) will b
 
 **5. Will the software be restricted only to AI solutions?**
 
-No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve *real-life, practical problems* in the industry. It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve *real-world, practical problems* in the industry (and also everyday life). It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **6. On the network side, how do you deal with Sybil attacks and consensus?**
 
