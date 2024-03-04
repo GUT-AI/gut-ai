@@ -34,7 +34,7 @@ Read the full Whitepaper `here <https://osf.io/bxw4h/>`_.
 - The paper presents a comparison and evolution of the Web from Web1 all the way to Web3, and how to transition from Web2 to Web3 using AI solutions.
 - It discusses the concept of 'maximizing for creativity' in the design of the whole Ecosystem.
 - The paper presents a block diagram of a decentralized storage system and a pictorial representation of the proposed Decentralized Cloud Provider.
-- It presents examples of AR and MR devices in brain and heart surgeries.
+- It presents examples of Augmented Reality (AR) and Mixed Reality (MR) devices in brain and heart surgeries.
 - The paper discusses the concept of a hierarchical modular network in a decentralized community.
 - It includes a disclaimer that the Whitepaper is not an offer to sell or a solicitation of an offer to buy any tokens.
 |br|
