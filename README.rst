@@ -201,6 +201,7 @@ Depending on the modality (or modalities) of the data used, GUT-AI has applicati
 - Energy
 - Environmetrics
 - Geospatial Data (including LiDAR, Hyperspectral images and GIS)
+- Information Retrieval
 - Medical Imaging
 - Multimodal Learning
 - Natural Language Processing
