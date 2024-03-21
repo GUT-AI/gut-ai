@@ -6,6 +6,10 @@
 
   <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Initiative">GUT-AI Initiative</a></strong>
 
+.. |GUT-AI Foundation| raw:: html
+
+  <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About">GUT-AI Foundation</a></strong>
+
 GUT-AI [Work In Progress]
 =========================
 
@@ -144,7 +148,7 @@ The Problem
 DAO Foundation
 --------------
 
-The *purpose* of **GUT-AI Foundation** is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words,  GUT-AI Foundation is merely a *pure subset* of GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
+The *purpose* of |GUT-AI Foundation| is to have a *supportive* role, while acting as a catalyst in order to **accelerate** `GUT-AI Initiative <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_, but *without interfering* with the **decentralized** nature of the whole initiative. In other words,  GUT-AI Foundation is merely a *pure subset* of GUT-AI Initiative. The Foundation is currently in the process of becoming a `Decentralized Autonomous Organization (DAO) <https://www.google.com/search?q=what+is+a+DAO>`_.
 
 See `FAQ <FAQ/README.rst>`_ for more details.
 
