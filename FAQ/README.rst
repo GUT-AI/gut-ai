@@ -15,7 +15,7 @@ Read about it on `About <../README.rst#about>`_.
 
 **2. Does GUT-AI Foundation promote Open-Source?**
 
-YES! The Foundation is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **3. Does GUT-AI rely on only one or a few Blockchain networks?**
 
@@ -35,19 +35,19 @@ Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybi
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
-No, not at all. The **purpose** of  GUT-AI Foundation is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9.
+No, not at all. The **purpose** of  `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_GUT-AI Foundation is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9.
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
-No, not at all. In order to join the Foundation, you will need to purchase its dedicated **governance token**. In order to participate in the Network, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the Network, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
 
 **9. Do I need a permission or some kind of membership to join GUT-AI Initiative?**
 
-No, absolutely not. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo of GUT-AI Initiative (*not* of the Foundation) if you want to signal to others that you have joined the Initiative. That's it. You are good to go. Also, you do need to be a member of the GUT-AI Foundation, since the Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
+No, absolutely not. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo of GUT-AI Initiative (*not* of the Foundation) if you want to signal to others that you have joined the Initiative. That's it. You are good to go. Also, you do need to be a member of the `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
 
 **10. Do I need a permission or some kind of membership to join GUT-AI Network?**
 
-No, absolutely not. Once GUT-AI Network is up and running, you will just need to purchase its AGI utility token in the open market (DEX, CEX or anywhere else). Also, you do need to be a member of GUT-AI Foundation, since the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another, as explained in Q8. Also, more than one foundations can be active in the Network on an *equal basis* with the Foundation, which will have no "special privileges" within the Network. You can be any individual or organization on the planet and still be a participant in the Network. Zero restrictions, zero inequalities.
+No, absolutely not. Once GUT-AI Network is up and running, you will just need to purchase its AGI utility token in the open market (DEX, CEX or anywhere else). Also, you do need to be a member of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another, as explained in Q8. Also, more than one foundations can be active in the Network on an *equal basis* with the Foundation, which will have no "special privileges" within the Network. You can be any individual or organization on the planet and still be a participant in the Network. Zero restrictions, zero inequalities.
 
 **11. Do the Co-Founders or Genesis members of the Foundation get any "special privileges"?**
 
@@ -55,7 +55,7 @@ No, not at all. Co-Founders and Genesis members don’t get any "special privile
 
 **12. Is GUT-AI leaderless?**
 
-No, not at all. On the contrary, both GUT-AI Foundation and GUT-AI Initiative are **'leaderfull'**. 
+No, not at all. On the contrary, both `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ and GUT-AI Initiative are **'leaderfull'**. 
 
 **13. Does any of your content have any Copyright or Copyleft?**
 
@@ -67,4 +67,4 @@ YES! We actually welcome it. Feel free to make as many forks of this project as 
 
 **15. Will GUT-AI Foundation be making money out of this?**
 
-Yes, it will. GUT-AI Foundation will be generating revenue by following the **Open-Source Business Model**, thus offering a combination of Hosting, Maintenance, Professional Services, Customized Functionalities, a Marketplace, etc. This is already being used succesfully by many other Free and Open-Source projects (such as Nextcloud, WordPress, Databricks, Red Hat and XWiki). The revenue is absolutely necessary in order to ensure both the *survival* of the Foundation, and also the *accelerated growth* of the Free and Open-Source Software offered to the community. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+Yes, it will. `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ will be generating revenue by following the **Open-Source Business Model**, thus offering a combination of Hosting, Maintenance, Professional Services, Customized Functionalities, a Marketplace, etc. This is already being used succesfully by many other Free and Open-Source projects (such as Nextcloud, WordPress, Databricks, Red Hat and XWiki). The revenue is absolutely necessary in order to ensure both the *survival* of the Foundation, and also the *accelerated growth* of the Free and Open-Source Software offered to the community. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
