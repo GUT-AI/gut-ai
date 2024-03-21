@@ -15,7 +15,7 @@ Read about it on `About <../README.rst#about>`_.
 
 **2. Does GUT-AI Foundation promote Open-Source?**
 
-YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
+YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is 100% an **Open-Source First** organization. Its vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **3. Does GUT-AI rely on only one or a few Blockchain networks?**
 
