@@ -28,7 +28,7 @@ The **Meta** component is a component about all the other components. Its reposi
 Five-Layer Architecture
 -----------------------
 
-The following **Five-Layer Architecture** is used:
+The following **Five-Layer Architecture** is used for the `GUT-AI Protocol <https://gutai.miraheze.org/wiki/GUT-AI_Protocol>`_:
 
 * Layer 1 - Foundation Layer (Physical and Data Link)
 * Layer 2 - Infrastructure Layer (IaaS)
