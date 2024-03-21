@@ -5,9 +5,9 @@
 Components
 ==========
 
-**Sumary:** The GUT-AI initiative is subdivived into a series of **components** (i.e. subprojects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** with support from the `GUT-AI Foundation <../README.rst#dao-foundation>`_). This is a list of all the components of such an ecosystem.
+**Sumary:** GUT-AI initiative is subdivived into a series of **components** (i.e. subprojects) in order to build a *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** with support from `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_). This is a list of all the components of such an ecosystem.
 
-It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained in the Summary above and also in the `Vision <../README.md#vision>`_ and `Mission <../README.md#mission>`_ of GUT-AI. The aim of the GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
+It is important to note that each component definition intentionally does not include *how* to be implemented, but only *what* to be implemented. The reason is that there should be **no constraints or limits** on the 'how' since new advances in Technology can potentially bring new opportunities to improve the 'how' a specific component is implemented. The 'why' each component is necessary is explained in the Summary above and also in the `Vision <../README.md#vision>`_ and `Mission <../README.md#mission>`_ of GUT-AI. The aim of GUT-AI initiative is *not* to reinvent the wheel. If a tool or solution for something already exits, then an integration can be created for that tool or solution.
 
 |
 
