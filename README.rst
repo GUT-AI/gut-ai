@@ -55,10 +55,15 @@ GUT-AI [Work In Progress]
   <br/>
   <p align="center">
     <a href="https://www.gut-ai.org"><b>Website</b></a> •
-    <a href="https://twitter.com/"><b>X (Twitter)</b></a> •
     <a href="https://discord.gg/h23tg2PKN2"><b>Discord</b></a> •
+    <b>Matrix/Element</b></a> •
+    <a href="https://twitter.com/"><b>X (Twitter)</b></a> •
+    <b>Fediverse/Mastodon</b></a> •
+    <b>SimpleX</b></a> •
+    <b>Forum</b></a> •
+    <a href="https://medium.com/gut-ai"><b>Blog</b></a> •
     <a href="https://gutai.miraheze.org"><b>Wiki</b></a> •
-    <a href="https://medium.com/gut-ai"><b>Blog</b></a>
+    
   </p>
 
 .. inclusion-marker-start-do-not-remove
