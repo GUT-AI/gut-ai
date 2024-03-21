@@ -15,7 +15,7 @@ Read about it on `About <../README.rst#about>`_.
 
 **2. Does GUT-AI Foundation promote Open-Source?**
 
-YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is 100% an **Open-Source First** organization. The vision, mission and the business model are such that the Foundation will always remain 100% Open-Source First. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **3. Does GUT-AI rely on only one or a few Blockchain networks?**
 
@@ -23,15 +23,15 @@ No, not at all. The Free and Open-Source Software produced, promoted or enabled 
 
 **4. Have you issued your own crypto coin?**
 
-Not yet, but we are planning to. An additional whitepaper (or lightpaper) will be released about the new crypto coin. And before we do that, we want to engage the community and receive feedback. This is why we have released the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_ of the Foundation. More details there.
+Not yet, but we are planning to. An additional whitepaper (or lightpaper) will be released about the new crypto coin. And before we do that, we want to engage the community and receive feedback. This is why we have released the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_ of the Foundation. More details there.
 
 **5. Will the software be restricted only to AI solutions?**
 
-No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve *real-world, practical problems* in the industry (and also everyday life). It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, the software will also include open-source business tools (like CRM, CMS, E-commerce platforms) with full interoperability to AI plugins in order to solve *real-world, practical problems* in the industry (and also everyday life). It will also include the implementation of a decentralized Marketplace for products and services offered by third-party Freelancers in order to provide holistic and customized solutions to businesses and individuals alike. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **6. On the network side, how do you deal with Sybil attacks and consensus?**
 
-Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token (placeholder name) is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token (placeholder name) is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
@@ -39,7 +39,7 @@ No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.or
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
-No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the Network, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the Network, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **9. Do I need a permission or some kind of membership to join GUT-AI Initiative?**
 
@@ -67,4 +67,4 @@ YES! We actually welcome it. Feel free to make as many forks of this project as 
 
 **15. Will GUT-AI Foundation be making money out of this?**
 
-Yes, it will. `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ will be generating revenue by following the **Open-Source Business Model**, thus offering a combination of Hosting, Maintenance, Professional Services, Customized Functionalities, a Marketplace, etc. This is already being used succesfully by many other Free and Open-Source projects (such as Nextcloud, WordPress, Databricks, Red Hat and XWiki). The revenue is absolutely necessary in order to ensure both the *survival* of the Foundation, and also the *accelerated growth* of the Free and Open-Source Software offered to the community. More details in the `Whitepaper <https://doi.org/10.31219/osf.io/bxw4h>`_.
+Yes, it will. `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ will be generating revenue by following the **Open-Source Business Model**, thus offering a combination of Hosting, Maintenance, Professional Services, Customized Functionalities, a Marketplace, etc. This is already being used succesfully by many other Free and Open-Source projects (such as Nextcloud, WordPress, Databricks, Red Hat and XWiki). The revenue is absolutely necessary in order to ensure both the *survival* of the Foundation, and also the *accelerated growth* of the Free and Open-Source Software offered to the community. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
