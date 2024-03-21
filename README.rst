@@ -10,6 +10,11 @@
 
   <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About">GUT-AI Foundation</a></strong>
 
+.. |ecosystem| raw:: html
+
+  <strong><a href="https://gutai.miraheze.org/wiki/Ecosystem">ecosystem</a></strong>
+
+
 GUT-AI [Work In Progress]
 =========================
 
@@ -100,7 +105,7 @@ We believe that there should be no organization or person in our world who wants
 Mission
 ^^^^
 
-We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized ecosystem** for AI using cutting-edge technology, either of the 21st century or that we might invent by ourselves.
+We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized** |ecosystem| for AI using cutting-edge technology, either of the 21st century or that we might invent by ourselves.
 
 .. raw:: html
 
