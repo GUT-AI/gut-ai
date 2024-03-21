@@ -23,7 +23,7 @@ No, not at all. The Free and Open-Source Software produced, promoted or enabled 
 
 **4. Have you issued your own crypto coin?**
 
-Not yet, but we are planning to. An additional whitepaper (or lightpaper) will be released about the new crypto coin. And before we do that, we want to engage the community and receive feedback. This is why we have released the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_ of the Foundation. More details there.
+Not yet, but we are planning to. An additional whitepaper (or lightpaper) will be released about the new crypto coin, called AGI (placeholder name). And before we do that, we want to engage the community and receive feedback. This is why we have released the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_ of the Foundation. More details there.
 
 **5. Will the software be restricted only to AI solutions?**
 
@@ -31,7 +31,7 @@ No, the software will also include open-source business tools (like CRM, CMS, E-
 
 **6. On the network side, how do you deal with Sybil attacks and consensus?**
 
-Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token (placeholder name) is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
+Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
@@ -39,7 +39,7 @@ No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.or
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
-No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the Network, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
+No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the `Network <https://gutai.miraheze.org/wiki/Network>`_, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **9. Do I need a permission or some kind of membership to join GUT-AI Initiative?**
 
@@ -47,7 +47,7 @@ No, absolutely not. There is no authorization or permission needed (or granted) 
 
 **10. Do I need a permission or some kind of membership to join GUT-AI Network?**
 
-No, absolutely not. Once GUT-AI Network is up and running, you will just need to purchase its AGI utility token in the open market (DEX, CEX or anywhere else). Also, you do need to be a member of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another, as explained in Q8. Also, more than one foundations can be active in the Network on an *equal basis* with the Foundation, which will have no "special privileges" within the Network. You can be any individual or organization on the planet and still be a participant in the Network. Zero restrictions, zero inequalities.
+No, absolutely not. Once `GUT-AI Network <https://gutai.miraheze.org/wiki/Network>`_ is up and running, you will just need to purchase its AGI utility token in the open market (DEX, CEX or anywhere else). Also, you do need to be a member of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another, as explained in Q8. Also, more than one foundations can be active in the Network on an *equal basis* with the Foundation, which will have no "special privileges" within the Network. You can be any individual or organization on the planet and still be a participant in the Network. Zero restrictions, zero inequalities.
 
 **11. Do the Co-Founders or Genesis members of the Foundation get any "special privileges"?**
 
