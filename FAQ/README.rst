@@ -35,7 +35,7 @@ Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybi
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
-No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9. Anyone joining the Initiative is automatically a participant to the GUT-AI Ecosystem.
+No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is to have a *supportive* role, while acting as a catalyst in order to **accelerate** `GUT-AI Initiative <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9. Anyone joining the Initiative is automatically a participant to the GUT-AI Ecosystem.
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
@@ -43,7 +43,7 @@ No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wik
 
 **9. Do I need a permission or some kind of membership to join GUT-AI Initiative?**
 
-No, absolutely not. There is no authorization or permission needed (or granted) in order to join the Initiative, since it is entirely **permissionless**. Just use the logo of GUT-AI Initiative (*not* of the Foundation) if you want to signal to others that you have joined the Initiative. That's it. You are good to go. Also, you do need to be a member of the `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
+No, absolutely not. There is no authorization or permission needed (or granted) in order to join the `Initiative <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_, since it is entirely **permissionless**. Just use the logo of GUT-AI Initiative (*not* of the Foundation) if you want to signal to others that you have joined the Initiative. That's it. You are good to go. Also, you do need to be a member of the `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Foundation is merely a **pure subset** of the GUT-AI Initiative, as explained in Q7. You can be any individual or organization on the planet and still join the Initiative. There is no formal process to join. Zero formalities, zero bureaucracy.
 
 **10. Do I need a permission or some kind of membership to join GUT-AI Network?**
 
@@ -55,7 +55,7 @@ No, not at all. Co-Founders and Genesis members don’t get any "special privile
 
 **12. Is GUT-AI leaderless?**
 
-No, not at all. On the contrary, both `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ and GUT-AI Initiative are **'leaderfull'**. 
+No, not at all. On the contrary, both `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ and `GUT-AI Initiative <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_ are **'leaderfull'**. 
 
 **13. Does any of your content have any Copyright or Copyleft?**
 
