@@ -9,7 +9,7 @@ The following is a Frequently Asked Questions (FAQ) list.
 
 |br|
 
-**1. What is GUT-AI?**
+**1. What is GUT-AI Initiative?**
 
 Read about it on `About <../README.rst#about>`_.
 
@@ -35,7 +35,7 @@ Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybi
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
-No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9.
+No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ is to have a *supportive* role, while acting as a catalyst in order to **accelerate** GUT-AI Initiative, but *without interfering* with the **decentralized** nature of the whole initiative. In other words, GUT-AI Foundation is merely a **pure subset** of GUT-AI Initiative. An unlimited number of individuals, projects, foundations, companies and other organizations anywhere on the planet can join the Initiative in an unrestricted way. There is no authorization or permission needed (or granted) in order to join the Initiative, as explained in Q9. Anyone joining the Initiative is automatically a participant to the GUT-AI Ecosystem.
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
