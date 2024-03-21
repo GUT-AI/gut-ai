@@ -316,7 +316,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ GUT-AI in your publica
 License 
 -------
 
-.. image:: https://licensebuttons.net/p/mark/1.0/88x31.png
+.. image:: https://upload.wikimedia.org/wikipedia/commons/8/84/Public_Domain_Mark_button.svg
    :target: http://creativecommons.org/publicdomain/zero/1.0/
    :alt: License
 
