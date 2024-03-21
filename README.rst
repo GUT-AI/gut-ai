@@ -313,6 +313,7 @@ Getting involved
 
 - Join our `Community Discord <https://discord.gg/h23tg2PKN2>`_ for collaboration and discussion.
 - Join our `governance wiki <https://gutai.miraheze.org>`_ to share your knowledge.
+- Check `other ways to contribute <https://gutai.miraheze.org/wiki/Getting_involved>`_.
 - If you have any suggestions or feedback, please feel free to open an `issue <https://github.com/GUT-AI/gut-ai/issues>`_ or submit a `pull request <https://github.com/GUT-AI/gut-ai/pulls>`_.
 
 How to cite this
