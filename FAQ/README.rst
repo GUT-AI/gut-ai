@@ -49,9 +49,9 @@ No, absolutely not. There is no authorization or permission needed (or granted) 
 
 No, absolutely not. Once `GUT-AI Network <https://gutai.miraheze.org/wiki/Network>`_ is up and running, you will just need to purchase its AGI utility token in the open market (DEX, CEX or anywhere else). Also, you do need to be a member of `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, since the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another, as explained in Q8. Also, more than one foundations can be active in the Network on an *equal basis* with the Foundation, which will have no "special privileges" within the Network. You can be any individual or organization on the planet and still be a participant in the Network. Zero restrictions, zero inequalities.
 
-**11. Do the Co-Founders or Genesis members of the Foundation get any "special privileges"?**
+**11. Do the Co-Founders or Genesis users of the Foundation get any "special privileges"?**
 
-No, not at all. Co-Founders and Genesis members don’t get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent members who will join later on will not be disadvantaged in any way.
+No, not at all. Co-Founders and Genesis users don’t get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent governance token holders who will join later on will not be disadvantaged in any way.
 
 **12. Is GUT-AI leaderless?**
 
