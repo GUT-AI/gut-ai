@@ -19,7 +19,7 @@ YES! `GUT-AI Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About
 
 **3. Does GUT-AI rely on only one or a few Blockchain networks?**
 
-No, not at all. The Free and Open-Source Software produced, promoted or enabled by the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_ and the Foundation itself are entirely Blockchain-agnostic.
+No, not at all. The Free and Open-Source Software produced, promoted or enabled by the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, and also the Foundation itself are entirely Blockchain-agnostic.
 
 **4. Have you issued your own crypto coin?**
 
