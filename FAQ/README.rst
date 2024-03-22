@@ -31,7 +31,7 @@ No, the software will also include open-source business tools (like CRM, CMS, E-
 
 **6. On the network side, how do you deal with Sybil attacks and consensus?**
 
-Good question. Similar to Bitcoin, it’s dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
+Good question. Similar to Bitcoin, it is dealt by Game Theory, thus making Sybil attacks financially expensive and also difficult to execute successfully. The consensus mechanism of AGI utility token is a **hybrid** PoW and PoS mechanism. It is very similar to Proof of Activity (PoA), which has already been verified to work in practice with Decred coin. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **7. Is GUT-AI Initiative and GUT-AI Foundation one and the same?**
 
