@@ -59,7 +59,7 @@ No, not at all. On the contrary, both `GUT-AI Foundation <https://gutai.miraheze
 
 **13. Does any of your content have any Copyright or Copyleft?**
 
-No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 Universal (Public Domain) <../LICENSE>`_. You can use it *freely (libre)* and  *free of charge (gratis)*. No permission needed. No need to ask anyone for anything. Keep in mind, though, that <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_ includes, or it's compatible with, multiple projects, each with its own license and potential restrictions.
+No, absolutely not. Unless otherwise stated, all content is available under `Creative Commons Zero CC0 1.0 Universal (Public Domain) <../LICENSE>`_. You can use it *freely (libre)* and  *free of charge (gratis)*. No permission needed. No need to ask anyone for anything. Keep in mind, though, that `GUT-AI Initiative <https://gutai.miraheze.org/wiki/GUT-AI_Initiative>`_ includes, or it's compatible with, multiple projects, each with its own license and potential restrictions.
 
 **14. Can I fork this project?**
 
