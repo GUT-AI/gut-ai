@@ -39,7 +39,7 @@ No, not at all. The **purpose** of `GUT-AI Foundation <https://gutai.miraheze.or
 
 **8. Is GUT-AI Foundation and GUT-AI Network one and the same?**
 
-No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the `Network <https://gutai.miraheze.org/wiki/Network>`_, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, governance token holders do not influence the Network in any way, and likewise, utility token holders do not influence the Foundation in any way. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
+No, not at all. In order to join the `Foundation <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About>`_, you will need to purchase its dedicated **governance token**. In order to participate in the `Network <https://gutai.miraheze.org/wiki/Network>`_, you will need to buy the AGI **utility token**, as explain in Q10. Crucially, the Network and the Foundation have distinct, independent and completely unrelated governance systems with one another. In other words, <utility token holders <https://gutai.miraheze.org/wiki/Utility_token_holders>`_ do not influence the Network in any way, and likewise, <https://gutai.miraheze.org/wiki/Governance_token_holders>`_ do not influence the Foundation in any way. More details in the `Whitepaper <https://gutai.miraheze.org/wiki/GUT-AI_Foundation:Whitepaper>`_.
 
 **9. Do I need a permission or some kind of membership to join GUT-AI Initiative?**
 
@@ -51,7 +51,7 @@ No, absolutely not. Once `GUT-AI Network <https://gutai.miraheze.org/wiki/Networ
 
 **11. Do the Co-Founders or Genesis users of the Foundation get any "special privileges"?**
 
-No, not at all. Neither Co-Founders nor Genesis users get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent governance token holders who will join later on will not be disadvantaged in any way.
+No, not at all. Neither Co-Founders nor Genesis users get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent <https://gutai.miraheze.org/wiki/Governance_token_holders>`_ who will join later on will not be disadvantaged in any way.
 
 **12. Is GUT-AI leaderless?**
 
