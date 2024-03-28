@@ -51,7 +51,7 @@ No, absolutely not. Once `GUT-AI Network <https://gutai.miraheze.org/wiki/Networ
 
 **11. Do the Co-Founders or Genesis users of the Foundation get any "special privileges"?**
 
-No, not at all. Co-Founders and Genesis users don’t get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent governance token holders who will join later on will not be disadvantaged in any way.
+No, not at all. Neither Co-Founders nor Genesis users get any "special privileges", but each one of them is something like *primus inter pares* (i.e. first among equals). This ensures that all subsequent governance token holders who will join later on will not be disadvantaged in any way.
 
 **12. Is GUT-AI leaderless?**
 
