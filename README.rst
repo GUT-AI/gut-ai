@@ -103,12 +103,12 @@ Pitch
 |GUT-AI Initiative| is a totally *decentralized* initiative, which aims to eliminate the *multiple single points of failure* when using AI for practical applications in the *real world* in order to achieve the **ultimate purpose** of both ‘narrow AI’ and ‘strong AI’, which is to actually "open" the "black box" of an ML system in order to eventually unlock the mysteries of nature and the universe (from `Brain Consciousness <https://www.google.com/search?q=what+is+Brain+Consciousness>`_ and `Abiogenesis <https://www.google.com/search?q=what+is+Abiogenesis>`_ to `Quantum Gravity <https://www.google.com/search?q=what+is+Quantum+Gravity>`_ and `Genesis Cosmology <https://www.google.com/search?q=what+is+Genesis+Cosmology>`_ ).  For instance, does evolution or the universe have a `conscious or intelligent “geist” <https://www.google.com/search?q=Max+Planck+conscious+and+intelligent+spirit+geist>`_ (spirit), as Max Planck once claimed?
 
 Vision
-^^^^
+^^^^^^
 
 We believe that there should be no organization or person in our world who wants to use AI, but not be able to do so. We also believe in a world where AI hand-in-hand with *human interaction* are in an ever-improving situation.
 
 Mission
-^^^^
+^^^^^^^
 
 We are on a mission to create the most *user-friendly* **Open-Data, Open-Source, Decentralized** |ecosystem| for AI using cutting-edge technology, either of the 21st century or that we might invent by ourselves.
 
@@ -163,7 +163,7 @@ The *purpose* of |GUT-AI Foundation| is to have a *supportive* role, while actin
 See `FAQ <FAQ/README.rst>`_ for more details about the relationship of the Initiative and the Foundation.
 
 Real-world impact
-----------------
+-----------------
 
 Industries
 ^^^^^^^^^^
@@ -276,7 +276,7 @@ List of components
 See `Components <components/README.rst>`_ for a list of subprojects.
 
 Roadmap
-^^^^^^
+^^^^^^^
 
 See `Roadmap <roadmap/README.rst>`_.
 
