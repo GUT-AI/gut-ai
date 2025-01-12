@@ -356,7 +356,7 @@ Component C3.11: NOS
 
 **Aims:**
 
-* Integrations with CMS, CRM and Task Management software
+* Integrations with Business Growth tools (e.g., CMS, CRM, Task Management software)
 * Support for Deep Learning frameworks (e.g., TensorFlow, PyTorch, MXNet, JAX)
 * Interoperability with main Linux distributions (e.g., Ubuntu, Debian, CentOS)
 * API connectors (to blockchain networks, messaging services, databases, Open-Source AI models, third-party AI solutions, etc.)
