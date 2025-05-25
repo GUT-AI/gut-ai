@@ -1,20 +1,3 @@
-.. |br| raw:: html
-
-  <br/>
-
-.. |GUT-AI Initiative| raw:: html
-
-  <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Initiative">GUT-AI Initiative</a></strong>
-
-.. |GUT-AI Foundation| raw:: html
-
-  <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About">GUT-AI Foundation</a></strong>
-
-.. |ecosystem| raw:: html
-
-  <strong><a href="https://gutai.miraheze.org/wiki/Ecosystem">ecosystem</a></strong>
-
-
 GUT-AI [Work In Progress]
 =========================
 
@@ -341,3 +324,18 @@ License
 
 `Creative Commons Zero CC0 1.0 Universal (Public Domain) <LICENSE>`_
 
+.. |br| raw:: html
+
+  <br/>
+
+.. |GUT-AI Initiative| raw:: html
+
+  <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Initiative">GUT-AI Initiative</a></strong>
+
+.. |GUT-AI Foundation| raw:: html
+
+  <strong><a href="https://gutai.miraheze.org/wiki/GUT-AI_Foundation:About">GUT-AI Foundation</a></strong>
+
+.. |ecosystem| raw:: html
+
+  <strong><a href="https://gutai.miraheze.org/wiki/Ecosystem">ecosystem</a></strong>
