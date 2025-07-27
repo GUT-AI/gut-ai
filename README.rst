@@ -120,7 +120,7 @@ Selected publications
 ^^^^^^^^^^^^^^^^^^^^^
 
 - Kourouklides, I. (2022). Bayesian Deep Multi-Agent Multimodal Reinforcement Learning for Embedded Systems in Games, Natural Language Processing and Robotics. *OSF Preprints*. https://doi.org/10.31219/osf.io/sjrkh
-- Kourouklides, I., & Alexandrou, K. (2023). An Overview of GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations. *OSF Preprints*. https://doi.org/10.31219/osf.io/bxw4h
+- Kourouklides, I., Zukowski, I.K. Novak, & Alexandrou, K. (2023). An Overview of GUT-AI Foundation: Vision for an Ecosystem of Concepts and Implementations. *OSF Preprints*. https://doi.org/10.31219/osf.io/bxw4h
 
 The Problem
 --------------
