@@ -1,7 +1,3 @@
-.. |br| raw:: html
-
-  <br/>
-
 Components
 ==========
 
@@ -745,3 +741,7 @@ Component C5.12: Autonomous driving
 * `Grounded CV <#component-c4-3-grounded-cv>`_
 * `Multi-Robot Path Planning <#component-c4-12-multi-robot-path-planning>`_
 * `Grounded NLP <#component-c4-17-grounded-nlp>`_
+
+.. |br| raw:: html
+
+  <br/>
